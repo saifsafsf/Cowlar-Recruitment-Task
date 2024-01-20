@@ -1,0 +1,16 @@
+Indexing is used to optimize database design and performance, used on columns 
+frequently used in grouping, sorting, conditional retrieval or joining two tables.
+
+Significance:
+Using indexing provides following benefits:
+Accelerated Data Retrieval using WHERE Clause
+Increased Performance for ORDER BY Clause
+Improved Aggregations Performance
+Support for GROUP BY Clause
+Enhanced Join Performance
+
+Columns in customer_orders table for efficient querying:
+order_id
+customer_id
+product_id
+dates columns
