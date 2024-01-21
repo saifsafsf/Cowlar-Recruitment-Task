@@ -13,6 +13,7 @@ CREATE TABLE customer_dataset(
     unit_price FLOAT
 );
 
+-- place your csv file on the given filepath to make sure everything runs smoothly
 LOAD DATA INFILE "C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\customer_dataset.csv"
 INTO TABLE customer_dataset
 FIELDS TERMINATED BY ','

@@ -2,7 +2,7 @@
 // & store in the customers_dataset collection
 
 // NOTE: 
-// change the temporary collection name from temp_collection to your temporary collection name
+// change the temporary collection name from 'temp_collection' to your temporary collection name
 
 
 db.createCollection("customers_dataset");
