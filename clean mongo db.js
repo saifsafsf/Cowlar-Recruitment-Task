@@ -3,7 +3,7 @@
 
 // NOTE: 
 // change the temporary collection name from temp_collection to your temporary collection name
-// mongosh mongodb://localhost:27017/ --db <db-name> --collection <temp-collection-name> --type csv --file <csv-filepath> --headerline
+
 
 db.createCollection("customers_dataset");
 
