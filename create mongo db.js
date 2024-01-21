@@ -1,6 +1,13 @@
+// This script runs the mongo shell commands to clean the imported data and semi-normalize it
+// & store in the customers_dataset collection
+
+// NOTE: 
+// change the temporary collection name from temp_collection to your temporary collection name
+// mongosh mongodb://localhost:27017/ --db <db-name> --collection <temp-collection-name> --type csv --file <csv-filepath> --headerline
+
 db.createCollection("customers_dataset");
 
-db.temp_db.aggregate(
+db.temp_collection.aggregate(
     [
         {
             $group: {
@@ -78,4 +85,4 @@ db.temp_db.aggregate(
     ]
 );
 
-db.temp_db.drop();
+db.temp_collection.drop();
