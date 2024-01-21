@@ -4,9 +4,10 @@
 // NOTE: 
 // change the temporary collection name from 'temp_collection' to your temporary collection name
 
-
+// creating collection to store clean data
 db.createCollection("customers_dataset");
 
+// cleaning and semi-normalizing data
 db.temp_collection.aggregate(
     [
         {
@@ -85,4 +86,5 @@ db.temp_collection.aggregate(
     ]
 );
 
+// cleaning up
 db.temp_collection.drop();
