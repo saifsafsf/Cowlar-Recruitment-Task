@@ -19,4 +19,4 @@ mongosh mongodb://localhost:27017/cowlar --eval '
             ]
         }
     )
-'
+';
