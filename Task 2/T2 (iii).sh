@@ -1,5 +1,5 @@
 # NOTE: 
-# Replace "cowlar", "customers_dataset" with your db-name, collection-name respectively
+# Replace "cowlar", "customers_dataset" with your db-name & collection-name respectively
 
 mongosh mongodb://localhost:27017/cowlar --eval '
     db.customers_dataset.updateOne(
