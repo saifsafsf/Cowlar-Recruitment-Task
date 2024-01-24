@@ -1,0 +1,1310 @@
+pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest,family_name,title,alone,family_size,deck,persons_on_ticket,fare_per_head
+1,1,Elisabeth Walton,0,29.0,0,0,24160,211.3375,B5,0,2,survived,"St Louis, MO",Allen,1,1,1,1,4,52.834375
+1,1,Hudson Trevor,1,0.9167,1,2,113781,151.55,C22 C26,0,11,survived,"Montreal, PQ / Chesterville, ON",Allison,3,0,4,2,6,25.258333333333336
+1,0,Helen Loraine,0,2.0,1,2,113781,151.55,C22 C26,0,not_found,not_found,"Montreal, PQ / Chesterville, ON",Allison,1,0,4,2,6,25.258333333333336
+1,0,Hudson Joshua Creighton,1,30.0,1,2,113781,151.55,C22 C26,0,not_found,135.0,"Montreal, PQ / Chesterville, ON",Allison,0,0,4,2,6,25.258333333333336
+1,0,Hudson J C (Bessie Waldo Daniels),0,25.0,1,2,113781,151.55,C22 C26,0,not_found,not_found,"Montreal, PQ / Chesterville, ON",Allison,2,0,4,2,6,25.258333333333336
+1,1,Harry,1,48.0,0,0,19952,26.55,E12,0,3,survived,"New York, NY",Anderson,0,1,1,4,1,26.55
+1,1,Kornelia Theodosia,0,63.0,1,0,13502,77.9583,D7,0,10,survived,"Hudson, NY",Andrews,1,0,2,3,3,25.9861
+1,0,Thomas Jr,1,39.0,0,0,112050,0.0,A36,0,not_found,not_found,"Belfast, NI",Andrews,0,1,1,0,1,0.0
+1,1,Edward Dale (Charlotte Lamson),0,53.0,2,0,11769,51.4792,C101,0,D,survived,"Bayside, Queens, NY",Appleton,2,0,3,2,2,25.7396
+1,0,Ramon,1,71.0,0,0,PC 17609,49.5042,unknown,1,not_found,22.0,"Montevideo, Uruguay",Artagaveytia,0,1,1,8,1,49.5042
+1,0,John Jacob,1,47.0,1,0,PC 17757,227.525,C62 C64,1,not_found,124.0,"New York, NY",Astor,6,0,2,2,5,45.505
+1,1,John Jacob (Madeleine Talmadge Force),0,18.0,1,0,PC 17757,227.525,C62 C64,1,4,survived,"New York, NY",Astor,2,0,2,2,5,45.505
+1,1,Leontine Pauline,0,24.0,0,0,PC 17477,69.3,B35,1,9,survived,"Paris, France",Aubart,16,1,1,1,2,34.65
+1,1,"Ellen ""Nellie""",0,26.0,0,0,19877,78.85,unknown,0,6,survived,unknown,Barber,1,1,1,8,3,26.28333333333333
+1,1,Algernon Henry Wilson,1,80.0,0,0,27042,30.0,A23,0,B,survived,"Hessle, Yorks",Barkworth,0,1,1,0,1,30.0
+1,0,John D,1,43.925,0,0,PC 17318,25.925,unknown,0,not_found,not_found,"New York, NY",Baumann,0,1,1,8,1,25.925
+1,0,Quigg Edmond,1,24.0,0,1,PC 17558,247.5208,B58 B60,1,not_found,not_found,"Montreal, PQ",Baxter,0,0,2,1,3,82.50693333333334
+1,1,James (Helene DeLaudeniere Chaput),0,50.0,0,1,PC 17558,247.5208,B58 B60,1,6,survived,"Montreal, PQ",Baxter,2,0,2,1,3,82.50693333333334
+1,1,Albina,0,32.0,0,0,11813,76.2917,D15,1,8,survived,unknown,Bazzani,1,1,1,3,2,38.14585
+1,0,Thomson,1,36.0,0,0,13050,75.2417,C6,1,A,not_found,"Winnipeg, MN",Beattie,0,1,1,2,2,37.62085
+1,1,Richard Leonard,1,37.0,1,1,11751,52.5542,D35,0,5,survived,"New York, NY",Beckwith,0,0,3,3,2,26.2771
+1,1,Richard Leonard (Sallie Monypeny),0,47.0,1,1,11751,52.5542,D35,0,5,survived,"New York, NY",Beckwith,2,0,3,3,2,26.2771
+1,1,Karl Howell,1,26.0,0,0,111369,30.0,C148,1,5,survived,"New York, NY",Behr,0,1,1,2,1,30.0
+1,1,Rosalie,0,42.0,0,0,PC 17757,227.525,unknown,1,4,survived,unknown,Bidois,1,1,1,8,5,45.505
+1,1,Ellen,0,29.0,0,0,PC 17483,221.7792,C97,0,8,survived,unknown,Bird,1,1,1,2,4,55.4448
+1,0,Jakob,1,25.0,0,0,13905,26.0,unknown,1,not_found,148.0,"San Francisco, CA",Birnbaum,0,1,1,8,1,26.0
+1,1,Dickinson H,1,25.0,1,0,11967,91.0792,B49,1,7,survived,"Dowagiac, MI",Bishop,0,0,2,1,2,45.5396
+1,1,Dickinson H (Helen Walton),0,19.0,1,0,11967,91.0792,B49,1,7,survived,"Dowagiac, MI",Bishop,2,0,2,1,2,45.5396
+1,1,Amelia,0,35.0,0,0,PC 17760,135.6333,C99,0,8,survived,unknown,Bissette,1,1,1,2,4,33.908325
+1,1,Mauritz Hakan,1,28.0,0,0,110564,26.55,C52,0,D,survived,"Stockholm, Sweden / Washington, DC",Bjornstrom-Steffansson,0,1,1,2,1,26.55
+1,0,Stephen Weart,1,45.0,0,0,113784,35.5,T,0,not_found,not_found,"Trenton, NJ",Blackwell,0,1,1,7,1,35.5
+1,1,Henry,1,40.0,0,0,112277,31.0,A31,1,7,survived,"Glen Ridge, NJ",Blank,0,1,1,0,1,31.0
+1,1,Caroline,0,30.0,0,0,36928,164.8667,C7,0,8,survived,"Youngstown, OH",Bonnell,1,1,1,2,4,41.216675
+1,1,Elizabeth,0,58.0,0,0,113783,26.55,C103,0,8,survived,"Birkdale, England Cleveland, Ohio",Bonnell,1,1,1,2,1,26.55
+1,0,John James,1,42.0,0,0,110489,26.55,D22,0,not_found,not_found,"London / Winnipeg, MB",Borebank,0,1,1,3,1,26.55
+1,1,Grace Scott,0,45.0,0,0,PC 17608,262.375,unknown,1,4,survived,"Cooperstown, NY",Bowen,1,1,1,8,7,37.48214285714285
+1,1,Elsie Edith,0,22.0,0,1,113505,55.0,E33,0,6,survived,"St Leonards-on-Sea, England Ohio",Bowerman,1,0,2,4,2,27.5
+1,1,"George (""George Arthur Brayton"")",1,36.774692592592594,0,0,111427,26.55,unknown,0,9,survived,"Los Angeles, CA",Bradley,0,1,1,8,1,26.55
+1,0,John Bertram,1,41.0,0,0,113054,30.5,A21,0,not_found,not_found,"Pomeroy, WA",Brady,0,1,1,0,1,30.5
+1,0,Emil,1,48.0,0,0,PC 17591,50.4958,B10,1,not_found,208.0,"Omaha, NE",Brandeis,0,1,1,1,1,50.4958
+1,0,Arthur Jackson,1,43.21621621621622,0,0,112379,39.6,unknown,1,not_found,not_found,"Philadelphia, PA",Brewe,5,1,1,8,1,39.6
+1,1,James Joseph (Margaret Tobin),0,44.0,0,0,PC 17610,27.7208,B4,1,6,survived,"Denver, CO",Brown,2,1,1,1,1,27.7208
+1,1,John Murray (Caroline Lane Lamson),0,59.0,2,0,11769,51.4792,C101,0,D,survived,"Belmont, MA",Brown,2,0,3,2,2,25.7396
+1,1,William Robert (Emma Eliza Ward),0,60.0,0,0,11813,76.2917,D15,1,8,survived,"Philadelphia, PA",Bucknell,2,1,1,3,2,38.14585
+1,1,Elizabeth Margaret,0,41.0,0,0,16966,134.5,E40,1,3,survived,unknown,Burns,1,1,1,4,5,26.9
+1,0,Archibald Willingham,1,45.0,0,0,113050,26.55,B38,0,not_found,not_found,"Washington, DC",Butt,9,1,1,1,1,26.55
+1,0,Alexander,1,43.925,0,0,113798,31.0,unknown,0,not_found,not_found,unknown,Cairns,0,1,1,8,2,15.5
+1,1,Edward Pennington,1,42.0,0,0,PC 17476,26.2875,E24,0,5,survived,"New York, NY",Calderhead,0,1,1,4,1,26.2875
+1,1,Edward (Helen Churchill Hungerford),0,53.0,0,0,PC 17606,27.4458,unknown,1,6,survived,"Washington, DC",Candee,2,1,1,8,1,27.4458
+1,1,Thomas Drake Martinez,1,36.0,0,1,PC 17755,512.3292,B51 B53 B55,1,3,survived,"Austria-Hungary / Germantown, Philadelphia, PA",Cardeza,0,0,2,1,4,128.0823
+1,1,James Warburton Martinez (Charlotte Wardle Drake),0,58.0,0,1,PC 17755,512.3292,B51 B53 B55,1,3,survived,"Germantown, Philadelphia, PA",Cardeza,2,0,2,1,4,128.0823
+1,0,Frans Olof,1,33.0,0,0,695,5.0,B51 B53 B55,0,not_found,not_found,"New York, NY",Carlsson,0,1,1,1,1,5.0
+1,0,Francisco M,1,28.0,0,0,113059,47.1,unknown,0,not_found,not_found,"Montevideo, Uruguay",Carrau,0,1,1,8,2,23.55
+1,0,Jose Pedro,1,17.0,0,0,113059,47.1,unknown,0,not_found,not_found,"Montevideo, Uruguay",Carrau,0,1,1,8,2,23.55
+1,1,William Thornton II,1,11.0,1,2,113760,120.0,B96 B98,0,4,survived,"Bryn Mawr, PA",Carter,3,0,4,1,4,30.0
+1,1,Lucile Polk,0,14.0,1,2,113760,120.0,B96 B98,0,4,survived,"Bryn Mawr, PA",Carter,1,0,4,1,4,30.0
+1,1,William Ernest,1,36.0,1,2,113760,120.0,B96 B98,0,C,survived,"Bryn Mawr, PA",Carter,0,0,4,1,4,30.0
+1,1,William Ernest (Lucile Polk),0,36.0,1,2,113760,120.0,B96 B98,0,4,survived,"Bryn Mawr, PA",Carter,2,0,4,1,4,30.0
+1,0,Howard Brown,1,49.0,0,0,19924,26.0,unknown,0,not_found,not_found,"Ascot, Berkshire / Rochester, NY",Case,0,1,1,8,1,26.0
+1,1,Henry Arthur Jr (Eleanor Genevieve Fosdick),0,37.95238095238095,0,0,17770,27.7208,unknown,1,5,survived,"New York, NY",Cassebeer,2,1,1,8,1,27.7208
+1,0,Tyrell William,1,36.0,1,0,19877,78.85,C46,0,not_found,172.0,"Little Onn Hall, Staffs",Cavendish,0,0,2,2,3,26.28333333333333
+1,1,Tyrell William (Julia Florence Siegel),0,76.0,1,0,19877,78.85,C46,0,6,survived,"Little Onn Hall, Staffs",Cavendish,2,0,2,2,3,26.28333333333333
+1,0,Herbert Fuller,1,46.0,1,0,W.E.P. 5734,61.175,E31,0,not_found,not_found,"Amenia, ND",Chaffee,0,0,2,4,2,30.5875
+1,1,Herbert Fuller (Carrie Constance Toogood),0,47.0,1,0,W.E.P. 5734,61.175,E31,0,4,survived,"Amenia, ND",Chaffee,2,0,2,4,2,30.5875
+1,1,Norman Campbell,1,27.0,1,0,113806,53.1,E8,0,5,survived,"New York, NY / Ithaca, NY",Chambers,0,0,2,4,2,26.55
+1,1,Norman Campbell (Bertha Griggs),0,33.0,1,0,113806,53.1,E8,0,5,survived,"New York, NY / Ithaca, NY",Chambers,2,0,2,4,2,26.55
+1,1,Victorine,0,36.0,0,0,PC 17608,262.375,B61,1,4,survived,unknown,Chaudanson,1,1,1,1,7,37.48214285714285
+1,1,Gladys,0,30.0,0,0,110152,86.5,B77,0,8,survived,"London, England",Cherry,1,1,1,1,3,28.83333333333333
+1,1,Paul Romaine,1,45.0,0,0,PC 17594,29.7,A9,1,7,survived,"Paris, France",Chevre,0,1,1,0,1,29.7
+1,1,(Edith Martha Bowerman),0,35.885245901639344,0,1,113505,55.0,E33,0,6,survived,"St Leonards-on-Sea, England Ohio",Chibnall,2,0,2,4,2,27.5
+1,0,Roderick Robert Crispin,1,43.925,0,0,112051,0.0,unknown,0,not_found,not_found,"Liverpool, England / Belfast",Chisholm,0,1,1,8,1,0.0
+1,0,Walter Miller,1,27.0,1,0,13508,136.7792,C89,1,not_found,not_found,"Los Angeles, CA",Clark,0,0,2,2,2,68.3896
+1,1,Walter Miller (Virginia McDowell),0,26.0,1,0,13508,136.7792,C89,1,4,survived,"Los Angeles, CA",Clark,2,0,2,2,2,68.3896
+1,1,Alice,0,22.0,0,0,113781,151.55,unknown,0,11,survived,unknown,Cleaver,1,1,1,8,6,25.258333333333336
+1,0,George Quincy,1,43.925,0,0,110465,52.0,A14,0,not_found,not_found,"Stoughton, MA",Clifford,0,1,1,0,2,26.0
+1,0,Edward Pomeroy,1,47.0,0,0,5727,25.5875,E58,0,not_found,not_found,"Victoria, BC",Colley,0,1,1,4,1,25.5875
+1,1,Sara Rebecca,0,39.0,1,1,PC 17756,83.1583,E49,1,14,survived,"Lakewood, NJ",Compton,1,0,3,4,3,27.71943333333333
+1,0,Alexander Taylor Jr,1,37.0,1,1,PC 17756,83.1583,E52,1,not_found,not_found,"Lakewood, NJ",Compton,0,0,3,4,3,27.71943333333333
+1,1,Alexander Taylor (Mary Eliza Ingersoll),0,64.0,0,2,PC 17756,83.1583,E45,1,14,survived,"Lakewood, NJ",Compton,2,0,3,4,3,27.71943333333333
+1,1,Robert Clifford (Malvina Helen Lamson),0,55.0,2,0,11770,25.7,C101,0,2,survived,"New York, NY",Cornell,2,0,3,2,1,25.7
+1,0,John Bertram,1,43.925,0,0,113791,26.55,unknown,0,not_found,not_found,"Roachdale, IN",Crafton,0,1,1,8,1,26.55
+1,0,Edward Gifford,1,70.0,1,1,WE/P 5735,71.0,B22,0,not_found,269.0,"Milwaukee, WI",Crosby,10,0,3,1,2,35.5
+1,1,Harriet R,0,36.0,0,2,WE/P 5735,71.0,B22,0,7,survived,"Milwaukee, WI",Crosby,1,0,3,1,2,35.5
+1,1,Edward Gifford (Catherine Elizabeth Halstead),0,64.0,1,1,112901,26.55,B26,0,7,survived,"Milwaukee, WI",Crosby,2,0,3,1,1,26.55
+1,0,John Bradley,1,39.0,1,0,PC 17599,71.2833,C85,1,not_found,not_found,"New York, NY",Cumings,0,0,2,2,2,35.64165
+1,1,John Bradley (Florence Briggs Thayer),0,38.0,1,0,PC 17599,71.2833,C85,1,4,survived,"New York, NY",Cumings,2,0,2,2,2,35.64165
+1,1,Peter Denis ,1,51.0,0,0,113055,26.55,E17,0,5 9,survived,"Lima, Peru",Daly,0,1,1,4,1,26.55
+1,1,Robert Williams,1,27.0,0,0,113804,30.5,unknown,0,3,survived,"Philadelphia, PA",Daniel,0,1,1,8,1,30.5
+1,1,Sarah,0,33.0,0,0,113781,151.55,unknown,0,8,survived,unknown,Daniels,1,1,1,8,6,25.258333333333336
+1,0,Thornton,1,31.0,1,0,F.C. 12750,52.0,B71,0,not_found,not_found,"Montreal, PQ",Davidson,0,0,2,1,2,26.0
+1,1,Thornton (Orian Hays),0,27.0,1,2,F.C. 12750,52.0,B71,0,3,survived,"Montreal, PQ",Davidson,2,0,4,1,2,26.0
+1,1,Albert Adrian,1,31.0,1,0,17474,57.0,B20,0,3,survived,"Calgary, AB",Dick,0,0,2,1,2,28.5
+1,1,Albert Adrian (Vera Gillespie),0,17.0,1,0,17474,57.0,B20,0,3,survived,"Calgary, AB",Dick,2,0,2,1,2,28.5
+1,1,Washington,1,53.0,1,1,33638,81.8583,A34,0,13,survived,"San Francisco, CA",Dodge,5,0,3,0,3,27.2861
+1,1,Washington,1,4.0,0,2,33638,81.8583,A34,0,5,survived,"San Francisco, CA",Dodge,3,0,3,0,3,27.2861
+1,1,Washington (Ruth Vidaver),0,54.0,1,1,33638,81.8583,A34,0,5,survived,"San Francisco, CA",Dodge,2,0,3,0,3,27.2861
+1,0,Walter Donald,1,50.0,1,0,PC 17761,106.425,C86,1,not_found,62.0,"Deephaven, MN / Cedar Rapids, IA",Douglas,0,0,2,2,3,35.475
+1,1,Frederick Charles (Mary Helene Baxter),0,27.0,1,1,PC 17558,247.5208,B58 B60,1,6,survived,"Montreal, PQ",Douglas,2,0,3,1,3,82.50693333333334
+1,1,Walter Donald (Mahala Dutton),0,48.0,1,0,PC 17761,106.425,C86,1,2,survived,"Deephaven, MN / Cedar Rapids, IA",Douglas,2,0,2,2,3,35.475
+1,1,"(Lucille Christiana Sutherland) (""Mrs Morgan"")",0,48.0,1,0,11755,39.6,A16,1,1,survived,London / Paris,Duff Gordon,17,0,2,0,1,39.6
+1,1,"Cosmo Edmund (""Mr Morgan"")",1,49.0,1,0,PC 17485,56.9292,A20,1,1,survived,London / Paris,Duff Gordon,11,0,2,0,2,28.4646
+1,0,William Crothers,1,39.0,0,0,PC 17580,29.7,A18,1,not_found,133.0,"Philadelphia, PA",Dulles,0,1,1,0,1,29.7
+1,1,Boulton (Olive Potter),0,23.0,0,1,11767,83.1583,C54,1,7,survived,"Mt Airy, Philadelphia, PA",Earnshaw,2,0,2,2,3,27.71943333333333
+1,1,Caroline Louise,0,38.0,0,0,PC 17757,227.525,C45,1,4,survived,"New York, NY",Endres,1,1,1,2,5,45.505
+1,1,Elizabeth Mussey,0,54.0,1,0,36947,78.2667,D20,1,4,survived,"Brookline, MA",Eustis,1,0,2,3,2,39.13335
+1,0,Edith Corse,0,36.0,0,0,PC 17531,31.6792,A29,1,not_found,not_found,"New York, NY",Evans,1,1,1,0,1,31.6792
+1,0,John,1,43.925,0,0,PC 17483,221.7792,C95,0,not_found,not_found,unknown,Farthing,0,1,1,2,4,55.4448
+1,1,Alfred (Antoinette),0,35.885245901639344,0,0,PC 17598,31.6833,unknown,0,7,survived,"New York, NY",Flegenheim,2,1,1,8,1,31.6833
+1,1,Margaret,0,37.95238095238095,0,0,17421,110.8833,unknown,1,4,survived,unknown,Fleming,1,1,1,8,4,27.720825
+1,1,"John Irwin (""Irving"")",1,36.0,0,0,PC 17474,26.3875,E25,0,5,survived,"Brooklyn, NY",Flynn,0,1,1,4,1,26.3875
+1,0,Benjamin Laventall,1,30.0,0,0,113051,27.75,C111,1,not_found,not_found,"New York, NY",Foreman,0,1,1,2,1,27.75
+1,1,Alice Elizabeth,0,24.0,3,2,19950,263.0,C23 C25 C27,0,10,survived,"Winnipeg, MB",Fortune,1,0,6,2,6,43.833333333333336
+1,1,Ethel Flora,0,28.0,3,2,19950,263.0,C23 C25 C27,0,10,survived,"Winnipeg, MB",Fortune,1,0,6,2,6,43.833333333333336
+1,1,Mabel Helen,0,23.0,3,2,19950,263.0,C23 C25 C27,0,10,survived,"Winnipeg, MB",Fortune,1,0,6,2,6,43.833333333333336
+1,0,Charles Alexander,1,19.0,3,2,19950,263.0,C23 C25 C27,0,not_found,not_found,"Winnipeg, MB",Fortune,0,0,6,2,6,43.833333333333336
+1,0,Mark,1,64.0,1,4,19950,263.0,C23 C25 C27,0,not_found,not_found,"Winnipeg, MB",Fortune,0,0,6,2,6,43.833333333333336
+1,1,Mark (Mary McDougald),0,60.0,1,4,19950,263.0,C23 C25 C27,0,10,survived,"Winnipeg, MB",Fortune,2,0,6,2,6,43.833333333333336
+1,1,Laura Mabel,0,30.0,0,0,PC 17485,56.9292,E36,1,1,survived,unknown,Francatelli,1,1,1,4,2,28.4646
+1,0,Thomas Parham,1,43.925,0,0,113778,26.55,D34,0,not_found,not_found,"Westcliff-on-Sea, Essex",Franklin,0,1,1,3,1,26.55
+1,1,Henry William,1,50.0,2,0,PC 17611,133.65,unknown,0,5,survived,"New York, NY",Frauenthal,5,0,3,8,2,66.825
+1,1,Isaac Gerald,1,43.0,1,0,17765,27.7208,D40,1,5,survived,"New York, NY",Frauenthal,0,0,2,3,1,27.7208
+1,1,Henry William (Clara Heinsheimer),0,35.885245901639344,1,0,PC 17611,133.65,unknown,0,5,survived,"New York, NY",Frauenthal,2,0,2,8,2,66.825
+1,1,Hedwig Margaritha,0,22.0,0,2,13568,49.5,B39,1,5,survived,"Zurich, Switzerland",Frolicher,1,0,3,1,1,49.5
+1,1,Maxmillian,1,60.0,1,1,13567,79.2,B41,1,5,survived,"Zurich, Switzerland",Frolicher-Stehli,0,0,3,1,2,39.6
+1,1,Maxmillian (Margaretha Emerentia Stehli),0,48.0,1,1,13567,79.2,B41,1,5,survived,"Zurich, Switzerland",Frolicher-Stehli,2,0,3,1,2,39.6
+1,0,Richard,1,43.925,0,0,112058,0.0,B102,0,not_found,not_found,unknown,Fry,0,1,1,1,2,0.0
+1,0,Jacques Heath,1,37.0,1,0,113803,53.1,C123,0,not_found,not_found,"Scituate, MA",Futrelle,0,0,2,2,2,26.55
+1,1,Jacques Heath (Lily May Peel),0,35.0,1,0,113803,53.1,C123,0,D,survived,"Scituate, MA",Futrelle,2,0,2,2,2,26.55
+1,0,Arthur H,1,47.0,0,0,111320,38.5,E63,0,not_found,275.0,"St Anne's-on-Sea, Lancashire",Gee,0,1,1,4,1,38.5
+1,1,Amalie,0,35.0,0,0,113503,211.5,C130,1,4,survived,unknown,Geiger,1,1,1,2,5,42.3
+1,1,Dorothy Winifred,0,22.0,0,1,112378,59.4,unknown,1,7,survived,"New York, NY",Gibson,1,0,2,8,2,29.7
+1,1,Leonard (Pauline C Boeson),0,45.0,0,1,112378,59.4,unknown,1,7,survived,"New York, NY",Gibson,2,0,2,8,2,29.7
+1,0,Victor,1,24.0,0,0,PC 17593,79.2,B86,1,not_found,not_found,unknown,Giglio,0,1,1,1,2,39.6
+1,1,Samuel L,1,49.0,1,0,17453,89.1042,C92,1,5,survived,"Paris, France / New York, NY",Goldenberg,0,0,2,2,2,44.5521
+1,1,Samuel L (Edwiga Grabowska),0,37.95238095238095,1,0,17453,89.1042,C92,1,5,survived,"Paris, France / New York, NY",Goldenberg,2,0,2,2,2,44.5521
+1,0,George B,1,71.0,0,0,PC 17754,34.6542,A5,1,not_found,not_found,"New York, NY",Goldschmidt,0,1,1,0,1,34.6542
+1,1,Archibald IV,1,53.0,0,0,113780,28.5,C51,1,B,survived,"Washington, DC",Gracie,6,1,1,2,1,28.5
+1,1,Margaret Edith,0,19.0,0,0,112053,30.0,B42,0,3,survived,"Greenwich, CT",Graham,1,1,1,1,1,30.0
+1,0,George Edward,1,38.0,0,1,PC 17582,153.4625,C91,0,not_found,147.0,"Winnipeg, MB",Graham,0,0,2,2,3,51.15416666666667
+1,1,William Thompson (Edith Junkins),0,58.0,0,1,PC 17582,153.4625,C125,0,3,survived,"Greenwich, CT",Graham,2,0,2,2,3,51.15416666666667
+1,1,William Bertram,1,23.0,0,1,PC 17759,63.3583,D10 D12,1,7,survived,"New York, NY",Greenfield,0,0,2,3,2,31.67915
+1,1,Leo David (Blanche Strouse),0,45.0,0,1,PC 17759,63.3583,D10 D12,1,7,survived,"New York, NY",Greenfield,2,0,2,3,2,31.67915
+1,0,Benjamin,1,46.0,0,0,PC 17593,79.2,B82 B84,1,not_found,not_found,"New York, NY",Guggenheim,0,1,1,1,2,39.6
+1,1,George Achilles,1,25.0,1,0,11765,55.4417,E50,1,5,survived,"Brooklyn, NY",Harder,0,0,2,4,2,27.72085
+1,1,George Achilles (Dorothy Annan),0,25.0,1,0,11765,55.4417,E50,1,5,survived,"Brooklyn, NY",Harder,2,0,2,4,2,27.72085
+1,1,Henry Sleeper,1,48.0,1,0,PC 17572,76.7292,D33,1,3,survived,"New York, NY",Harper,0,0,2,3,3,25.576400000000003
+1,1,Henry Sleeper (Myna Haxtun),0,49.0,1,0,PC 17572,76.7292,D33,1,3,survived,"New York, NY",Harper,2,0,2,3,3,25.576400000000003
+1,0,Charles H,1,43.925,0,0,113796,42.4,unknown,0,not_found,not_found,unknown,Harrington,0,1,1,8,2,21.2
+1,0,Henry Birkhardt,1,45.0,1,0,36973,83.475,C83,0,not_found,not_found,"New York, NY",Harris,0,0,2,2,2,41.7375
+1,1,Henry Birkhardt (Irene Wallach),0,35.0,1,0,36973,83.475,C83,0,D,survived,"New York, NY",Harris,2,0,2,2,2,41.7375
+1,0,William,1,40.0,0,0,112059,0.0,B94,0,not_found,110.0,unknown,Harrison,0,1,1,1,1,0.0
+1,1,Hammad,1,27.0,0,0,PC 17572,76.7292,D49,1,3,survived,unknown,Hassab,0,1,1,3,3,25.576400000000003
+1,1,Walter James,1,36.774692592592594,0,0,16988,30.0,D45,0,3,survived,"Kingston, Surrey",Hawksford,0,1,1,3,1,30.0
+1,1,Margaret Bechstein,0,24.0,0,0,11767,83.1583,C54,1,7,survived,"New York, NY",Hays,1,1,1,2,3,27.71943333333333
+1,0,Charles Melville,1,55.0,1,1,12749,93.5,B69,0,not_found,307.0,"Montreal, PQ",Hays,0,0,3,1,4,23.375
+1,1,Charles Melville (Clara Jennings Gregg),0,52.0,1,1,12749,93.5,B69,0,3,survived,"Montreal, PQ",Hays,2,0,3,1,4,23.375
+1,0,Christopher,1,42.0,0,0,113038,42.5,B11,0,not_found,not_found,London / Middlesex,Head,0,1,1,1,1,42.5
+1,0,Herbert Henry,1,43.925,0,0,17463,51.8625,E46,0,not_found,not_found,"Brighton, MA",Hilliard,0,1,1,4,2,25.93125
+1,0,William Edward,1,55.0,0,0,680,50.0,C39,0,not_found,not_found,London / Birmingham,Hipkins,0,1,1,2,1,50.0
+1,1,Jean Gertrude,0,16.0,0,1,111361,57.9792,B18,1,4,survived,"Chicago, IL",Hippach,1,0,2,1,2,28.9896
+1,1,Louis Albert (Ida Sophia Fischer),0,44.0,0,1,111361,57.9792,B18,1,4,survived,"Chicago, IL",Hippach,2,0,2,1,2,28.9896
+1,1,John C (Anna Andrews),0,51.0,1,0,13502,77.9583,D11,0,10,survived,"Hudson, NY",Hogeboom,2,0,2,3,3,25.9861
+1,0,Alexander Oskar,1,42.0,1,0,113789,52.0,unknown,0,not_found,38.0,"New York, NY",Holverson,0,0,2,8,2,26.0
+1,1,Alexander Oskar (Mary Aline Towner),0,35.0,1,0,113789,52.0,unknown,0,8,survived,"New York, NY",Holverson,2,0,2,8,2,26.0
+1,1,"Harry (""Mr E Haven"")",1,35.0,0,0,111426,26.55,unknown,1,15,survived,"Indianapolis, IN",Homer,0,1,1,8,1,26.55
+1,1,Frederick Maxfield,1,38.0,1,0,19943,90.0,C93,0,D,survived,"New York, NY /  Stamford CT",Hoyt,0,0,2,2,2,45.0
+1,0,William Fisher,1,43.21621621621622,0,0,PC 17600,30.6958,unknown,1,14,not_found,"New York, NY",Hoyt,0,1,1,8,1,30.6958
+1,1,Frederick Maxfield (Jane Anne Forby),0,35.0,1,0,19943,90.0,C93,0,D,survived,"New York, NY /  Stamford CT",Hoyt,2,0,2,2,2,45.0
+1,1,Amelie,0,38.0,0,0,113572,80.0,B28,0,6,survived,unknown,Icard,1,1,1,1,2,40.0
+1,0,Ann Elizabeth,0,50.0,0,0,PC 17595,28.7125,C49,1,not_found,not_found,"Paris, France New York, NY",Isham,1,1,1,2,1,28.7125
+1,1,Joseph Bruce,1,49.0,0,0,112058,0.0,B52 B54 B56,0,C,survived,Liverpool,Ismay,0,1,1,1,2,0.0
+1,0,Charles Cresson,1,46.0,0,0,694,26.0,unknown,0,not_found,80.0,"Bennington, VT",Jones,0,1,1,8,1,26.0
+1,0,Henry Forbes,1,50.0,0,0,113044,26.0,E60,0,not_found,not_found,London,Julian,0,1,1,4,1,26.0
+1,0,Edwin,1,32.5,0,0,113503,211.5,C132,1,not_found,45.0,unknown,Keeping,0,1,1,2,5,42.3
+1,0,Edward Austin,1,58.0,0,0,11771,29.7,B37,1,not_found,258.0,"Buffalo, NY",Kent,0,1,1,1,1,29.7
+1,0,Frederick R,1,41.0,1,0,17464,51.8625,D21,0,not_found,not_found,"Southington / Noank, CT",Kenyon,0,0,2,3,2,25.93125
+1,1,Frederick R (Marion),0,35.885245901639344,1,0,17464,51.8625,D21,0,8,survived,"Southington / Noank, CT",Kenyon,2,0,2,3,2,25.93125
+1,1,Edwin Nelson Jr,1,42.0,1,0,11753,52.5542,D19,0,5,survived,"Boston, MA",Kimball,0,0,2,3,2,26.2771
+1,1,Edwin Nelson Jr (Gertrude Parsons),0,45.0,1,0,11753,52.5542,D19,0,5,survived,"Boston, MA",Kimball,2,0,2,3,2,26.2771
+1,0,Herman,1,43.925,0,0,113028,26.55,C124,0,not_found,not_found,"Portland, OR",Klaber,0,1,1,2,1,26.55
+1,1,Emilie,0,39.0,0,0,24160,211.3375,unknown,0,2,survived,unknown,Kreuchen,1,1,1,8,4,52.834375
+1,1,Alice (Farnham),0,49.0,0,0,17465,25.9292,D17,0,8,survived,"New York, NY",Leader,5,1,1,3,1,25.9292
+1,1,Bertha,0,30.0,0,0,PC 17761,106.425,unknown,1,2,survived,unknown,LeRoy,1,1,1,8,3,35.475
+1,1,Gustave J,1,35.0,0,0,PC 17755,512.3292,B101,1,3,survived,unknown,Lesurer,0,1,1,1,4,128.0823
+1,0,Ervin G,1,43.21621621621622,0,0,PC 17612,27.7208,unknown,1,not_found,not_found,"Chicago, IL",Lewy,0,1,1,8,1,27.7208
+1,0,"Erik Gustaf (""Mr Edward Lingrey"")",1,42.0,0,0,17475,26.55,unknown,0,not_found,not_found,"Stockholm, Sweden",Lindeberg-Lind,0,1,1,8,1,26.55
+1,1,Carl Johan (Sigrid Posse),0,55.0,0,0,112377,27.7208,unknown,1,6,survived,"Stockholm, Sweden",Lindstrom,2,1,1,8,1,27.7208
+1,1,Mary Conover,0,16.0,0,1,PC 17592,39.4,D28,0,9,survived,"Paris, France",Lines,1,0,2,3,2,19.7
+1,1,Ernest H (Elizabeth Lindsey James),0,51.0,0,1,PC 17592,39.4,D28,0,9,survived,"Paris, France",Lines,2,0,2,3,2,19.7
+1,0,Milton Clyde,1,29.0,0,0,113501,30.0,D6,0,not_found,126.0,"Springfield, MA",Long,0,1,1,3,1,30.0
+1,1,Gretchen Fiske,0,21.0,0,0,13502,77.9583,D9,0,10,survived,"Hudson, NY",Longley,1,1,1,3,3,25.9861
+1,0,Joseph Holland,1,30.0,0,0,113801,45.5,unknown,0,not_found,not_found,"London / New York, NY",Loring,0,1,1,8,1,45.5
+1,1,Elise,0,58.0,0,0,PC 17569,146.5208,B80,1,boat_unknown,survived,unknown,Lurette,1,1,1,1,3,48.84026666666667
+1,1,Georgette Alexandra,0,15.0,0,1,24160,211.3375,B5,0,2,survived,"St Louis, MO",Madill,1,0,2,1,4,52.834375
+1,0,John Edward,1,30.0,0,0,110469,26.0,C106,0,not_found,not_found,"Brockton, MA",Maguire,0,1,1,2,1,26.0
+1,1,Roberta,0,16.0,0,0,110152,86.5,B79,0,8,survived,unknown,Maioni,1,1,1,1,3,28.83333333333333
+1,1,Pierre,1,35.53846153846154,0,0,11774,29.7,C47,1,7,survived,"Paris, France",Marechal,0,1,1,2,1,29.7
+1,0,Daniel Warner,1,19.0,1,0,113773,53.1,D30,0,not_found,not_found,"New York, NY",Marvin,0,0,2,3,2,26.55
+1,1,Daniel Warner (Mary Graham Carmichael Farquarson),0,18.0,1,0,113773,53.1,D30,0,10,survived,"New York, NY",Marvin,2,0,2,3,2,26.55
+1,1,"Berthe Antonine (""Mrs de Villiers"")",0,24.0,0,0,PC 17482,49.5042,C90,1,6,survived,"Belgium  Montreal, PQ",Mayne,7,1,1,2,1,49.5042
+1,0,Thomas Francis,1,46.0,0,0,13050,75.2417,C6,1,not_found,292.0,"Vancouver, BC",McCaffry,0,1,1,2,2,37.62085
+1,0,Timothy J,1,54.0,0,0,17463,51.8625,E46,0,not_found,175.0,"Dorchester, MA",McCarthy,0,1,1,4,2,25.93125
+1,1,James Robert,1,36.0,0,0,PC 17473,26.2875,E25,0,7,survived,"Philadelphia, PA",McGough,0,1,1,4,1,26.2875
+1,0,Edgar Joseph,1,28.0,1,0,PC 17604,82.1708,unknown,1,not_found,not_found,"New York, NY",Meyer,0,0,2,8,2,41.0854
+1,1,Edgar Joseph (Leila Saks),0,37.95238095238095,1,0,PC 17604,82.1708,unknown,1,6,survived,"New York, NY",Meyer,2,0,2,8,2,41.0854
+1,0,Francis Davis,1,65.0,0,0,13509,26.55,E38,0,not_found,249.0,"East Bridgewater, MA",Millet,0,1,1,4,1,26.55
+1,0,William Edward,1,44.0,2,0,19928,90.0,C78,2,not_found,230.0,"Fond du Lac, WI",Minahan,5,0,3,2,3,30.0
+1,1,Daisy E,0,33.0,1,0,19928,90.0,C78,2,14,survived,"Green Bay, WI",Minahan,1,0,2,2,3,30.0
+1,1,William Edward (Lillian E Thorpe),0,37.0,1,0,19928,90.0,C78,2,14,survived,"Fond du Lac, WI",Minahan,2,0,2,2,3,30.0
+1,1,Philipp Edmund,1,30.0,1,0,13236,57.75,C78,1,11,survived,"New York, NY",Mock,0,0,2,2,2,28.875
+1,0,Harry Markland,1,55.0,0,0,113787,30.5,C30,0,not_found,not_found,"Montreal, PQ",Molson,0,1,1,2,1,30.5
+1,0,Clarence Bloomfield,1,47.0,0,0,113796,42.4,unknown,0,not_found,not_found,"Washington, DC",Moore,0,1,1,8,2,21.2
+1,0,Charles H,1,37.0,0,1,PC 17596,29.7,C118,1,not_found,not_found,"Brooklyn, NY",Natsch,0,0,2,2,1,29.7
+1,1,Madeleine,0,31.0,1,0,35273,113.275,D36,1,6,survived,"Lexington, MA",Newell,1,0,2,3,3,37.75833333333333
+1,1,Marjorie,0,23.0,1,0,35273,113.275,D36,1,6,survived,"Lexington, MA",Newell,1,0,2,3,3,37.75833333333333
+1,0,Arthur Webster,1,58.0,0,2,35273,113.275,D48,1,not_found,122.0,"Lexington, MA",Newell,0,0,3,3,3,37.75833333333333
+1,1,Helen Monypeny,0,19.0,0,2,11752,26.2833,D47,0,5,survived,"New York, NY",Newsom,1,0,3,3,1,26.2833
+1,0,Arthur Ernest,1,64.0,0,0,693,26.0,unknown,0,not_found,263.0,"Isle of Wight, England",Nicholson,0,1,1,8,1,26.0
+1,1,Fermina,0,39.0,0,0,PC 17758,108.9,C105,1,8,survived,unknown,Oliva y Ocana,12,1,1,2,3,36.3
+1,1,Alfred Fernand,1,35.53846153846154,0,0,F.C. 12998,25.7417,unknown,1,7,survived,"Paris, France",Omont,0,1,1,8,1,25.7417
+1,1,Helene Ragnhild,0,22.0,0,1,113509,61.9792,B36,1,5,survived,"Providence, RI",Ostby,1,0,2,1,2,30.9896
+1,0,Engelhart Cornelius,1,65.0,0,1,113509,61.9792,B30,1,not_found,234.0,"Providence, RI",Ostby,0,0,2,1,2,30.9896
+1,0,Servando,1,28.5,0,0,PC 17562,27.7208,D43,1,not_found,189.0,"?Havana, Cuba",Ovies y Rodriguez,0,1,1,3,1,27.7208
+1,0,William Henry Marsh,1,43.925,0,0,112052,0.0,unknown,0,not_found,not_found,Belfast,Parr,0,1,1,8,1,0.0
+1,0,Austen,1,45.5,0,0,113043,28.5,C124,0,not_found,166.0,"Surbiton Hill, Surrey",Partner,0,1,1,2,1,28.5
+1,0,Vivian Ponsonby,1,23.0,0,0,12749,93.5,B24,0,not_found,not_found,"Montreal, PQ",Payne,0,1,1,1,4,23.375
+1,0,Thomas Clinton,1,29.0,1,0,113776,66.6,C2,0,not_found,not_found,"Isleworth, England",Pears,0,0,2,2,2,33.3
+1,1,Thomas (Edith Wearne),0,22.0,1,0,113776,66.6,C2,0,8,survived,"Isleworth, England",Pears,2,0,2,2,2,33.3
+1,0,Victor de Satode,1,18.0,1,0,PC 17758,108.9,C65,1,not_found,not_found,"Madrid, Spain",Penasco y Castellana,0,0,2,2,3,36.3
+1,1,Victor de Satode (Maria Josefa Perez de Soto y Vallejo),0,17.0,1,0,PC 17758,108.9,C65,1,8,survived,"Madrid, Spain",Penasco y Castellana,2,0,2,2,3,36.3
+1,1,Anne,0,30.0,0,0,12749,93.5,B73,0,3,survived,unknown,Perreault,1,1,1,1,4,23.375
+1,1,Arthur Godfrey,1,52.0,0,0,113786,30.5,C104,0,6,survived,"Toronto, ON",Peuchen,9,1,1,2,1,30.5
+1,0,Walter Chamberlain,1,47.0,0,0,110465,52.0,C110,0,not_found,207.0,"Worcester, MA",Porter,0,1,1,2,2,26.0
+1,1,Thomas Jr (Lily Alexenia Wilson),0,56.0,0,1,11767,83.1583,C50,1,7,survived,"Mt Airy, Philadelphia, PA",Potter,2,0,2,2,3,27.71943333333333
+1,0,John George,1,38.0,0,0,19972,0.0,unknown,0,not_found,not_found,"Rotterdam, Netherlands",Reuchlin,13,1,1,8,1,0.0
+1,1,George Alexander Lucien,1,36.774692592592594,0,0,PC 17607,39.6,unknown,0,A,survived,"Paris /  New York, NY",Rheims,0,1,1,8,1,39.6
+1,0,Sante,1,22.0,0,0,PC 17760,135.6333,unknown,1,not_found,232.0,unknown,Ringhini,0,1,1,8,4,33.908325
+1,0,Victor,1,43.21621621621622,0,0,PC 17757,227.525,unknown,1,not_found,not_found,unknown,Robbins,0,1,1,8,5,45.505
+1,1,Edward Scott (Elisabeth Walton McMillan),0,43.0,0,1,24160,211.3375,B3,0,2,survived,"St Louis, MO",Robert,2,0,2,1,4,52.834375
+1,0,Washington Augustus II,1,31.0,0,0,PC 17590,50.4958,A24,0,not_found,not_found,"Trenton, NJ",Roebling,0,1,1,0,1,50.4958
+1,1,"Charles Hallace (""Mr C Rolmane"")",1,45.0,0,0,111428,26.55,unknown,0,9,survived,"New York, NY",Romaine,0,1,1,8,1,26.55
+1,0,Hugh Roscoe,1,43.925,0,0,113767,50.0,A32,0,not_found,not_found,"Seattle, WA",Rood,0,1,1,0,1,50.0
+1,1,Edith Louise,0,33.0,0,0,PC 17613,27.7208,A11,1,11,survived,"Paris, France",Rosenbaum,1,1,1,0,1,27.7208
+1,0,"George (""Mr George Thorne"")",1,46.0,0,0,PC 17585,79.2,unknown,1,not_found,16.0,"New York, NY",Rosenshine,0,1,1,8,2,39.6
+1,0,John Hugo,1,36.0,0,0,13049,40.125,A10,1,not_found,not_found,"Winnipeg, MB",Ross,0,1,1,0,1,40.125
+1,1,of (Lucy Noel Martha Dyer-Edwards),0,33.0,0,0,110152,86.5,B77,0,8,survived,"London  Vancouver, BC",Rothes,14,1,1,1,3,28.83333333333333
+1,0,Martin,1,55.0,1,0,PC 17603,59.4,unknown,1,not_found,not_found,"New York, NY",Rothschild,0,0,2,8,2,29.7
+1,1,Martin (Elizabeth L,0,54.0,1,0,PC 17603,59.4,unknown,1,6,survived,"New York, NY",Rothschild,2,0,2,8,2,29.7
+1,0,Alfred G,1,33.0,0,0,113790,26.55,unknown,0,not_found,109.0,London,Rowe,0,1,1,8,1,26.55
+1,1,John Borie,1,13.0,2,2,PC 17608,262.375,B57 B59 B63 B66,1,4,survived,"Haverford, PA / Cooperstown, NY",Ryerson,3,0,5,1,7,37.48214285714285
+1,1,Emily Borie,0,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,1,4,survived,"Haverford, PA / Cooperstown, NY",Ryerson,1,0,5,1,7,37.48214285714285
+1,1,"Susan Parker ""Suzette""",0,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,1,4,survived,"Haverford, PA / Cooperstown, NY",Ryerson,1,0,5,1,7,37.48214285714285
+1,0,Arthur Larned,1,61.0,1,3,PC 17608,262.375,B57 B59 B63 B66,1,not_found,not_found,"Haverford, PA / Cooperstown, NY",Ryerson,0,0,5,1,7,37.48214285714285
+1,1,Arthur Larned (Emily Maria Borie),0,48.0,1,3,PC 17608,262.375,B57 B59 B63 B66,1,4,survived,"Haverford, PA / Cooperstown, NY",Ryerson,2,0,5,1,7,37.48214285714285
+1,1,Adolphe,1,36.774692592592594,0,0,19988,30.5,C106,0,3,survived,"Manchester, England",Saalfeld,0,1,1,2,1,30.5
+1,1,Emma,0,24.0,0,0,PC 17477,69.3,B35,1,9,survived,unknown,Sagesser,7,1,1,1,2,34.65
+1,1,Abraham L,1,36.774692592592594,0,0,111163,26.0,unknown,0,1,survived,"New York, NY",Salomon,0,1,1,8,1,26.0
+1,1,Paul (Emma Mock),0,35.0,1,0,13236,57.75,C28,1,11,survived,"New York, NY",Schabert,2,0,2,2,2,28.875
+1,1,Augusta,0,30.0,0,0,113798,31.0,unknown,1,4,survived,unknown,Serepeca,1,1,1,8,2,15.5
+1,1,Frederic Kimber,1,34.0,0,0,113794,26.55,unknown,0,7,survived,"New York, NY",Seward,0,1,1,8,1,26.55
+1,1,Elizabeth W,0,40.0,0,0,PC 17582,153.4625,C125,0,3,survived,"New York, NY / Greenwich CT",Shutes,1,1,1,2,3,51.15416666666667
+1,1,Spencer Victor,1,35.0,0,0,PC 17475,26.2875,E24,0,5,survived,"St Louis, MO",Silverthorne,0,1,1,4,1,26.2875
+1,0,William Baird,1,50.0,1,0,13507,55.9,E44,0,not_found,not_found,"Duluth, MN",Silvey,0,0,2,4,2,27.95
+1,1,William Baird (Alice Munger),0,39.0,1,0,13507,55.9,E44,0,11,survived,"Duluth, MN",Silvey,2,0,2,4,2,27.95
+1,1,Oberst Alfons,1,56.0,0,0,13213,35.5,A26,1,3,survived,"Basel, Switzerland",Simonius-Blumer,6,1,1,0,1,35.5
+1,1,William Thompson,1,28.0,0,0,113788,35.5,A6,0,7,survived,"New Britain, CT",Sloper,0,1,1,0,1,35.5
+1,0,John Montgomery,1,56.0,0,0,113792,26.55,unknown,0,not_found,not_found,"New York, NY",Smart,0,1,1,8,1,26.55
+1,0,James Clinch,1,56.0,0,0,17764,30.6958,A7,1,not_found,not_found,"St James, Long Island, NY",Smith,0,1,1,0,1,30.6958
+1,0,Lucien Philip,1,24.0,1,0,13695,60.0,C31,0,not_found,not_found,"Huntington, WV",Smith,0,0,2,2,2,30.0
+1,0,Richard William,1,43.925,0,0,113056,26.0,A19,0,not_found,not_found,"Streatham, Surrey",Smith,0,1,1,0,1,26.0
+1,1,Lucien Philip (Mary Eloise Hughes),0,18.0,1,0,13695,60.0,C31,0,6,survived,"Huntington, WV",Smith,2,0,2,2,2,30.0
+1,1,John Pillsbury,1,24.0,1,0,21228,82.2667,B45,0,7,survived,"Minneapolis, MN",Snyder,0,0,2,1,2,41.13335
+1,1,John Pillsbury (Nelle Stevenson),0,23.0,1,0,21228,82.2667,B45,0,7,survived,"Minneapolis, MN",Snyder,2,0,2,1,2,41.13335
+1,1,Robert Douglas,1,6.0,0,2,16966,134.5,E34,1,3,survived,"Tuxedo Park, NY",Spedden,3,0,3,4,5,26.9
+1,1,Frederic Oakley,1,45.0,1,1,16966,134.5,E34,1,3,survived,"Tuxedo Park, NY",Spedden,0,0,3,4,5,26.9
+1,1,Frederic Oakley (Margaretta Corning Stone),0,40.0,1,1,16966,134.5,E34,1,3,survived,"Tuxedo Park, NY",Spedden,2,0,3,4,5,26.9
+1,0,William Augustus,1,57.0,1,0,PC 17569,146.5208,B78,1,not_found,not_found,"Paris, France",Spencer,0,0,2,1,3,48.84026666666667
+1,1,William Augustus (Marie Eugenie),0,37.95238095238095,1,0,PC 17569,146.5208,B78,1,6,survived,"Paris, France",Spencer,2,0,2,1,3,48.84026666666667
+1,1,Max,1,32.0,0,0,13214,30.5,B50,1,3,survived,"Basel, Switzerland",Stahelin-Maeglin,5,1,1,1,1,30.5
+1,0,William Thomas,1,62.0,0,0,113514,26.55,C87,0,not_found,not_found,"Wimbledon Park, London / Hayling Island, Hants",Stead,0,1,1,2,1,26.55
+1,1,Charles Emil Henry,1,54.0,1,0,11778,55.4417,C116,1,1,survived,"Newark, NJ",Stengel,0,0,2,2,2,27.72085
+1,1,Charles Emil Henry (Annie May Morris),0,43.0,1,0,11778,55.4417,C116,1,5,survived,"Newark, NJ",Stengel,2,0,2,2,2,27.72085
+1,1,Walter Bertram (Martha Eustis),0,52.0,1,0,36947,78.2667,D20,1,4,survived,"Haverford, PA",Stephenson,2,0,2,3,2,39.13335
+1,0,Albert A,1,43.21621621621622,0,0,PC 17605,27.7208,unknown,1,not_found,not_found,"Gallipolis, Ohio / ? Paris / New York",Stewart,0,1,1,8,1,27.7208
+1,1,George Nelson (Martha Evelyn),0,62.0,0,0,113572,80.0,B28,0,6,survived,"Cincinatti, OH",Stone,2,1,1,1,2,40.0
+1,0,Isidor,1,67.0,1,0,PC 17483,221.7792,C55 C57,0,not_found,96.0,"New York, NY",Straus,0,0,2,2,4,55.4448
+1,0,Isidor (Rosalie Ida Blun),0,63.0,1,0,PC 17483,221.7792,C55 C57,0,not_found,not_found,"New York, NY",Straus,2,0,2,2,4,55.4448
+1,0,Frederick,1,61.0,0,0,36963,32.3208,D50,0,not_found,46.0,"Haddenfield, NJ",Sutton,0,1,1,3,1,32.3208
+1,1,Frederick Joel (Margaret Welles Barron),0,48.0,0,0,17466,25.9292,D17,0,8,survived,"Brooklyn, NY",Swift,2,1,1,3,1,25.9292
+1,1,Ruth,0,18.0,0,2,110413,79.65,E68,0,8,survived,"New York, NY",Taussig,1,0,3,4,3,26.55
+1,0,Emil,1,52.0,1,1,110413,79.65,E67,0,not_found,not_found,"New York, NY",Taussig,0,0,3,4,3,26.55
+1,1,Emil (Tillie Mandelbaum),0,39.0,1,1,110413,79.65,E67,0,8,survived,"New York, NY",Taussig,2,0,3,4,3,26.55
+1,1,Elmer Zebley,1,48.0,1,0,19996,52.0,C126,0,5 7,survived,"London /  East Orange, NJ",Taylor,0,0,2,2,2,26.0
+1,1,Elmer Zebley (Juliet Cummins Wright),0,35.885245901639344,1,0,19996,52.0,C126,0,5 7,survived,"London /  East Orange, NJ",Taylor,2,0,2,2,2,26.0
+1,0,John Borland,1,49.0,1,1,17421,110.8833,C68,1,not_found,not_found,"Haverford, PA",Thayer,0,0,3,2,4,27.720825
+1,1,John Borland Jr,1,17.0,0,2,17421,110.8833,C70,1,B,survived,"Haverford, PA",Thayer,0,0,3,2,4,27.720825
+1,1,John Borland (Marian Longstreth Morris),0,39.0,1,1,17421,110.8833,C68,1,4,survived,"Haverford, PA",Thayer,2,0,3,2,4,27.720825
+1,1,Gertrude Maybelle,0,37.95238095238095,0,0,PC 17585,79.2,unknown,1,D,survived,"New York, NY",Thorne,2,1,1,8,2,39.6
+1,1,Gilbert Milligan Jr,1,31.0,0,0,2543,28.5375,C53,1,7,survived,"Albany, NY",Tucker,0,1,1,2,1,28.5375
+1,0,Manuel E,1,40.0,0,0,PC 17601,27.7208,unknown,1,not_found,not_found,"Mexico City, Mexico",Uruchurtu,15,1,1,8,1,27.7208
+1,0,Wyckoff,1,61.0,0,0,111240,33.5,B19,0,not_found,245.0,"Brooklyn, NY",Van der hoef,0,1,1,1,1,33.5
+1,0,William Anderson,1,47.0,0,0,36967,34.0208,D46,0,not_found,not_found,"East Orange, NJ",Walker,0,1,1,3,1,34.0208
+1,1,Anna,0,35.0,0,0,PC 17755,512.3292,unknown,1,3,survived,unknown,Ward,1,1,1,8,4,128.0823
+1,0,Frank Manley,1,64.0,1,0,110813,75.25,D37,1,not_found,not_found,"Portland, OR",Warren,0,0,2,3,2,37.625
+1,1,Frank Manley (Anna Sophia Atkinson),0,60.0,1,0,110813,75.25,D37,1,5,survived,"Portland, OR",Warren,2,0,2,3,2,37.625
+1,0,John,1,60.0,0,0,113800,26.55,unknown,0,not_found,not_found,"England Salt Lake City, Utah",Weir,6,1,1,8,1,26.55
+1,0,Percival Wayland,1,54.0,0,1,35281,77.2875,D26,0,not_found,not_found,"Brunswick, ME",White,0,0,2,3,2,38.64375
+1,0,Richard Frasar,1,21.0,0,1,35281,77.2875,D26,0,not_found,169.0,"Brunswick, ME",White,0,0,2,3,2,38.64375
+1,1,John Stuart (Ella Holmes),0,55.0,0,0,PC 17760,135.6333,C32,1,8,survived,"New York, NY / Briarcliff Manor NY",White,2,1,1,2,4,33.908325
+1,1,Mary Natalie,0,31.0,0,2,36928,164.8667,C7,0,8,survived,"Youngstown, OH",Wick,1,0,3,2,4,41.216675
+1,0,George Dennick,1,57.0,1,1,36928,164.8667,unknown,0,not_found,not_found,"Youngstown, OH",Wick,0,0,3,8,4,41.216675
+1,1,George Dennick (Mary Hitchcock),0,45.0,1,1,36928,164.8667,unknown,0,8,survived,"Youngstown, OH",Wick,2,0,3,8,4,41.216675
+1,0,George Dunton,1,50.0,1,1,113503,211.5,C80,1,not_found,not_found,"Elkins Park, PA",Widener,0,0,3,2,5,42.3
+1,0,Harry Elkins,1,27.0,0,2,113503,211.5,C82,1,not_found,not_found,"Elkins Park, PA",Widener,0,0,3,2,5,42.3
+1,1,George Dunton (Eleanor Elkins),0,50.0,1,1,113503,211.5,C80,1,4,survived,"Elkins Park, PA",Widener,2,0,3,2,5,42.3
+1,1,Constance,0,21.0,0,0,113795,26.55,unknown,0,8 10,survived,"Duluth, MN",Willard,1,1,1,8,1,26.55
+1,0,Charles Duane,1,51.0,0,1,PC 17597,61.3792,unknown,1,not_found,not_found,"Geneva, Switzerland / Radnor, PA",Williams,0,0,2,8,2,30.6896
+1,1,Richard Norris II,1,21.0,0,1,PC 17597,61.3792,unknown,1,A,survived,"Geneva, Switzerland / Radnor, PA",Williams,0,0,2,8,2,30.6896
+1,0,Fletcher Fellows,1,43.925,0,0,113510,35.0,C128,0,not_found,not_found,"London, England",Williams-Lambert,0,1,1,2,1,35.0
+1,1,Helen Alice,0,31.0,0,0,16966,134.5,E39 E41,1,3,survived,unknown,Wilson,1,1,1,4,5,26.9
+1,1,Hugh,1,36.774692592592594,0,0,19947,35.5,C52,0,D,survived,"London, England",Woolner,0,1,1,2,1,35.5
+1,0,George,1,62.0,0,0,113807,26.55,unknown,0,not_found,not_found,"Halifax, NS",Wright,0,1,1,8,1,26.55
+1,1,Marie Grice,0,36.0,0,0,PC 17760,135.6333,C32,1,8,survived,"New York, NY / Washington, DC",Young,1,1,1,2,4,33.908325
+2,0,Samuel,1,30.0,1,0,P/PP 3381,24.0,unknown,1,not_found,not_found,"Russia New York, NY",Abelson,0,0,2,8,2,12.0
+2,1,Samuel (Hannah Wizosky),0,28.0,1,0,P/PP 3381,24.0,unknown,1,10,survived,"Russia New York, NY",Abelson,2,0,2,8,2,12.0
+2,0,Charles Augustus,1,30.0,0,0,248744,13.0,unknown,0,not_found,not_found,"Bryn Mawr, PA, USA",Aldworth,0,1,1,8,1,13.0
+2,0,Edgardo Samuel,1,18.0,0,0,231945,11.5,unknown,0,not_found,not_found,"Buenos Aires, Argentina / New Jersey, NJ",Andrew,0,1,1,8,1,11.5
+2,0,Frank Thomas,1,25.0,0,0,C.A. 34050,10.5,unknown,0,not_found,not_found,"Cornwall, England Houghton, MI",Andrew,0,1,1,8,1,10.5
+2,0,William A,1,34.0,1,0,226875,26.0,unknown,0,not_found,not_found,"Warwick, England",Angle,0,0,2,8,2,13.0
+2,1,"William A (Florence ""Mary"" Agnes Hughes)",0,36.0,1,0,226875,26.0,unknown,0,11,survived,"Warwick, England",Angle,2,0,2,8,2,13.0
+2,0,John,1,57.0,0,0,244346,13.0,unknown,0,not_found,not_found,"West Hoboken, NJ",Ashby,0,1,1,8,1,13.0
+2,0,Percy Andrew,1,18.0,0,0,29108,11.5,unknown,0,not_found,not_found,"Penzance, Cornwall / Akron, OH",Bailey,0,1,1,8,1,11.5
+2,0,Charles Robert,1,23.0,0,0,C.A. 31030,10.5,unknown,0,not_found,not_found,Guernsey,Baimbrigge,0,1,1,8,1,10.5
+2,1,(Ada E Hall),0,36.0,0,0,28551,13.0,D,0,10,survived,"Bristol, Avon / Jacksonville, FL",Ball,2,1,1,3,1,13.0
+2,0,Frederick James,1,28.0,0,0,C.A./SOTON 34068,10.5,unknown,0,not_found,not_found,"Plymouth, Dorset / Houghton, MI",Banfield,0,1,1,8,1,10.5
+2,0,Robert James,1,51.0,0,0,S.O.P. 1166,12.525,unknown,0,not_found,174.0,"Jacksonville, FL",Bateman,4,1,1,8,1,12.525
+2,1,Edward,1,32.0,1,0,2908,26.0,unknown,0,13,survived,"Norwich / New York, NY",Beane,0,0,2,8,2,13.0
+2,1,Edward (Ethel Clarke),0,19.0,1,0,2908,26.0,unknown,0,13,survived,"Norwich / New York, NY",Beane,2,0,2,8,2,13.0
+2,0,Henry James,1,28.0,0,0,244358,26.0,unknown,0,not_found,not_found,England,Beauchamp,0,1,1,8,2,13.0
+2,1,Richard F,1,1.0,2,1,230136,39.0,F4,0,11,survived,"Guntur, India / Benton Harbour, MI",Becker,3,0,4,5,4,9.75
+2,1,Marion Louise,0,4.0,2,1,230136,39.0,F4,0,11,survived,"Guntur, India / Benton Harbour, MI",Becker,1,0,4,5,4,9.75
+2,1,Ruth Elizabeth,0,12.0,2,1,230136,39.0,F4,0,13,survived,"Guntur, India / Benton Harbour, MI",Becker,1,0,4,5,4,9.75
+2,1,Allen Oliver (Nellie E Baumgardner),0,36.0,0,3,230136,39.0,F4,0,11,survived,"Guntur, India / Benton Harbour, MI",Becker,2,0,4,5,4,9.75
+2,1,Lawrence,1,34.0,0,0,248698,13.0,D56,0,13,survived,London,Beesley,0,1,1,3,1,13.0
+2,1,Lilian W,0,19.0,0,0,28404,13.0,unknown,0,12,survived,"Rochester, NY",Bentham,1,1,1,8,1,13.0
+2,0,William John,1,23.0,0,0,28425,13.0,unknown,0,not_found,not_found,"St Ives, Cornwall / Calumet, MI",Berriman,0,1,1,8,1,13.0
+2,0,William Hull,1,26.0,0,0,237670,13.0,unknown,0,not_found,not_found,"Elmira, NY / Orange, NJ",Botsford,0,1,1,8,1,13.0
+2,0,Solomon,1,42.0,0,0,211535,13.0,unknown,0,not_found,not_found,London,Bowenur,0,1,1,8,1,13.0
+2,0,James H,1,27.0,0,0,220367,13.0,unknown,0,not_found,not_found,"Lake Arthur, Chavez County, NM",Bracken,0,1,1,8,1,13.0
+2,1,"Amelia ""Mildred""",0,24.0,0,0,248733,13.0,F33,0,11,survived,"London / Montreal, PQ",Brown,1,1,1,5,1,13.0
+2,1,Edith Eileen,0,15.0,0,2,29750,39.0,unknown,0,14,survived,"Cape Town, South Africa / Seattle, WA",Brown,1,0,3,8,3,13.0
+2,0,Thomas William Solomon,1,60.0,1,1,29750,39.0,unknown,0,not_found,not_found,"Cape Town, South Africa / Seattle, WA",Brown,0,0,3,8,3,13.0
+2,1,Thomas William Solomon (Elizabeth Catherine Ford),0,40.0,1,1,29750,39.0,unknown,0,14,survived,"Cape Town, South Africa / Seattle, WA",Brown,2,0,3,8,3,13.0
+2,1,Dagmar Jenny Ingeborg ,0,20.0,1,0,236853,26.0,unknown,0,12,survived,"Skara, Sweden / Rockford, IL",Bryhl,1,0,2,8,2,13.0
+2,0,Kurt Arnold Gottfrid,1,25.0,1,0,236853,26.0,unknown,0,not_found,not_found,"Skara, Sweden / Rockford, IL",Bryhl,0,0,2,8,2,13.0
+2,1,Kate,0,36.0,0,0,27849,13.0,unknown,0,9,survived,"Sittingbourne, England / San Diego, CA",Buss,1,1,1,8,1,13.0
+2,0,Reginald Fenton,1,25.0,0,0,234686,13.0,unknown,0,not_found,97.0,"Southsea, Hants",Butler,0,1,1,8,1,13.0
+2,0,Thomas Roussel Davids,1,42.0,0,0,244310,13.0,unknown,0,not_found,not_found,London,Byles,4,1,1,8,1,13.0
+2,1,(Karolina),0,42.0,0,0,236852,13.0,unknown,0,boat_unknown,survived,"New York, NY",Bystrom,2,1,1,8,1,13.0
+2,1,Alden Gates,1,0.8333,0,2,248738,29.0,unknown,0,13,survived,"Bangkok, Thailand / Roseville, IL",Caldwell,3,0,3,8,3,9.666666666666666
+2,1,Albert Francis,1,26.0,1,1,248738,29.0,unknown,0,13,survived,"Bangkok, Thailand / Roseville, IL",Caldwell,0,0,3,8,3,9.666666666666666
+2,1,Albert Francis (Sylvia Mae Harbaugh),0,22.0,1,1,248738,29.0,unknown,0,13,survived,"Bangkok, Thailand / Roseville, IL",Caldwell,2,0,3,8,3,9.666666666666666
+2,1,Clear Annie,0,35.0,0,0,F.C.C. 13528,21.0,unknown,0,14,survived,"Mamaroneck, NY",Cameron,1,1,1,8,2,10.5
+2,0,William,1,32.60655737704918,0,0,239853,0.0,unknown,0,not_found,not_found,Belfast,Campbell,0,1,1,8,3,0.0
+2,0,William,1,19.0,0,0,28424,13.0,unknown,0,not_found,18.0,"St Ives, Cornwall / Calumet, MI",Carbines,0,1,1,8,1,13.0
+2,0,Ernest Courtenay (Lilian Hughes),0,44.0,1,0,244252,26.0,unknown,0,not_found,not_found,London,Carter,2,0,2,8,2,13.0
+2,0,Ernest Courtenay,1,54.0,1,0,244252,26.0,unknown,0,not_found,not_found,London,Carter,4,0,2,8,2,13.0
+2,0,Charles Henry,1,52.0,0,0,248731,13.5,unknown,0,not_found,130.0,"Bronx, NY",Chapman,0,1,1,8,1,13.5
+2,0,John Henry,1,37.0,1,0,SC/AH 29037,26.0,unknown,0,not_found,17.0,"Cornwall / Spokane, WA",Chapman,0,0,2,8,2,13.0
+2,0,John Henry (Sara Elizabeth Lawry),0,29.0,1,0,SC/AH 29037,26.0,unknown,0,not_found,not_found,"Cornwall / Spokane, WA",Chapman,2,0,2,8,2,13.0
+2,1,Julie Rachel,0,25.0,1,1,237789,30.0,unknown,0,12,survived,London,Christy,1,0,3,8,2,15.0
+2,1,(Alice Frances),0,45.0,0,2,237789,30.0,unknown,0,12,survived,London,Christy,2,0,3,8,2,15.0
+2,0,Charles Valentine,1,29.0,1,0,2003,26.0,unknown,0,not_found,not_found,"England / San Francisco, CA",Clarke,0,0,2,8,2,13.0
+2,1,Charles V (Ada Maria Winfield),0,28.0,1,0,2003,26.0,unknown,0,14,survived,"England / San Francisco, CA",Clarke,2,0,2,8,2,13.0
+2,0,Reginald Charles,1,29.0,0,0,W./C. 14263,10.5,unknown,0,not_found,not_found,"Hartford, Huntingdonshire",Coleridge,0,1,1,8,1,10.5
+2,0,Erik Gustaf,1,28.0,0,0,248740,13.0,unknown,0,not_found,not_found,"Helsinki, Finland Ashtabula, Ohio",Collander,0,1,1,8,1,13.0
+2,1,Sidney C Stuart,1,24.0,0,0,28034,10.5,unknown,0,9,survived,"London / Fort Byron, NY",Collett,0,1,1,8,1,10.5
+2,1,"Marjorie ""Lottie""",0,8.0,0,2,C.A. 31921,26.25,unknown,0,14,survived,"Bishopstoke, Hants / Fayette Valley, ID",Collyer,1,0,3,8,3,8.75
+2,0,Harvey,1,31.0,1,1,C.A. 31921,26.25,unknown,0,not_found,not_found,"Bishopstoke, Hants / Fayette Valley, ID",Collyer,0,0,3,8,3,8.75
+2,1,Harvey (Charlotte Annie Tate),0,31.0,1,1,C.A. 31921,26.25,unknown,0,14,survived,"Bishopstoke, Hants / Fayette Valley, ID",Collyer,2,0,3,8,3,8.75
+2,1,(Selena Rogers),0,22.0,0,0,W./C. 14266,10.5,F33,0,14,survived,Pennsylvania,Cook,2,1,1,5,1,10.5
+2,0,Walter H (Irene Colvin),0,30.0,0,0,237249,13.0,unknown,0,not_found,not_found,"Provo, UT",Corbett,2,1,1,8,1,13.0
+2,0,Percy C (Mary Phyllis Elizabeth Miller),0,34.09090909090909,0,0,F.C.C. 13534,21.0,unknown,0,not_found,not_found,"Upper Burma, India Pittsburgh, PA",Corey,2,1,1,8,2,10.5
+2,0,"Henry ""Harry""",1,21.0,0,0,29107,11.5,unknown,0,not_found,not_found,"Penzance, Cornwall / Akron, OH",Cotterill,0,1,1,8,1,11.5
+2,0,Alfred Fleming,1,32.60655737704918,0,0,239853,0.0,unknown,0,not_found,not_found,Belfast,Cunningham,0,1,1,8,3,0.0
+2,1,John Morgan Jr,1,8.0,1,1,C.A. 33112,36.75,unknown,0,14,survived,"St Ives, Cornwall / Hancock, MI",Davies,3,0,3,8,4,9.1875
+2,0,Charles Henry,1,18.0,0,0,S.O.C. 14879,73.5,unknown,0,not_found,not_found,"Lyndhurst, England",Davies,0,1,1,8,7,10.5
+2,1,John Morgan (Elizabeth Agnes Mary White) ,0,48.0,0,2,C.A. 33112,36.75,unknown,0,14,survived,"St Ives, Cornwall / Hancock, MI",Davies,2,0,3,8,4,9.1875
+2,1,Mary,0,28.0,0,0,237668,13.0,unknown,0,13,survived,"London / Staten Island, NY",Davis,1,1,1,8,1,13.0
+2,0,Jose Joaquim,1,32.0,0,0,244360,13.0,unknown,0,not_found,not_found,"Portugal / Sau Paulo, Brazil",de Brito,0,1,1,8,1,13.0
+2,0,Percy William,1,17.0,0,0,S.O.C. 14879,73.5,unknown,0,not_found,not_found,unknown,Deacon,0,1,1,8,7,10.5
+2,0,Sebastiano,1,29.0,1,0,SC/PARIS 2167,27.7208,unknown,1,not_found,295.0,"Lucca, Italy / California",del Carlo,0,0,2,8,2,13.8604
+2,1,Sebastiano (Argenia Genovesi),0,24.0,1,0,SC/PARIS 2167,27.7208,unknown,1,12,survived,"Lucca, Italy / California",del Carlo,2,0,2,8,2,13.8604
+2,0,Herbert,1,25.0,0,0,C.A. 31029,31.5,unknown,0,not_found,not_found,"Guernsey / Elizabeth, NJ",Denbury,0,1,1,8,3,10.5
+2,0,William,1,18.0,0,0,S.O.C. 14879,73.5,unknown,0,not_found,not_found,"New Forest, England",Dibden,0,1,1,8,7,10.5
+2,1,Elsie,0,18.0,0,1,231919,23.0,unknown,0,boat_unknown,survived,Southampton,Doling,1,0,2,8,2,11.5
+2,1,John T (Ada Julia Bone),0,34.0,0,1,231919,23.0,unknown,0,boat_unknown,survived,Southampton,Doling,2,0,2,8,2,11.5
+2,0,William James,1,54.0,0,0,28403,26.0,unknown,0,not_found,not_found,"Holley, NY",Downton,0,1,1,8,2,13.0
+2,1,Marshall Brines,1,8.0,0,2,28220,32.5,unknown,0,10,survived,"Greenport, NY",Drew,3,0,3,8,3,10.833333333333334
+2,0,James Vivian,1,42.0,1,1,28220,32.5,unknown,0,not_found,not_found,"Greenport, NY",Drew,0,0,3,8,3,10.833333333333334
+2,1,James Vivian (Lulu Thorne Christian),0,34.0,1,1,28220,32.5,unknown,0,10,survived,"Greenport, NY",Drew,2,0,3,8,3,10.833333333333334
+2,1,Asuncion,0,27.0,1,0,SC/PARIS 2149,13.8583,unknown,1,12,survived,"Barcelona, Spain / Havana, Cuba",Duran y More,1,0,2,8,1,13.8583
+2,1,Florentina,0,30.0,1,0,SC/PARIS 2148,13.8583,unknown,1,12,survived,"Barcelona, Spain / Havana, Cuba",Duran y More,1,0,2,8,1,13.8583
+2,0,George Floyd,1,23.0,0,0,29751,13.0,unknown,0,not_found,not_found,"England / Detroit, MI",Eitemiller,0,1,1,8,1,13.0
+2,0,Ingvar,1,21.0,0,0,236854,13.0,unknown,0,not_found,not_found,"Goteborg, Sweden / Rockford, IL",Enander,0,1,1,8,1,13.0
+2,0,Arne Jonas,1,18.0,0,0,236171,13.0,unknown,0,not_found,not_found,"Oslo, Norway Bayonne, NJ",Fahlstrom,0,1,1,8,1,13.0
+2,0,Harry,1,40.0,1,0,2926,26.0,unknown,0,not_found,286.0,"England / Philadelphia, PA",Faunthorpe,0,0,2,8,2,13.0
+2,1,Lizzie (Elizabeth Anne Wilkinson),0,29.0,1,0,2926,26.0,unknown,0,16,survived,unknown,Faunthorpe,2,0,2,8,2,13.0
+2,0,Joseph Charles,1,18.0,0,0,C.A. 15185,10.5,unknown,0,not_found,not_found,"Cornwall / Houghton, MI",Fillbrook,0,1,1,8,1,10.5
+2,0,Stanley Hubert,1,36.0,0,0,229236,13.0,unknown,0,not_found,236.0,"Rochester, NY",Fox,0,1,1,8,1,13.0
+2,0,"Anthony Wood ""Archie""",1,32.60655737704918,0,0,239854,0.0,unknown,0,not_found,not_found,Belfast,Frost,0,1,1,8,1,0.0
+2,0,Annie Clemmer,0,38.0,0,0,237671,13.0,unknown,0,not_found,not_found,"Janjgir, India / Pennsylvania",Funk,1,1,1,8,1,13.0
+2,0,Joseph J,1,35.0,0,0,239865,26.0,unknown,0,not_found,322.0,"Liverpool / Montreal, PQ",Fynney,0,1,1,8,2,13.0
+2,0,Harry,1,38.0,1,0,28664,21.0,unknown,0,not_found,not_found,"Cornwall / Clear Creek, CO",Gale,0,0,2,8,2,10.5
+2,0,Shadrach,1,34.0,1,0,28664,21.0,unknown,0,not_found,not_found,"Cornwall / Clear Creek, CO",Gale,0,0,2,8,2,10.5
+2,1,Ethel,0,34.0,0,0,243880,13.0,unknown,0,12,survived,"Brooklyn, NY",Garside,1,1,1,8,1,13.0
+2,0,Alfred,1,16.0,0,0,239865,26.0,unknown,0,not_found,not_found,"Liverpool / Montreal, PQ",Gaskell,0,1,1,8,2,13.0
+2,0,Lawrence,1,26.0,0,0,31028,10.5,unknown,0,not_found,not_found,"Guernsey / Elizabeth, NJ",Gavey,0,1,1,8,1,10.5
+2,0,William,1,47.0,0,0,C.A. 30769,10.5,unknown,0,not_found,not_found,Cornwall,Gilbert,0,1,1,8,1,10.5
+2,0,Edgar,1,21.0,1,0,28133,11.5,unknown,0,not_found,not_found,"Cornwall / Camden, NJ",Giles,0,0,2,8,1,11.5
+2,0,Frederick Edward,1,21.0,1,0,28134,11.5,unknown,0,not_found,not_found,"Cornwall / Camden, NJ",Giles,0,0,2,8,1,11.5
+2,0,Ralph,1,24.0,0,0,248726,13.5,unknown,0,not_found,297.0,"West Kensington, London",Giles,0,1,1,8,1,13.5
+2,0,John William,1,24.0,0,0,233866,13.0,unknown,0,not_found,155.0,"Clevedon, England",Gill,0,1,1,8,1,13.0
+2,0,William Henry,1,34.0,0,0,12233,13.0,unknown,0,not_found,not_found,"Vancouver, BC",Gillespie,0,1,1,8,1,13.0
+2,0,Hans Kristensen,1,30.0,0,0,250646,13.0,unknown,0,not_found,305.0,unknown,Givard,0,1,1,8,1,13.0
+2,0,Samuel,1,52.0,0,0,250647,13.0,unknown,0,not_found,19.0,"Bronx, NY",Greenberg,0,1,1,8,2,6.5
+2,0,Reginald,1,30.0,0,0,250653,13.0,unknown,0,not_found,75.0,"Auburn, NY",Hale,0,1,1,8,1,13.0
+2,1,Viljo,1,0.6667,1,1,250649,14.5,unknown,0,4,survived,"Detroit, MI",Hamalainen,3,0,3,8,2,7.25
+2,1,William (Anna),0,24.0,0,2,250649,14.5,unknown,0,4,survived,"Detroit, MI",Hamalainen,2,0,3,8,2,7.25
+2,0,William H,1,44.0,0,0,248746,13.0,unknown,0,not_found,35.0,"Seattle, WA / Toledo, OH",Harbeck,0,1,1,8,1,13.0
+2,1,"Annie Jessie ""Nina""",0,6.0,0,1,248727,33.0,unknown,0,11,survived,"Denmark Hill, Surrey / Chicago",Harper,1,0,2,8,3,11.0
+2,0,John,1,28.0,0,1,248727,33.0,unknown,0,not_found,not_found,"Denmark Hill, Surrey / Chicago",Harper,4,0,2,8,3,11.0
+2,1,George,1,62.0,0,0,S.W./PP 752,10.5,unknown,0,15,survived,London,Harris,0,1,1,8,1,10.5
+2,0,Walter,1,30.0,0,0,W/C 14208,10.5,unknown,0,not_found,not_found,"Walthamstow, England",Harris,0,1,1,8,1,10.5
+2,1,Eva Miriam,0,7.0,0,2,F.C.C. 13529,26.25,unknown,0,14,survived,"Ilford, Essex / Winnipeg, MB",Hart,1,0,3,8,3,8.75
+2,0,Benjamin,1,43.0,1,1,F.C.C. 13529,26.25,unknown,0,not_found,not_found,"Ilford, Essex / Winnipeg, MB",Hart,0,0,3,8,3,8.75
+2,1,Benjamin (Esther Ada Bloomfield),0,45.0,1,1,F.C.C. 13529,26.25,unknown,0,14,survived,"Ilford, Essex / Winnipeg, MB",Hart,2,0,3,8,3,8.75
+2,1,Alice,0,24.0,1,2,220845,65.0,unknown,0,9,survived,"Somerset / Bernardsville, NJ",Herman,1,0,4,8,5,13.0
+2,1,Kate,0,24.0,1,2,220845,65.0,unknown,0,9,survived,"Somerset / Bernardsville, NJ",Herman,1,0,4,8,5,13.0
+2,0,Samuel,1,49.0,1,2,220845,65.0,unknown,0,not_found,not_found,"Somerset / Bernardsville, NJ",Herman,0,0,4,8,5,13.0
+2,1,Samuel (Jane Laver),0,48.0,1,2,220845,65.0,unknown,0,9,survived,"Somerset / Bernardsville, NJ",Herman,2,0,4,8,5,13.0
+2,1,(Mary D Kingcome) ,0,55.0,0,0,248706,16.0,unknown,0,13,survived,"India / Rapid City, SD",Hewlett,2,1,1,8,1,16.0
+2,0,Leonard Mark,1,24.0,2,0,S.O.C. 14879,73.5,unknown,0,not_found,not_found,"West Hampstead, London / Neepawa, MB",Hickman,0,0,3,8,7,10.5
+2,0,Lewis,1,32.0,2,0,S.O.C. 14879,73.5,unknown,0,not_found,256.0,"West Hampstead, London / Neepawa, MB",Hickman,0,0,3,8,7,10.5
+2,0,Stanley George,1,21.0,2,0,S.O.C. 14879,73.5,unknown,0,not_found,not_found,"West Hampstead, London / Neepawa, MB",Hickman,0,0,3,8,7,10.5
+2,0,Marta,0,18.0,1,1,250650,13.0,unknown,0,not_found,not_found,"Kontiolahti, Finland / Detroit, MI",Hiltunen,1,0,3,8,1,13.0
+2,1,"Ellen ""Nellie""",0,20.0,2,1,29105,23.0,unknown,0,4,survived,"Cornwall / Akron, OH",Hocking,1,0,4,8,2,11.5
+2,0,Richard George,1,23.0,2,1,29104,11.5,unknown,0,not_found,not_found,"Cornwall / Akron, OH",Hocking,0,0,4,8,1,11.5
+2,0,Samuel James Metcalfe,1,36.0,0,0,242963,13.0,unknown,0,not_found,not_found,"Devonport, England",Hocking,0,1,1,8,1,13.0
+2,1,Elizabeth (Eliza Needs),0,54.0,1,3,29105,23.0,unknown,0,4,survived,"Cornwall / Akron, OH",Hocking,2,0,5,8,2,11.5
+2,0,Henry Price,1,50.0,0,0,250643,13.0,unknown,0,not_found,149.0,Southampton,Hodges,0,1,1,8,1,13.0
+2,0,Stephen,1,44.0,1,0,26707,26.0,unknown,0,not_found,not_found,"England / Sacramento, CA",Hold,0,0,2,8,2,13.0
+2,1,Stephen (Annie Margaret Hill),0,29.0,1,0,26707,26.0,unknown,0,10,survived,"England / Sacramento, CA",Hold,2,0,2,8,2,13.0
+2,0,Ambrose Jr,1,21.0,0,0,S.O.C. 14879,73.5,unknown,0,not_found,not_found,"New Forest, England",Hood,0,1,1,8,7,10.5
+2,1,Masabumi,1,42.0,0,0,237798,13.0,unknown,0,10,survived,"Tokyo, Japan",Hosono,0,1,1,8,1,13.0
+2,0,Benjamin,1,63.0,1,0,24065,26.0,unknown,0,not_found,not_found,"Swindon, England",Howard,0,0,2,8,2,13.0
+2,0,Benjamin (Ellen Truelove Arman),0,60.0,1,0,24065,26.0,unknown,0,not_found,not_found,"Swindon, England",Howard,2,0,2,8,2,13.0
+2,0,George Henry,1,33.0,0,0,SCO/W 1585,12.275,unknown,0,not_found,not_found,"Philadelphia, PA",Hunt,0,1,1,8,1,12.275
+2,1,Bertha,0,17.0,0,0,SO/C 14885,10.5,unknown,0,boat_unknown,survived,Guernsey,Ilett,1,1,1,8,1,10.5
+2,0,Sidney Samuel,1,42.0,1,0,243847,27.0,unknown,0,not_found,not_found,London,Jacobsohn,0,0,2,8,2,13.5
+2,1,Sidney Samuel (Amy Frances Christy),0,24.0,2,1,243847,27.0,unknown,0,12,survived,London,Jacobsohn,2,0,4,8,2,13.5
+2,0,John Denzil,1,47.0,0,0,237565,15.0,unknown,0,not_found,not_found,"North Evington, England",Jarvis,0,1,1,8,1,15.0
+2,0,Clifford Thomas,1,24.0,2,0,C.A. 31029,31.5,unknown,0,not_found,not_found,"Guernsey / Elizabeth, NJ",Jefferys,0,0,3,8,3,10.5
+2,0,Ernest Wilfred,1,22.0,2,0,C.A. 31029,31.5,unknown,0,not_found,not_found,"Guernsey / Elizabeth, NJ",Jefferys,0,0,3,8,3,10.5
+2,0,Stephen Curnow,1,32.0,0,0,C.A. 33111,10.5,unknown,0,not_found,not_found,"St Ives, Cornwall / Houghton, MI",Jenkin,0,1,1,8,1,10.5
+2,1,Amin S (Marie Marthe Thuillard),0,23.0,0,0,SC/AH Basle 541,13.7917,D,1,11,survived,"New York, NY",Jerwan,2,1,1,3,1,13.7917
+2,0,Sinai,1,34.0,1,0,244367,26.0,unknown,0,not_found,283.0,"Moscow / Bronx, NY",Kantor,0,0,2,8,2,13.0
+2,1,Sinai (Miriam Sternin),0,24.0,1,0,244367,26.0,unknown,0,12,survived,"Moscow / Bronx, NY",Kantor,2,0,2,8,2,13.0
+2,0,J Frank (Claire Bennett),0,22.0,0,0,F.C.C. 13534,21.0,unknown,0,not_found,not_found,"India / Pittsburgh, PA",Karnes,2,1,1,8,2,10.5
+2,1,Nora A,0,30.0,0,0,226593,12.35,E101,2,10,survived,"Harrisburg, PA",Keane,1,1,1,4,1,12.35
+2,0,Daniel,1,35.0,0,0,233734,12.35,unknown,2,not_found,not_found,unknown,Keane,0,1,1,8,1,12.35
+2,1,"Florence ""Fannie""",0,45.0,0,0,223596,13.5,unknown,0,9,survived,"London / New York, NY",Kelly,2,1,1,8,1,13.5
+2,0,Charles Leonard,1,57.0,0,0,219533,12.35,unknown,2,not_found,not_found,"Glasgow / Bangor, ME",Kirkland,4,1,1,8,1,12.35
+2,0,Robert J,1,32.60655737704918,0,0,239855,0.0,unknown,0,not_found,not_found,Belfast,Knight,0,1,1,8,1,0.0
+2,0,Johan Henrik Johannesson,1,31.0,0,0,C.A. 18723,10.5,unknown,0,not_found,165.0,"Sweden / Arlington, NJ",Kvillner,0,1,1,8,1,10.5
+2,0,William (Anna Sylfven),0,26.0,1,1,250651,26.0,unknown,0,not_found,not_found,"Minneapolis, MN",Lahtinen,2,0,3,8,2,13.0
+2,0,William,1,30.0,1,1,250651,26.0,unknown,0,not_found,not_found,"Minneapolis, MN",Lahtinen,4,0,3,8,2,13.0
+2,0,John Joseph,1,53.75,0,0,240261,10.7083,unknown,2,not_found,not_found,unknown,Lamb,0,1,1,8,1,10.7083
+2,1,Louise,0,1.0,1,2,SC/Paris 2123,41.5792,unknown,1,14,survived,Paris / Haiti,Laroche,1,0,4,8,4,10.3948
+2,1,Simonne Marie Anne Andree,0,3.0,1,2,SC/Paris 2123,41.5792,unknown,1,14,survived,Paris / Haiti,Laroche,1,0,4,8,4,10.3948
+2,0,Joseph Philippe Lemercier,1,25.0,1,2,SC/Paris 2123,41.5792,unknown,1,not_found,not_found,Paris / Haiti,Laroche,0,0,4,8,4,10.3948
+2,1,Joseph (Juliette Marie Louise Lafargue),0,22.0,1,2,SC/Paris 2123,41.5792,unknown,1,14,survived,Paris / Haiti,Laroche,2,0,4,8,4,10.3948
+2,1,Bertha,0,17.0,0,0,SC 1748,12.0,unknown,1,12,survived,"Berne, Switzerland / Central City, IA",Lehmann,1,1,1,8,1,12.0
+2,1,Jessie Wills,0,27.68020875,0,0,248727,33.0,unknown,0,11,survived,"London / Chicago, IL",Leitch,1,1,1,8,3,11.0
+2,1,(Amelia Milley),0,34.0,0,0,C.A. 34260,10.5,F33,0,14,survived,"Chicago, IL",Lemore,2,1,1,5,1,10.5
+2,0,Rene Jacques,1,36.0,0,0,SC/Paris 2163,12.875,D,1,not_found,not_found,"Montreal, PQ",Levy,0,1,1,3,1,12.875
+2,0,Robert William Norman,1,24.0,0,0,C.A. 29566,10.5,unknown,0,not_found,108.0,unknown,Leyson,0,1,1,8,1,10.5
+2,0,John,1,61.0,0,0,235509,12.35,unknown,2,not_found,not_found,unknown,Lingane,0,1,1,8,1,12.35
+2,0,Charles Alexander,1,50.0,1,0,SC/AH 3085,26.0,unknown,0,not_found,121.0,"Weston-Super-Mare, Somerset",Louch,0,0,2,8,2,13.0
+2,1,Charles Alexander (Alice Adelaide Slow),0,42.0,1,0,SC/AH 3085,26.0,unknown,0,boat_unknown,survived,"Weston-Super-Mare, Somerset",Louch,2,0,2,8,2,13.0
+2,0,(Mary),0,57.0,0,0,S.O./P.P. 3,10.5,E77,0,not_found,52.0,"Southampton / New York, NY",Mack,2,1,1,4,2,5.25
+2,0,Noel,1,30.5,0,0,237735,15.0458,D,1,not_found,not_found,Paris,Malachard,0,1,1,3,1,15.0458
+2,1,Andre,1,1.0,0,2,S.C./PARIS 2079,37.0042,unknown,1,10,survived,"Paris / Montreal, PQ",Mallet,3,0,3,8,3,12.334733333333332
+2,0,Albert,1,31.0,1,1,S.C./PARIS 2079,37.0042,unknown,1,not_found,not_found,"Paris / Montreal, PQ",Mallet,0,0,3,8,3,12.334733333333332
+2,1,Albert (Antoinette Magnin),0,24.0,1,1,S.C./PARIS 2079,37.0042,unknown,1,10,survived,"Paris / Montreal, PQ",Mallet,2,0,3,8,3,12.334733333333332
+2,0,Serafino Emilio,1,30.5,0,0,SC/A.3 2861,15.5792,unknown,1,not_found,not_found,"New York, NY",Mangiavacchi,0,1,1,8,1,15.5792
+2,0,William John,1,30.0,0,0,28228,13.0,unknown,0,not_found,not_found,"St Austall, Cornwall",Matthews,0,1,1,8,1,13.0
+2,0,Frank Hubert,1,40.0,0,0,239059,16.0,unknown,0,not_found,not_found,"Weston-Super-Mare / Moose Jaw, SK",Maybery,0,1,1,8,1,16.0
+2,0,Arthur Gordon,1,32.0,0,0,237216,13.5,unknown,0,not_found,209.0,"Sydney, Australia",McCrae,0,1,1,8,1,13.5
+2,0,James Matthew,1,30.0,0,0,233478,13.0,unknown,0,not_found,not_found,"Sarnia, ON",McCrie,0,1,1,8,1,13.0
+2,0,Peter David,1,46.0,0,0,28403,26.0,unknown,0,not_found,not_found,"Rochester, NY",McKane,0,1,1,8,2,13.0
+2,1,Madeleine Violet,0,13.0,0,1,250644,19.5,unknown,0,14,survived,"England / Bennington, VT",Mellinger,1,0,2,8,2,9.75
+2,1,(Elizabeth Anne Maidment),0,41.0,0,1,250644,19.5,unknown,0,14,survived,"England / Bennington, VT",Mellinger,2,0,2,8,2,9.75
+2,1,William John,1,19.0,0,0,SW/PP 751,10.5,unknown,0,B,survived,"Chelsea, London",Mellors,0,1,1,8,1,10.5
+2,0,August,1,39.0,0,0,248723,13.0,unknown,0,not_found,not_found,"Harrow-on-the-Hill, Middlesex",Meyer,0,1,1,8,1,13.0
+2,0,Jacob Christian,1,48.0,0,0,234360,13.0,unknown,0,not_found,271.0,"Copenhagen, Denmark",Milling,0,1,1,8,1,13.0
+2,0,Henry Michael,1,70.0,0,0,C.A. 24580,10.5,unknown,0,not_found,not_found,"Guernsey / Montclair, NJ and/or Toledo, Ohio",Mitchell,0,1,1,8,1,10.5
+2,0,Juozas,1,27.0,0,0,211536,13.0,unknown,0,not_found,not_found,"Worcester, MA",Montvila,4,1,1,8,1,13.0
+2,0,Ernest,1,54.0,0,0,29011,14.0,unknown,0,not_found,not_found,"Frankfort, KY",Moraweck,5,1,1,8,1,14.0
+2,0,"Henry Samuel (""Mr Henry Marshall"")",1,39.0,0,0,250655,26.0,unknown,0,not_found,not_found,unknown,Morley,0,1,1,8,2,13.0
+2,0,Thomas Charles,1,16.0,0,0,S.O./P.P. 3,10.5,unknown,0,not_found,not_found,"Halesworth, England",Mudd,0,1,1,8,2,5.25
+2,0,Thomas Francis,1,62.0,0,0,240276,9.6875,unknown,2,not_found,not_found,"Cambridge, MA",Myles,0,1,1,8,1,9.6875
+2,0,Nicholas,1,32.5,1,0,237736,30.0708,unknown,1,not_found,43.0,"New York, NY",Nasser,0,0,2,8,2,15.0354
+2,1,Nicholas (Adele Achem),0,14.0,1,0,237736,30.0708,unknown,1,boat_unknown,survived,"New York, NY",Nasser,2,0,2,8,2,15.0354
+2,1,Edmond Roger,1,2.0,1,1,230080,26.0,F2,0,D,survived,"Nice, France",Navratil,3,0,3,5,3,8.666666666666666
+2,1,Michel M,1,3.0,1,1,230080,26.0,F2,0,D,survived,"Nice, France",Navratil,3,0,3,5,3,8.666666666666666
+2,0,"Michel (""Louis M Hoffman"")",1,36.5,0,2,230080,26.0,F2,0,not_found,15.0,"Nice, France",Navratil,0,0,3,5,3,8.666666666666666
+2,0,Israel,1,26.0,0,0,244368,13.0,F2,0,not_found,not_found,"Boston, MA",Nesson,0,1,1,5,1,13.0
+2,0,Joseph Charles,1,19.0,1,1,C.A. 33112,36.75,unknown,0,not_found,101.0,"Cornwall / Hancock, MI",Nicholls,0,0,3,8,4,9.1875
+2,0,Robert Douglas,1,28.0,0,0,218629,13.5,unknown,0,not_found,287.0,Glasgow,Norman,0,1,1,8,1,13.5
+2,1,"Alfred (""Baron von Drachstedt"")",1,20.0,0,0,SC/PARIS 2166,13.8625,D38,1,7,survived,"Cologne, Germany",Nourney,0,1,1,3,1,13.8625
+2,1,(Elizabeth Ramell),0,29.0,0,0,C.A. 29395,10.5,F33,0,11,survived,"Folkstone, Kent / New York, NY",Nye,2,1,1,5,1,10.5
+2,0,Richard,1,39.0,0,0,28213,13.0,unknown,0,not_found,not_found,"Middleburg Heights, OH",Otter,0,1,1,8,1,13.0
+2,1,Percy Thomas,1,22.0,0,0,W./C. 14260,10.5,unknown,0,13,survived,"Pondersend, England / New Durham, NJ",Oxenham,0,1,1,8,1,10.5
+2,1,Julian,1,20.0,0,0,SC/PARIS 2146,13.8625,unknown,1,9,survived,"Spain / Havana, Cuba",Padro y Manent,0,1,1,8,1,13.8625
+2,0,Alfred,1,23.0,0,0,244278,10.5,unknown,0,not_found,not_found,"Hamilton, ON",Pain,5,1,1,8,1,10.5
+2,1,Emilio,1,29.0,0,0,SC/PARIS 2147,13.8583,unknown,1,9,survived,"Spain / Havana, Cuba",Pallas y Castello,0,1,1,8,1,13.8583
+2,0,Clifford Richard,1,28.0,0,0,SC 14888,10.5,unknown,0,not_found,not_found,"St Andrews, Guernsey",Parker,0,1,1,8,1,10.5
+2,0,"Francis ""Frank""",1,32.60655737704918,0,0,239853,0.0,unknown,0,not_found,not_found,Belfast,Parkes,0,1,1,8,3,0.0
+2,1,(Lutie Davis),0,50.0,0,1,230433,26.0,unknown,0,12,survived,"Woodford County, KY",Parrish,2,0,2,8,2,13.0
+2,0,Frederick William,1,19.0,0,0,28665,10.5,unknown,0,not_found,not_found,"Gunnislake, England / Butte, MT",Pengelly,0,1,1,8,1,10.5
+2,0,Rene,1,30.5,0,0,SC/PARIS 2131,15.05,unknown,1,not_found,not_found,unknown,Pernot,0,1,1,8,1,15.05
+2,0,Joseph Maria,1,41.0,0,0,237393,13.0,unknown,0,not_found,not_found,unknown,Peruschitz,4,1,1,8,1,13.0
+2,1,Alice Frances Louisa,0,21.0,0,1,S.O./P.P. 2,21.0,unknown,0,12,survived,"Ilfracombe, Devon",Phillips,1,0,2,8,2,10.5
+2,1,"Kate Florence (""Mrs Kate Louise Phillips Marshall"")",0,19.0,0,0,250655,26.0,unknown,0,11,survived,"Worcester, England",Phillips,1,1,1,8,2,13.0
+2,0,Escott Robert,1,43.0,0,1,S.O./P.P. 2,21.0,unknown,0,not_found,not_found,"Ilfracombe, Devon",Phillips,0,0,2,8,2,10.5
+2,1,(Rosa),0,32.0,0,0,234604,13.0,unknown,0,9,survived,Russia,Pinsky,2,1,1,8,1,13.0
+2,0,Martin,1,34.0,0,0,250647,13.0,unknown,0,not_found,not_found,"Denmark / New York, NY",Ponesell,0,1,1,8,2,6.5
+2,1,Emilio Ilario Giuseppe,1,30.0,0,0,C.A. 34644,12.7375,unknown,1,14,survived,"Milford, NH",Portaluppi,0,1,1,8,1,12.7375
+2,0,Franz,1,27.0,0,0,SC/PARIS 2168,15.0333,unknown,1,not_found,not_found,Paris,Pulbaum,0,1,1,8,1,15.0333
+2,1,Phyllis May,0,2.0,1,1,26360,26.0,unknown,0,11,survived,"Plymouth, Devon / Detroit, MI",Quick,1,0,3,8,3,8.666666666666666
+2,1,Winifred Vera,0,8.0,1,1,26360,26.0,unknown,0,11,survived,"Plymouth, Devon / Detroit, MI",Quick,1,0,3,8,3,8.666666666666666
+2,1,Frederick Charles (Jane Richards),0,33.0,0,2,26360,26.0,unknown,0,11,survived,"Plymouth, Devon / Detroit, MI",Quick,2,0,3,8,3,8.666666666666666
+2,0,David,1,36.0,0,0,C.A. 17248,10.5,unknown,0,not_found,not_found,"Brighton, Sussex",Reeves,0,1,1,8,1,10.5
+2,0,Peter Henry,1,34.0,1,0,31027,21.0,unknown,0,12,not_found,"Elizabeth, NJ",Renouf,0,0,2,8,2,10.5
+2,1,Peter Henry (Lillian Jefferys),0,30.0,3,0,31027,21.0,unknown,0,boat_unknown,survived,"Elizabeth, NJ",Renouf,2,0,4,8,2,10.5
+2,1,Encarnacion,0,28.0,0,0,230434,13.0,unknown,0,9,survived,Spain,Reynaldo,8,1,1,8,1,13.0
+2,0,Emile,1,23.0,0,0,SC/PARIS 2133,15.0458,unknown,1,not_found,not_found,"Paris / Montreal, PQ",Richard,0,1,1,8,1,15.0458
+2,1,George Sibley,1,0.8333,1,1,29106,18.75,unknown,0,4,survived,"Cornwall / Akron, OH",Richards,3,0,3,8,3,6.25
+2,1,William Rowe,1,3.0,1,1,29106,18.75,unknown,0,4,survived,"Cornwall / Akron, OH",Richards,3,0,3,8,3,6.25
+2,1,Sidney (Emily Hocking),0,24.0,2,3,29106,18.75,unknown,0,4,survived,"Cornwall / Akron, OH",Richards,2,0,6,8,3,6.25
+2,1,Lucy,0,50.0,0,0,W./C. 14258,10.5,unknown,0,13,survived,"London, England / Marietta, Ohio and Milwaukee, WI",Ridsdale,1,1,1,8,1,10.5
+2,0,Reginald Harry,1,19.0,0,0,28004,10.5,unknown,0,not_found,not_found,unknown,Rogers,0,1,1,8,1,10.5
+2,1,Emily,0,21.0,0,0,C.A. 31026,10.5,unknown,0,12,survived,"Guernsey / Wilmington, DE",Rugg,1,1,1,8,1,10.5
+2,0,August,1,26.0,0,0,248659,13.0,unknown,0,not_found,not_found,"Newark, NJ",Schmidt,0,1,1,8,1,13.0
+2,0,Charles Frederick Waddington,1,25.0,0,0,244361,13.0,unknown,0,not_found,not_found,Liverpool,Sedgwick,0,1,1,8,1,13.0
+2,0,Percival James R,1,27.0,0,0,244358,26.0,unknown,0,not_found,not_found,"Hornsey, England",Sharp,0,1,1,8,2,13.0
+2,1,William (Imanita Parrish Hall),0,25.0,0,1,230433,26.0,unknown,0,12,survived,"Deer Lodge, MT",Shelley,2,0,2,8,2,13.0
+2,1,Lyyli Karoliina,0,18.0,0,2,250652,13.0,unknown,0,16,survived,"Finland / Minneapolis, MN",Silven,1,0,3,8,1,13.0
+2,1,Maude,0,20.0,0,0,C.A. 33112,36.75,unknown,0,11,survived,"Cornwall / Hancock, MI",Sincock,1,1,1,8,4,9.1875
+2,1,Anna,0,30.0,0,0,250648,13.0,unknown,0,10,survived,"Finland / Washington, DC",Sinkkonen,1,1,1,8,1,13.0
+2,0,Ernst Adolf,1,59.0,0,0,237442,13.5,unknown,0,not_found,not_found,"Sault St Marie, ON",Sjostedt,0,1,1,8,1,13.5
+2,1,Hilda Mary,0,30.0,0,0,234818,12.35,unknown,2,13,survived,"Halifax, NS",Slayter,1,1,1,8,1,12.35
+2,0,Richard James,1,35.0,0,0,28206,10.5,unknown,0,not_found,not_found,Cornwall,Slemen,0,1,1,8,1,10.5
+2,1,Marion Elsie,0,40.0,0,0,31418,13.0,unknown,0,9,survived,unknown,Smith,1,1,1,8,1,13.0
+2,0,Samuel James Hayden,1,25.0,0,0,C.A. 29178,13.0,unknown,0,not_found,not_found,"Cornwall / Houghton, MI",Sobey,0,1,1,8,1,13.0
+2,0,Samuel Ward,1,41.0,0,0,237734,15.0458,unknown,1,not_found,not_found,"New York, NY",Stanton,0,1,1,8,1,15.0458
+2,0,Philip Joseph,1,25.0,0,0,F.C.C. 13540,10.5,unknown,0,not_found,81.0,"Catford, Kent / Detroit, MI",Stokes,0,1,1,8,1,10.5
+2,0,George,1,18.5,0,0,248734,13.0,F,0,not_found,294.0,unknown,Swane,0,1,1,5,1,13.0
+2,0,George Frederick,1,14.0,0,0,220845,65.0,unknown,0,not_found,not_found,"Somerset / Bernardsville, NJ",Sweet,0,1,1,8,5,13.0
+2,1,Ellen,0,50.0,0,0,F.C.C. 13531,10.5,unknown,0,9,survived,"Indianapolis, IN",Toomey,1,1,1,8,1,10.5
+2,0,Moses Aaron,1,23.0,0,0,233639,13.0,unknown,0,not_found,not_found,unknown,Troupiansky,0,1,1,8,1,13.0
+2,1,William H (Jessie L),0,28.0,0,0,240929,12.65,unknown,0,boat_unknown,survived,"Columbus, OH",Trout,2,1,1,8,1,12.65
+2,1,"Edwina Celia ""Winnie""",0,27.0,0,0,34218,10.5,E101,0,16,survived,"Bath, England / Massachusetts",Troutt,1,1,1,4,1,10.5
+2,0,William John Robert,1,29.0,1,0,11668,21.0,unknown,0,not_found,not_found,"Plymouth, England",Turpin,0,0,2,8,2,10.5
+2,0,William John Robert (Dorothy Ann Wonnacott),0,27.0,1,0,11668,21.0,unknown,0,not_found,not_found,"Plymouth, England",Turpin,2,0,2,8,2,10.5
+2,0,James,1,40.0,0,0,28221,13.0,unknown,0,not_found,not_found,"Barre, Co Washington, VT",Veal,0,1,1,8,1,13.0
+2,1,Nellie,0,31.0,0,0,F.C.C. 13528,21.0,unknown,0,14,survived,"Mamaroneck, NY",Walcroft,1,1,1,8,2,10.5
+2,0,John James,1,30.0,1,0,CA 31352,21.0,unknown,0,not_found,not_found,"Bristol, England / New Britain, CT",Ware,0,0,2,8,2,10.5
+2,0,William Jeffery,1,23.0,1,0,28666,10.5,unknown,0,not_found,not_found,unknown,Ware,0,0,2,8,1,10.5
+2,1,John James (Florence Louise Long),0,31.0,0,0,CA 31352,21.0,unknown,0,10,survived,"Bristol, England / New Britain, CT",Ware,2,1,1,8,2,10.5
+2,0,Ennis Hastings,1,32.60655737704918,0,0,239856,0.0,unknown,0,not_found,not_found,Belfast,Watson,0,1,1,8,1,0.0
+2,1,Bertha J,0,12.0,0,0,C.A. 33595,15.75,unknown,0,9,survived,"Aberdeen / Portland, OR",Watt,1,1,1,8,2,7.875
+2,1,"James (Elizabeth ""Bessie"" Inglis Milne)",0,40.0,0,0,C.A. 33595,15.75,unknown,0,9,survived,"Aberdeen / Portland, OR",Watt,2,1,1,8,2,7.875
+2,1,Susan,0,32.5,0,0,27267,13.0,E101,0,12,survived,"England / Hartford, CT",Webber,1,1,1,4,1,13.0
+2,0,Leopold,1,27.0,1,0,228414,26.0,unknown,0,not_found,293.0,"Bromsgrove, England / Montreal, PQ",Weisz,0,0,2,8,2,13.0
+2,1,Leopold (Mathilde Francoise Pede),0,29.0,1,0,228414,26.0,unknown,0,10,survived,"Bromsgrove, England / Montreal, PQ",Weisz,2,0,2,8,2,13.0
+2,1,Ralph Lester,1,2.0,1,1,29103,23.0,unknown,0,14,survived,"Cornwall / Akron, OH",Wells,3,0,3,8,3,7.666666666666667
+2,1,Joan,0,4.0,1,1,29103,23.0,unknown,0,14,survived,"Cornwall / Akron, OH",Wells,1,0,3,8,3,7.666666666666667
+2,1,"Arthur Henry (""Addie"" Dart Trevaskis)",0,29.0,0,2,29103,23.0,unknown,0,14,survived,"Cornwall / Akron, OH",Wells,2,0,3,8,3,7.666666666666667
+2,1,Barbara J,0,0.9167,1,2,C.A. 34651,27.75,unknown,0,10,survived,"Bournmouth, England",West,1,0,4,8,4,6.9375
+2,1,Constance Mirium,0,5.0,1,2,C.A. 34651,27.75,unknown,0,10,survived,"Bournmouth, England",West,1,0,4,8,4,6.9375
+2,0,Edwy Arthur,1,36.0,1,2,C.A. 34651,27.75,unknown,0,not_found,not_found,"Bournmouth, England",West,0,0,4,8,4,6.9375
+2,1,Edwy Arthur (Ada Mary Worth),0,33.0,1,2,C.A. 34651,27.75,unknown,0,10,survived,"Bournmouth, England",West,2,0,4,8,4,6.9375
+2,0,Edward H,1,66.0,0,0,C.A. 24579,10.5,unknown,0,not_found,not_found,"Guernsey, England / Edgewood, RI",Wheadon,0,1,1,8,1,10.5
+2,0,"Edwin ""Frederick""",1,32.60655737704918,0,0,SC/PARIS 2159,12.875,unknown,0,not_found,not_found,unknown,Wheeler,0,1,1,8,1,12.875
+2,1,Charles,1,31.0,0,0,244270,13.0,unknown,0,9,survived,"London, England",Wilhelms,0,1,1,8,1,13.0
+2,1,Charles Eugene,1,16.91227894736842,0,0,244373,13.0,unknown,0,14,survived,"Harrow, England",Williams,0,1,1,8,1,13.0
+2,1,Marion,0,26.0,0,0,220844,13.5,unknown,0,9,survived,"Yoevil, England / Cottage Grove, OR",Wright,1,1,1,8,1,13.5
+2,0,"Henriette (""Mrs Harbeck"")",0,24.0,0,0,248747,13.0,unknown,0,not_found,not_found,Paris,Yrois,1,1,1,8,1,13.0
+3,0,Anthony,1,42.0,0,0,C.A. 5547,7.55,unknown,0,not_found,not_found,unknown,Abbing,0,1,1,8,1,7.55
+3,0,Eugene Joseph,1,13.0,0,2,C.A. 2673,20.25,unknown,0,not_found,not_found,"East Providence, RI",Abbott,3,0,3,8,3,6.75
+3,0,Rossmore Edward,1,16.0,1,1,C.A. 2673,20.25,unknown,0,not_found,190.0,"East Providence, RI",Abbott,0,0,3,8,3,6.75
+3,1,Stanton (Rosa Hunt),0,35.0,1,1,C.A. 2673,20.25,unknown,0,A,survived,"East Providence, RI",Abbott,2,0,3,8,3,6.75
+3,1,Karen Marie,0,16.0,0,0,348125,7.65,unknown,0,16,survived,"Norway Los Angeles, CA",Abelseth,1,1,1,8,1,7.65
+3,1,Olaus Jorgensen,1,25.0,0,0,348122,7.65,F G63,0,A,survived,"Perkins County, SD",Abelseth,0,1,1,5,1,7.65
+3,1,Abraham August Johannes,1,20.0,0,0,SOTON/O2 3101284,7.925,unknown,0,15,survived,"Taalintehdas, Finland Hoboken, NJ",Abrahamsson,0,1,1,8,1,7.925
+3,1,Joseph (Sophie Halaut Easu),0,18.0,0,0,2657,7.2292,unknown,1,C,survived,"Greensburg, PA",Abrahim,2,1,1,8,1,7.2292
+3,0,Mauritz Nils Martin,1,30.0,0,0,C 7076,7.25,unknown,0,not_found,72.0,"Asarum, Sweden Brooklyn, NY",Adahl,0,1,1,8,1,7.25
+3,0,John,1,26.0,0,0,341826,8.05,unknown,0,not_found,103.0,"Bournemouth, England",Adams,0,1,1,8,1,8.05
+3,0,Johan (Johanna Persdotter Larsson),0,40.0,1,0,7546,9.475,unknown,0,not_found,not_found,"Sweden Akeley, MN",Ahlin,2,0,2,8,1,9.475
+3,1,Philip Frank,1,0.8333,0,1,392091,9.35,unknown,0,11,survived,"London, England Norfolk, VA",Aks,3,0,2,8,2,4.675
+3,1,Sam (Leah Rosen),0,18.0,0,1,392091,9.35,unknown,0,13,survived,"London, England Norfolk, VA",Aks,2,0,2,8,2,4.675
+3,1,Nassef Cassem,1,26.0,0,0,2699,18.7875,unknown,1,15,survived,"Syria Fredericksburg, VA",Albimona,0,1,1,8,2,9.39375
+3,0,William,1,26.0,0,0,3474,7.8875,unknown,0,not_found,not_found,"England Albion, NY",Alexander,0,1,1,8,1,7.8875
+3,0,Ilmari Rudolf,1,20.0,0,0,SOTON/O2 3101287,7.925,unknown,0,not_found,not_found,"Salo, Finland Astoria, OR",Alhomaki,0,1,1,8,1,7.925
+3,0,Ahmed,1,24.0,0,0,SOTON/O.Q. 3101311,7.05,unknown,0,not_found,not_found,unknown,Ali,0,1,1,8,1,7.05
+3,0,William,1,25.0,0,0,SOTON/O.Q. 3101312,7.05,unknown,0,not_found,79.0,Argentina,Ali,0,1,1,8,1,7.05
+3,0,William Henry,1,35.0,0,0,373450,8.05,unknown,0,not_found,not_found,"Lower Clapton, Middlesex or Erdington, Birmingham",Allen,0,1,1,8,1,8.05
+3,0,Owen George,1,18.0,0,0,2223,8.3,unknown,0,not_found,259.0,"Windsor, England New York, NY",Allum,0,1,1,8,1,8.3
+3,0,Albert Karvin,1,32.0,0,0,C 4001,22.525,unknown,0,not_found,260.0,"Bergen, Norway",Andersen,0,1,1,8,3,7.508333333333333
+3,1,Carla Christine Nielsine,0,19.0,1,0,350046,7.8542,unknown,0,16,survived,unknown,Andersen-Jensen,1,0,2,8,1,7.8542
+3,0,Sigvard Harald Elias,1,4.0,4,2,347082,31.275,unknown,0,not_found,not_found,"Sweden Winnipeg, MN",Andersson,3,0,7,8,7,4.467857142857143
+3,0,Ebba Iris Alfrida,0,6.0,4,2,347082,31.275,unknown,0,not_found,not_found,"Sweden Winnipeg, MN",Andersson,1,0,7,8,7,4.467857142857143
+3,0,Ellis Anna Maria,0,2.0,4,2,347082,31.275,unknown,0,not_found,not_found,"Sweden Winnipeg, MN",Andersson,1,0,7,8,7,4.467857142857143
+3,1,Erna Alexandra,0,17.0,4,2,3101281,7.925,unknown,0,D,survived,"Ruotsinphyhtaa, Finland New York, NY",Andersson,1,0,7,8,1,7.925
+3,0,Ida Augusta Margareta,0,38.0,4,2,347091,7.775,unknown,0,not_found,not_found,"Vadsbro, Sweden Ministee, MI",Andersson,1,0,7,8,1,7.775
+3,0,Ingeborg Constanzia,0,9.0,4,2,347082,31.275,unknown,0,not_found,not_found,"Sweden Winnipeg, MN",Andersson,1,0,7,8,7,4.467857142857143
+3,0,Sigrid Elisabeth,0,11.0,4,2,347082,31.275,unknown,0,not_found,not_found,"Sweden Winnipeg, MN",Andersson,1,0,7,8,7,4.467857142857143
+3,0,Anders Johan,1,39.0,1,5,347082,31.275,unknown,0,not_found,not_found,"Sweden Winnipeg, MN",Andersson,0,0,7,8,7,4.467857142857143
+3,1,"August Edvard (""Wennerstrom"")",1,27.0,0,0,350043,7.7958,unknown,0,A,survived,unknown,Andersson,0,1,1,8,1,7.7958
+3,0,Johan Samuel,1,26.0,0,0,347075,7.775,unknown,0,not_found,not_found,"Hartford, CT",Andersson,0,1,1,8,1,7.775
+3,0,Anders Johan (Alfrida Konstantia Brogren),0,39.0,1,5,347082,31.275,unknown,0,not_found,not_found,"Sweden Winnipeg, MN",Andersson,2,0,7,8,7,4.467857142857143
+3,0,Paul Edvin,1,20.0,0,0,347466,7.8542,unknown,0,not_found,not_found,"Sweden Chicago, IL",Andreasson,0,1,1,8,1,7.8542
+3,0,Minko,1,26.0,0,0,349202,7.8958,unknown,0,not_found,not_found,"Bulgaria Chicago, IL",Angheloff,0,1,1,8,1,7.8958
+3,0,Josef,1,25.0,1,0,349237,17.8,unknown,0,not_found,not_found,"Altdorf, Switzerland",Arnold-Franchi,0,0,2,8,2,8.9
+3,0,Josef (Josefine Franchi),0,18.0,1,0,349237,17.8,unknown,0,not_found,not_found,"Altdorf, Switzerland",Arnold-Franchi,2,0,2,8,2,8.9
+3,0,Ernst Axel Algot,1,24.0,0,0,349911,7.775,unknown,0,not_found,not_found,"Sweden Joliet, IL",Aronsson,0,1,1,8,1,7.775
+3,0,Adola,1,35.0,0,0,SOTON/O.Q. 3101310,7.05,unknown,0,not_found,not_found,unknown,Asim,0,1,1,8,1,7.05
+3,0,Carl Edgar,1,5.0,4,2,347077,31.3875,unknown,0,not_found,not_found,"Sweden  Worcester, MA",Asplund,3,0,7,8,7,4.483928571428572
+3,0,Clarence Gustaf Hugo,1,9.0,4,2,347077,31.3875,unknown,0,not_found,not_found,"Sweden Worcester, MA",Asplund,3,0,7,8,7,4.483928571428572
+3,1,Edvin Rojj Felix,1,3.0,4,2,347077,31.3875,unknown,0,15,survived,"Sweden Worcester, MA",Asplund,3,0,7,8,7,4.483928571428572
+3,0,Filip Oscar,1,13.0,4,2,347077,31.3875,unknown,0,not_found,not_found,"Sweden Worcester, MA",Asplund,3,0,7,8,7,4.483928571428572
+3,1,Lillian Gertrud,0,5.0,4,2,347077,31.3875,unknown,0,15,survived,"Sweden Worcester, MA",Asplund,1,0,7,8,7,4.483928571428572
+3,0,Carl Oscar Vilhelm Gustafsson,1,40.0,1,5,347077,31.3875,unknown,0,not_found,142.0,"Sweden  Worcester, MA",Asplund,0,0,7,8,7,4.483928571428572
+3,1,Johan Charles,1,23.0,0,0,350054,7.7958,unknown,0,13,survived,"Oskarshamn, Sweden Minneapolis, MN",Asplund,0,1,1,8,1,7.7958
+3,1,Carl Oscar (Selma Augusta Emilia Johansson),0,38.0,1,5,347077,31.3875,unknown,0,15,survived,"Sweden  Worcester, MA",Asplund,2,0,7,8,7,4.483928571428572
+3,1,"Mariana (""Miriam"")",0,45.0,0,0,2696,7.225,unknown,1,C,survived,"Ottawa, ON",Assaf Khalil,2,1,1,8,1,7.225
+3,0,Gerios,1,21.0,0,0,2692,7.225,unknown,1,not_found,not_found,"Ottawa, ON",Assaf,0,1,1,8,1,7.225
+3,0,Ali,1,23.0,0,0,SOTON/O.Q. 3101309,7.05,unknown,0,not_found,not_found,unknown,Assam,0,1,1,8,1,7.05
+3,0,Malake,0,17.0,0,0,2627,14.4583,unknown,1,not_found,not_found,unknown,Attalah,1,1,1,8,2,7.22915
+3,0,Sleiman,1,30.0,0,0,2694,7.225,unknown,1,not_found,not_found,"Ottawa, ON",Attalah,0,1,1,8,1,7.225
+3,0,Albert,1,23.0,0,0,347468,7.8542,unknown,0,not_found,not_found,"Krakoryd, Sweden Bloomington, IL",Augustsson,0,1,1,8,1,7.8542
+3,1,Banoura,0,13.0,0,0,2687,7.2292,unknown,1,C,survived,"Syria Youngstown, OH",Ayoub,1,1,1,8,1,7.2292
+3,0,Raffull,1,20.0,0,0,2679,7.225,unknown,1,not_found,not_found,unknown,Baccos,0,1,1,8,1,7.225
+3,0,Karl Alfred,1,32.0,1,0,3101278,15.85,unknown,0,D,not_found,"Ruotsinphytaa, Finland New York, NY",Backstrom,0,0,2,8,2,7.925
+3,1,Karl Alfred (Maria Mathilda Gustafsson),0,33.0,3,0,3101278,15.85,unknown,0,boat_unknown,survived,"Ruotsinphytaa, Finland New York, NY",Backstrom,2,0,4,8,2,7.925
+3,1,Eugenie,0,0.75,2,1,2666,19.2583,unknown,1,C,survived,"Syria New York, NY",Baclini,1,0,4,8,4,4.814575
+3,1,Helene Barbara,0,0.75,2,1,2666,19.2583,unknown,1,C,survived,"Syria New York, NY",Baclini,1,0,4,8,4,4.814575
+3,1,Marie Catherine,0,5.0,2,1,2666,19.2583,unknown,1,C,survived,"Syria New York, NY",Baclini,1,0,4,8,4,4.814575
+3,1,Solomon (Latifa Qurban),0,24.0,0,3,2666,19.2583,unknown,1,C,survived,"Syria New York, NY",Baclini,2,0,4,8,4,4.814575
+3,1,Emily Louisa,0,18.0,0,0,A/4 31416,8.05,unknown,0,C,survived,"London Skanteales, NY",Badman,1,1,1,8,1,8.05
+3,0,Mohamed,1,40.0,0,0,2623,7.225,unknown,1,not_found,not_found,unknown,Badt,0,1,1,8,1,7.225
+3,0,Cerin,1,26.0,0,0,349248,7.8958,unknown,0,not_found,not_found,unknown,Balkic,0,1,1,8,1,7.8958
+3,1,Hanna Assi,1,20.0,0,0,2663,7.2292,unknown,1,15,survived,unknown,Barah,0,1,1,8,1,7.2292
+3,0,Saiide,0,18.0,0,1,2691,14.4542,unknown,1,not_found,not_found,"Syria Ottawa, ON",Barbara,1,0,2,8,2,7.2271
+3,0,(Catherine David),0,45.0,0,1,2691,14.4542,unknown,1,not_found,not_found,"Syria Ottawa, ON",Barbara,2,0,2,8,2,7.2271
+3,0,Julia,0,27.0,0,0,330844,7.8792,unknown,2,not_found,not_found,"New York, NY",Barry,1,1,1,8,1,7.8792
+3,0,David John,1,22.0,0,0,324669,8.05,unknown,0,not_found,not_found,"England New York, NY",Barton,0,1,1,8,1,8.05
+3,0,William Thomas,1,19.0,0,0,323951,8.05,unknown,0,not_found,not_found,England,Beavan,0,1,1,8,1,8.05
+3,0,John Viktor,1,26.0,0,0,347068,7.775,unknown,0,not_found,not_found,"Krakudden, Sweden Moune, IL",Bengtsson,0,1,1,8,1,7.775
+3,0,Karl Ivar Sven,1,22.0,0,0,PP 4348,9.35,unknown,0,not_found,not_found,"Tranvik, Finland New York",Berglund,0,1,1,8,1,9.35
+3,0,Seman,1,25.72222222222222,0,0,2622,7.2292,unknown,1,not_found,not_found,unknown,Betros,3,1,1,8,1,7.2292
+3,0,Tannous,1,20.0,0,0,2648,4.0125,unknown,1,not_found,not_found,Syria,Betros,0,1,1,8,1,4.0125
+3,1,Lee,1,32.0,0,0,1601,56.4958,unknown,0,C,survived,"Hong Kong New York, NY",Bing,0,1,1,8,8,7.061975
+3,0,Hans Martin Monsen,1,21.0,0,0,312992,7.775,unknown,0,not_found,not_found,"Brennes, Norway New York",Birkeland,0,1,1,8,1,7.775
+3,0,Ernst Herbert,1,18.0,0,0,347090,7.75,unknown,0,not_found,not_found,"Stockholm, Sweden New York",Bjorklund,0,1,1,8,1,7.75
+3,0,Guentcho,1,26.0,0,0,349224,7.8958,unknown,0,not_found,not_found,"Bulgaria Chicago, IL",Bostandyeff,0,1,1,8,1,7.8958
+3,0,Akar,1,6.0,1,1,2678,15.2458,unknown,1,not_found,not_found,"Syria Kent, ON",Boulos,3,0,3,8,3,5.081933333333333
+3,0,Nourelain,0,9.0,1,1,2678,15.2458,unknown,1,not_found,not_found,"Syria Kent, ON",Boulos,1,0,3,8,3,5.081933333333333
+3,0,Hanna,1,25.72222222222222,0,0,2664,7.225,unknown,1,not_found,not_found,Syria,Boulos,0,1,1,8,1,7.225
+3,0,Joseph (Sultana),0,20.7,0,2,2678,15.2458,unknown,1,not_found,not_found,"Syria Kent, ON",Boulos,2,0,3,8,3,5.081933333333333
+3,0,Mary,0,26.692307692307693,0,2,364848,7.75,unknown,2,not_found,not_found,"Ireland Chicago, IL",Bourke,1,0,3,8,1,7.75
+3,0,John,1,40.0,1,1,364849,15.5,unknown,2,not_found,not_found,"Ireland Chicago, IL",Bourke,0,0,3,8,2,7.75
+3,0,John (Catherine),0,32.0,1,1,364849,15.5,unknown,2,not_found,not_found,"Ireland Chicago, IL",Bourke,2,0,3,8,2,7.75
+3,0,"David John ""Dai""",1,21.0,0,0,54636,16.1,unknown,0,not_found,not_found,"Treherbert, Cardiff, Wales",Bowen,0,1,1,8,2,8.05
+3,1,Bridget Delia,0,22.0,0,0,334914,7.725,unknown,2,13,survived,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",Bradley,1,1,1,8,1,7.725
+3,0,Elin Ester Maria,0,20.0,0,0,347471,7.8542,unknown,0,not_found,not_found,"Medeltorp, Sweden Chicago, IL",Braf,1,1,1,8,1,7.8542
+3,0,Lewis Richard,1,29.0,1,0,3460,7.0458,unknown,0,not_found,not_found,"Bridgerule, Devon",Braund,0,0,2,8,1,7.0458
+3,0,Owen Harris,1,22.0,1,0,A/5 21171,7.25,unknown,0,not_found,not_found,"Bridgerule, Devon",Braund,0,0,2,8,1,7.25
+3,0,Karl Rudolf,1,22.0,0,0,350045,7.7958,unknown,0,not_found,not_found,"Sweden Worcester, MA",Brobeck,0,1,1,8,1,7.7958
+3,0,William Alfred,1,35.0,0,0,364512,8.05,unknown,0,not_found,not_found,"Broomfield, Chelmsford, England",Brocklebank,0,1,1,8,1,8.05
+3,0,Katherine,0,18.5,0,0,329944,7.2833,unknown,2,not_found,299.0,"Co Cork, Ireland Roxbury, MA",Buckley,1,1,1,8,1,7.2833
+3,1,Daniel,1,21.0,0,0,330920,7.8208,unknown,2,13,survived,"Kingwilliamstown, Co Cork, Ireland New York, NY",Buckley,0,1,1,8,1,7.8208
+3,0,Jeremiah,1,19.0,0,0,365222,6.75,unknown,2,not_found,not_found,"Co Cork, Ireland Charlestown, MA",Burke,0,1,1,8,1,6.75
+3,0,Mary Delia,0,18.0,0,0,330963,7.8792,unknown,2,not_found,not_found,"Co Sligo, Ireland New York, NY",Burns,1,1,1,8,1,7.8792
+3,0,Manda,0,21.0,0,0,315087,8.6625,unknown,0,not_found,not_found,unknown,Cacic,1,1,1,8,1,8.6625
+3,0,Marija,0,30.0,0,0,315084,8.6625,unknown,0,not_found,not_found,unknown,Cacic,1,1,1,8,1,8.6625
+3,0,Jego Grga,1,18.0,0,0,315091,8.6625,unknown,0,not_found,not_found,unknown,Cacic,0,1,1,8,1,8.6625
+3,0,Luka,1,38.0,0,0,315089,8.6625,unknown,0,not_found,not_found,Croatia,Cacic,0,1,1,8,1,8.6625
+3,0,Jovo,1,17.0,0,0,315093,8.6625,unknown,0,not_found,not_found,unknown,Calic,0,1,1,8,1,8.6625
+3,0,Petar,1,17.0,0,0,315086,8.6625,unknown,0,not_found,not_found,unknown,Calic,0,1,1,8,1,8.6625
+3,0,Mary,0,21.0,0,0,364846,7.75,unknown,2,not_found,not_found,unknown,Canavan,1,1,1,8,1,7.75
+3,0,Patrick,1,21.0,0,0,364858,7.75,unknown,2,not_found,not_found,"Ireland Philadelphia, PA",Canavan,0,1,1,8,1,7.75
+3,0,Ernest Charles,1,21.0,0,0,A./5. 2152,8.05,unknown,0,not_found,not_found,unknown,Cann,0,1,1,8,1,8.05
+3,0,Joseph,1,25.72222222222222,1,0,2689,14.4583,unknown,1,not_found,not_found,"Ottawa, ON",Caram,0,0,2,8,2,7.22915
+3,0,Joseph (Maria Elias),0,20.7,1,0,2689,14.4583,unknown,1,not_found,not_found,"Ottawa, ON",Caram,2,0,2,8,2,7.22915
+3,0,August Sigfrid,1,28.0,0,0,350042,7.7958,unknown,0,not_found,not_found,"Dagsas, Sweden Fower, MN",Carlsson,0,1,1,8,1,7.7958
+3,0,Carl Robert,1,24.0,0,0,350409,7.8542,unknown,0,not_found,not_found,"Goteborg, Sweden Huntley, IL",Carlsson,0,1,1,8,1,7.8542
+3,1,"Helen ""Ellen""",0,16.0,0,0,367231,7.75,unknown,2,16,survived,"Co Longford, Ireland New York, NY",Carr,1,1,1,8,1,7.75
+3,0,Jeannie,0,37.0,0,0,368364,7.75,unknown,2,not_found,not_found,"Co Sligo, Ireland Hartford, CT",Carr,1,1,1,8,1,7.75
+3,0,Alfred John,1,28.0,0,0,392095,7.25,unknown,0,not_found,not_found,"St Denys, Southampton, Hants",Carver,0,1,1,8,1,7.25
+3,0,Francesco,1,24.0,0,0,343275,8.05,unknown,0,not_found,not_found,London,Celotti,0,1,1,8,1,8.05
+3,0,David,1,21.0,0,0,A/5. 13032,7.7333,unknown,2,not_found,not_found,"Ireland New York, NY",Charters,0,1,1,8,1,7.7333
+3,1,Chang,1,32.0,0,0,1601,56.4958,unknown,0,C,survived,"Hong Kong New York, NY",Chip,0,1,1,8,8,7.061975
+3,0,Emil,1,29.0,0,0,343276,8.05,unknown,0,not_found,not_found,unknown,Christmann,0,1,1,8,1,8.05
+3,0,Apostolos,1,26.0,1,0,2680,14.4542,unknown,1,not_found,not_found,Greece,Chronopoulos,0,0,2,8,2,7.2271
+3,0,Demetrios,1,18.0,1,0,2680,14.4542,unknown,1,not_found,not_found,Greece,Chronopoulos,0,0,2,8,2,7.2271
+3,0,Domingos Fernandeo,1,20.0,0,0,SOTON/O.Q. 3101307,7.05,unknown,0,not_found,not_found,Portugal,Coelho,0,1,1,8,1,7.05
+3,1,"Gurshon ""Gus""",1,18.0,0,0,A/5 3540,8.05,unknown,0,12,survived,"London Brooklyn, NY",Cohen,0,1,1,8,1,8.05
+3,0,Patrick,1,24.0,0,0,371109,7.25,unknown,2,not_found,not_found,"Co Limerick, Ireland Sherbrooke, PQ",Colbert,0,1,1,8,1,7.25
+3,0,Peju,1,36.0,0,0,349210,7.4958,unknown,0,not_found,not_found,"Bulgaria Chicago, IL",Coleff,0,1,1,8,1,7.4958
+3,0,Satio,1,24.0,0,0,349209,7.4958,unknown,0,not_found,not_found,unknown,Coleff,0,1,1,8,1,7.4958
+3,0,Thomas Henry,1,31.0,0,0,21332,7.7333,unknown,2,not_found,not_found,"Philadelphia, PA",Conlon,0,1,1,8,1,7.7333
+3,0,Michael,1,31.0,0,0,335097,7.75,unknown,2,not_found,not_found,"Ireland Brooklyn, NY",Connaghton,0,1,1,8,1,7.75
+3,1,Kate,0,22.0,0,0,370373,7.75,unknown,2,13,survived,Ireland,Connolly,1,1,1,8,1,7.75
+3,0,Kate,0,30.0,0,0,330972,7.6292,unknown,2,not_found,not_found,Ireland,Connolly,1,1,1,8,1,7.6292
+3,0,Patrick,1,70.5,0,0,370369,7.75,unknown,2,not_found,171.0,unknown,Connors,0,1,1,8,1,7.75
+3,0,Jacob,1,43.0,0,0,A/5 3536,8.05,unknown,0,not_found,not_found,unknown,Cook,0,1,1,8,1,8.05
+3,0,Bartol,1,35.0,0,0,349230,7.8958,unknown,0,not_found,not_found,Austria,Cor,0,1,1,8,1,7.8958
+3,0,Ivan,1,27.0,0,0,349229,7.8958,unknown,0,not_found,not_found,Austria,Cor,0,1,1,8,1,7.8958
+3,0,Liudevit,1,19.0,0,0,349231,7.8958,unknown,0,not_found,not_found,Austria,Cor,0,1,1,8,1,7.8958
+3,0,Harry,1,30.0,0,0,SOTON/OQ 392090,8.05,unknown,0,not_found,not_found,London,Corn,0,1,1,8,1,8.05
+3,1,"Eden Leslie ""Neville""",1,9.0,1,1,C.A. 37671,15.9,unknown,0,2,survived,"England Brooklyn, NY",Coutts,3,0,3,8,3,5.3
+3,1,"William Loch ""William""",1,3.0,1,1,C.A. 37671,15.9,unknown,0,2,survived,"England Brooklyn, NY",Coutts,3,0,3,8,3,5.3
+3,1,"William (Winnie ""Minnie"" Treanor)",0,36.0,0,2,C.A. 37671,15.9,unknown,0,2,survived,"England Brooklyn, NY",Coutts,2,0,3,8,3,5.3
+3,0,Daniel,1,59.0,0,0,364500,7.25,unknown,0,not_found,not_found,"Merrill, WI",Coxon,0,1,1,8,1,7.25
+3,0,Ernest James,1,19.0,0,0,S.P. 3464,8.1583,unknown,0,not_found,not_found,"Bristol, England Cleveland, OH",Crease,0,1,1,8,1,8.1583
+3,1,Laura Alice,0,17.0,0,1,371362,16.1,unknown,0,12,survived,"Bournemouth, England Newark, NJ",Cribb,1,0,2,8,2,8.05
+3,0,John Hatfield,1,44.0,0,1,371362,16.1,unknown,0,not_found,not_found,"Bournemouth, England Newark, NJ",Cribb,0,0,2,8,2,8.05
+3,0,Jeso,1,17.0,0,0,315090,8.6625,unknown,0,not_found,not_found,Austria-Hungary,Culumovic,0,1,1,8,1,8.6625
+3,0,Shedid,1,22.5,0,0,2698,7.225,unknown,1,not_found,9.0,unknown,Daher,0,1,1,8,1,7.225
+3,1,Karl Edwart,1,45.0,0,0,7598,8.05,unknown,0,15,survived,"Australia Fingal, ND",Dahl,0,1,1,8,1,8.05
+3,0,Gerda Ulrika,0,22.0,0,0,7552,10.5167,unknown,0,not_found,not_found,"Norrlot, Sweden Chicago, IL",Dahlberg,1,1,1,8,1,10.5167
+3,0,Branko,1,19.0,0,0,349228,10.1708,unknown,0,not_found,not_found,Austria,Dakic,0,1,1,8,1,10.1708
+3,1,"Margaret Marcella ""Maggie""",0,30.0,0,0,382650,6.95,unknown,2,15,survived,"Co Athlone, Ireland New York, NY",Daly,1,1,1,8,1,6.95
+3,1,Eugene Patrick,1,29.0,0,0,382651,7.75,unknown,2,13 15 B,survived,"Co Athlone, Ireland New York, NY",Daly,0,1,1,8,1,7.75
+3,0,Gilbert Sigvard Emanuel,1,0.3333,0,2,347080,14.4,unknown,0,not_found,not_found,"Stanton, IA",Danbom,3,0,3,8,3,4.8
+3,0,Ernst Gilbert,1,34.0,1,1,347080,14.4,unknown,0,not_found,197.0,"Stanton, IA",Danbom,0,0,3,8,3,4.8
+3,0,Ernst Gilbert (Anna Sigrid Maria Brogren),0,28.0,1,1,347080,14.4,unknown,0,not_found,not_found,"Stanton, IA",Danbom,2,0,3,8,3,4.8
+3,0,Yoto,1,27.0,0,0,349219,7.8958,unknown,0,not_found,not_found,"Bulgaria Chicago, IL",Danoff,0,1,1,8,1,7.8958
+3,0,Ristiu,1,25.0,0,0,349203,7.8958,unknown,0,not_found,not_found,"Bulgaria Chicago, IL",Dantcheff,0,1,1,8,1,7.8958
+3,0,Alfred J,1,24.0,2,0,A/4 48871,24.15,unknown,0,not_found,not_found,"West Bromwich, England Pontiac, MI",Davies,0,0,3,8,3,8.049999999999999
+3,0,Evan,1,22.0,0,0,SC/A4 23568,8.05,unknown,0,not_found,not_found,unknown,Davies,0,1,1,8,1,8.05
+3,0,John Samuel,1,21.0,2,0,A/4 48871,24.15,unknown,0,not_found,not_found,"West Bromwich, England Pontiac, MI",Davies,0,0,3,8,3,8.049999999999999
+3,0,Joseph,1,17.0,2,0,A/4 48873,8.05,unknown,0,not_found,not_found,"West Bromwich, England Pontiac, MI",Davies,0,0,3,8,1,8.05
+3,0,Thomas Henry,1,26.766734836065574,1,0,386525,16.1,unknown,0,not_found,not_found,"Liverpool, England Bedford, OH",Davison,0,0,2,8,2,8.05
+3,1,Thomas Henry (Mary E Finck),0,22.726951063829787,1,0,386525,16.1,unknown,0,16,survived,"Liverpool, England Bedford, OH",Davison,2,0,2,8,2,8.05
+3,1,Guillaume Joseph,1,36.5,1,0,345572,17.4,unknown,0,15,survived,"Tampico, MT",de Messemaeker,0,0,2,8,2,8.7
+3,1,Guillaume Joseph (Emma),0,36.0,1,0,345572,17.4,unknown,0,13,survived,"Tampico, MT",de Messemaeker,2,0,2,8,2,8.7
+3,1,Theodore,1,30.0,0,0,345774,9.5,unknown,0,11,survived,"Belgium Detroit, MI",de Mulder,0,1,1,8,1,9.5
+3,0,Alfons,1,16.0,0,0,345778,9.5,unknown,0,not_found,not_found,unknown,de Pelsmaeker,0,1,1,8,1,9.5
+3,1,Bertram Vere,1,1.0,1,2,C.A. 2315,20.575,unknown,0,10,survived,"Devon, England Wichita, KS",Dean,3,0,4,8,4,5.14375
+3,1,"Elizabeth Gladys ""Millvina""",0,0.1667,1,2,C.A. 2315,20.575,unknown,0,10,survived,"Devon, England Wichita, KS",Dean,1,0,4,8,4,5.14375
+3,0,Bertram Frank,1,26.0,1,2,C.A. 2315,20.575,unknown,0,not_found,not_found,"Devon, England Wichita, KS",Dean,0,0,4,8,4,5.14375
+3,1,Bertram (Eva Georgetta Light),0,33.0,1,2,C.A. 2315,20.575,unknown,0,10,survived,"Devon, England Wichita, KS",Dean,2,0,4,8,4,5.14375
+3,0,Redjo,1,25.0,0,0,349250,7.8958,unknown,0,not_found,not_found,unknown,Delalic,0,1,1,8,1,7.8958
+3,0,Marinko,1,26.766734836065574,0,0,349238,7.8958,unknown,0,not_found,not_found,unknown,Demetri,0,1,1,8,1,7.8958
+3,0,Mitto,1,26.766734836065574,0,0,349225,7.8958,unknown,0,not_found,not_found,"Bulgaria Coon Rapids, IA",Denkoff,0,1,1,8,1,7.8958
+3,0,Samuel,1,22.0,0,0,A/5 21172,7.25,unknown,0,not_found,not_found,unknown,Dennis,0,1,1,8,1,7.25
+3,0,William,1,36.0,0,0,A/5 21175,7.25,unknown,0,not_found,not_found,unknown,Dennis,0,1,1,8,1,7.25
+3,1,Margaret Delia,0,19.0,0,0,330958,7.8792,unknown,2,C,survived,"Kilmacowen, Co Sligo, Ireland New York, NY",Devaney,1,1,1,8,1,7.8792
+3,0,Mirko,1,17.0,0,0,349232,7.8958,unknown,0,not_found,not_found,unknown,Dika,0,1,1,8,1,7.8958
+3,0,Jovan,1,42.0,0,0,315088,8.6625,unknown,0,not_found,not_found,unknown,Dimic,0,1,1,8,1,8.6625
+3,0,Valtcho,1,43.0,0,0,349226,7.8958,unknown,0,not_found,not_found,unknown,Dintcheff,0,1,1,8,1,7.8958
+3,0,Tannous,1,25.72222222222222,0,0,2686,7.2292,unknown,1,not_found,not_found,unknown,Doharr,0,1,1,8,1,7.2292
+3,0,Patrick,1,32.0,0,0,370376,7.75,unknown,2,not_found,not_found,"Ireland New York, NY",Dooley,0,1,1,8,1,7.75
+3,1,Edward Arthur,1,19.0,0,0,A/5. 10482,8.05,unknown,0,B,survived,"England Oglesby, IL",Dorking,0,1,1,8,1,8.05
+3,1,Elizabeth,0,30.0,0,0,364516,12.475,unknown,0,13,survived,"Union Hill, NJ",Dowdell,1,1,1,8,2,6.2375
+3,0,Elizabeth,0,24.0,0,0,368702,7.75,unknown,2,not_found,not_found,"Ireland New York, NY",Doyle,1,1,1,8,1,7.75
+3,1,Jennie,0,23.0,0,0,SOTON/OQ 392083,8.05,unknown,0,boat_unknown,survived,"London New York, NY",Drapkin,1,1,1,8,1,8.05
+3,0,Jozef,1,33.0,0,0,349241,7.8958,unknown,1,not_found,51.0,"Austria Niagara Falls, NY",Drazenoic,0,1,1,8,1,7.8958
+3,0,Frank,1,65.0,0,0,336439,7.75,unknown,2,not_found,not_found,unknown,Duane,0,1,1,8,1,7.75
+3,1,Joseph,1,24.0,0,0,S.O./P.P. 752,7.55,unknown,0,D,survived,"England Albion, NY",Duquemin,0,1,1,8,1,7.55
+3,0,Adolf Fredrik,1,23.0,1,0,347072,13.9,unknown,0,not_found,not_found,"West Haven, CT",Dyker,0,0,2,8,2,6.95
+3,1,Adolf Fredrik (Anna Elisabeth Judith Andersson),0,22.0,1,0,347072,13.9,unknown,0,16,survived,"West Haven, CT",Dyker,2,0,2,8,2,6.95
+3,0,Gustaf Hjalmar,1,18.0,0,0,349912,7.775,unknown,0,not_found,not_found,"Tofta, Sweden Joliet, IL",Edvardsson,0,1,1,8,1,7.775
+3,0,Hans Linus,1,16.0,0,0,347074,7.775,unknown,0,not_found,not_found,"Karberg, Sweden Jerome Junction, AZ",Eklund,0,1,1,8,1,7.775
+3,0,Johan,1,45.0,0,0,347061,6.975,unknown,0,not_found,not_found,"Effington Rut, SD",Ekstrom,0,1,1,8,1,6.975
+3,0,Dibo,1,25.72222222222222,0,0,2674,7.225,unknown,1,not_found,not_found,unknown,Elias,0,1,1,8,1,7.225
+3,0,Joseph,1,39.0,0,2,2675,7.2292,unknown,1,not_found,not_found,"Syria Ottawa, ON",Elias,0,0,3,8,1,7.2292
+3,0,Joseph Jr,1,17.0,1,1,2690,7.2292,unknown,1,not_found,not_found,unknown,Elias,0,0,3,8,1,7.2292
+3,0,Tannous,1,15.0,1,1,2695,7.2292,unknown,1,not_found,not_found,Syria,Elias,0,0,3,8,1,7.2292
+3,0,William James,1,47.0,0,0,A/5 3902,7.25,unknown,0,not_found,not_found,"Illinois, USA",Elsbury,0,1,1,8,1,7.25
+3,1,Virginia Ethel,0,5.0,0,0,364516,12.475,unknown,0,13,survived,"New York, NY",Emanuel,1,1,1,8,2,6.2375
+3,0,Farred Chehab,1,25.72222222222222,0,0,2631,7.225,unknown,1,not_found,not_found,unknown,Emir,0,1,1,8,1,7.225
+3,0,Thomas James,1,40.5,0,0,C.A. 6212,15.1,unknown,0,not_found,187.0,unknown,Everett,0,1,1,8,2,7.55
+3,0,James,1,40.5,0,0,367232,7.75,unknown,2,not_found,68.0,"Aughnacliff, Co Longford, Ireland New York, NY",Farrell,0,1,1,8,1,7.75
+3,1,Luigi,1,22.85507173913044,0,0,SOTON/O.Q. 3101308,7.05,unknown,0,15,survived,"Italy Philadelphia, PA",Finoli,0,1,1,8,1,7.05
+3,0,Eberhard Thelander,1,18.0,0,0,350036,7.7958,unknown,0,not_found,not_found,unknown,Fischer,0,1,1,8,1,7.7958
+3,0,Honora,0,26.692307692307693,0,0,364859,7.75,unknown,2,not_found,not_found,unknown,Fleming,1,1,1,8,1,7.75
+3,0,James,1,26.92105263157895,0,0,364851,7.75,unknown,2,not_found,not_found,unknown,Flynn,0,1,1,8,1,7.75
+3,0,John,1,26.92105263157895,0,0,368323,6.95,unknown,2,not_found,not_found,unknown,Flynn,0,1,1,8,1,6.95
+3,0,Joseph,1,26.0,0,0,330910,7.8792,unknown,2,not_found,not_found,"Ireland Chicago, IL",Foley,0,1,1,8,1,7.8792
+3,0,William,1,26.92105263157895,0,0,365235,7.75,unknown,2,not_found,not_found,Ireland,Foley,0,1,1,8,1,7.75
+3,1,Choong,1,22.85507173913044,0,0,1601,56.4958,unknown,0,13,survived,"Hong Kong New York, NY",Foo,0,1,1,8,8,7.061975
+3,0,"Doolina Margaret ""Daisy""",0,21.0,2,2,W./C. 6608,34.375,unknown,0,not_found,not_found,"Rotherfield, Sussex, England Essex Co, MA",Ford,1,0,5,8,5,6.875
+3,0,"Robina Maggie ""Ruby""",0,9.0,2,2,W./C. 6608,34.375,unknown,0,not_found,not_found,"Rotherfield, Sussex, England Essex Co, MA",Ford,1,0,5,8,5,6.875
+3,0,Arthur,1,26.766734836065574,0,0,A/5 1478,8.05,unknown,0,not_found,not_found,"Bridgwater, Somerset, England",Ford,0,1,1,8,1,8.05
+3,0,Edward Watson,1,18.0,2,2,W./C. 6608,34.375,unknown,0,not_found,not_found,"Rotherfield, Sussex, England Essex Co, MA",Ford,0,0,5,8,5,6.875
+3,0,William Neal,1,16.0,1,3,W./C. 6608,34.375,unknown,0,not_found,not_found,"Rotherfield, Sussex, England Essex Co, MA",Ford,0,0,5,8,5,6.875
+3,0,Edward (Margaret Ann Watson),0,48.0,1,3,W./C. 6608,34.375,unknown,0,not_found,not_found,"Rotherfield, Sussex, England Essex Co, MA",Ford,2,0,5,8,5,6.875
+3,0,Patrick,1,26.92105263157895,0,0,368573,7.75,unknown,2,not_found,not_found,"Ireland New York, NY",Fox,0,1,1,8,1,7.75
+3,0,Charles (Charles Fardon),1,26.766734836065574,0,0,SOTON/O.Q. 3101314,7.25,unknown,0,not_found,not_found,unknown,Franklin,0,1,1,8,1,7.25
+3,0,Martin,1,25.0,0,0,36864,7.7417,unknown,2,not_found,not_found,"New York, NY",Gallagher,0,1,1,8,1,7.7417
+3,0,John,1,26.766734836065574,0,0,358585,14.5,unknown,0,not_found,not_found,unknown,Garfirth,0,1,1,8,2,7.25
+3,0,Stanio,1,25.72222222222222,0,0,349254,7.8958,unknown,1,not_found,not_found,unknown,Gheorgheff,0,1,1,8,1,7.8958
+3,0,Eliezer,1,22.0,0,0,14973,8.05,unknown,0,not_found,47.0,unknown,Gilinski,0,1,1,8,1,8.05
+3,1,"Katherine ""Katie""",0,16.0,0,0,35851,7.7333,unknown,2,16,survived,"Co Longford, Ireland New York, NY",Gilnagh,1,1,1,8,1,7.7333
+3,1,Mary Agatha,0,20.5,0,0,335677,7.75,unknown,2,13,survived,"Co Clare, Ireland Washington, DC",Glynn,1,1,1,8,1,7.75
+3,1,"Frank John William ""Frankie""",1,9.0,0,2,363291,20.525,unknown,0,C D,survived,"Strood, Kent, England Detroit, MI",Goldsmith,3,0,3,8,3,6.841666666666666
+3,0,Frank John,1,33.0,1,1,363291,20.525,unknown,0,not_found,not_found,"Strood, Kent, England Detroit, MI",Goldsmith,0,0,3,8,3,6.841666666666666
+3,0,Nathan,1,41.0,0,0,SOTON/O.Q. 3101263,7.85,unknown,0,not_found,not_found,"Philadelphia, PA",Goldsmith,0,1,1,8,1,7.85
+3,1,Frank John (Emily Alice Brown),0,31.0,1,1,363291,20.525,unknown,0,C D,survived,"Strood, Kent, England Detroit, MI",Goldsmith,2,0,3,8,3,6.841666666666666
+3,0,Manuel Estanslas,1,38.0,0,0,SOTON/O.Q. 3101306,7.05,unknown,0,not_found,not_found,Portugal,Goncalves,0,1,1,8,1,7.05
+3,0,Harold Victor,1,9.0,5,2,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,3,0,8,8,8,5.8625
+3,0,Sidney Leonard,1,1.0,5,2,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,3,0,8,8,8,5.8625
+3,0,William Frederick,1,11.0,5,2,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,3,0,8,8,8,5.8625
+3,0,Jessie Allis,0,10.0,5,2,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,1,0,8,8,8,5.8625
+3,0,Lillian Amy,0,16.0,5,2,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,1,0,8,8,8,5.8625
+3,0,Charles Edward,1,14.0,5,2,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,0,0,8,8,8,5.8625
+3,0,Charles Frederick,1,40.0,1,6,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,0,0,8,8,8,5.8625
+3,0,Frederick (Augusta Tyler),0,43.0,1,6,CA 2144,46.9,unknown,0,not_found,not_found,"Wiltshire, England Niagara Falls, NY",Goodwin,2,0,8,8,8,5.8625
+3,0,George Henry,1,51.0,0,0,21440,8.05,unknown,0,not_found,not_found,"Dorking, Surrey, England",Green,0,1,1,8,1,8.05
+3,0,Daniel Danielsen,1,32.0,0,0,8471,8.3625,unknown,0,not_found,not_found,"Foresvik, Norway Portland, ND",Gronnestad,0,1,1,8,1,8.3625
+3,0,Robert,1,26.766734836065574,0,0,376563,8.05,unknown,0,not_found,not_found,unknown,Guest,0,1,1,8,1,8.05
+3,0,Alfred Ossian,1,20.0,0,0,7534,9.8458,unknown,0,not_found,not_found,"Waukegan, Chicago, IL",Gustafsson,0,1,1,8,2,4.9229
+3,0,Anders Vilhelm,1,37.0,2,0,3101276,7.925,unknown,0,not_found,98.0,"Ruotsinphytaa, Finland New York, NY",Gustafsson,0,0,3,8,1,7.925
+3,0,Johan Birger,1,28.0,2,0,3101277,7.925,unknown,0,not_found,not_found,"Ruotsinphytaa, Finland New York, NY",Gustafsson,0,0,3,8,1,7.925
+3,0,Karl Gideon,1,19.0,0,0,347069,7.775,unknown,0,not_found,not_found,"Myren, Sweden New York, NY",Gustafsson,0,1,1,8,1,7.775
+3,0,Aloisia,0,24.0,0,0,349236,8.85,unknown,0,not_found,not_found,unknown,Haas,1,1,1,8,1,8.85
+3,0,Kate,0,17.0,0,0,AQ/3. 30631,7.7333,unknown,2,not_found,not_found,unknown,Hagardon,1,1,1,8,1,7.7333
+3,0,Ingvald Olai Olsen,1,26.766734836065574,1,0,65303,19.9667,unknown,0,not_found,not_found,unknown,Hagland,0,0,2,8,1,19.9667
+3,0,Konrad Mathias Reiersen,1,26.766734836065574,1,0,65304,19.9667,unknown,0,not_found,not_found,unknown,Hagland,0,0,2,8,1,19.9667
+3,0,Pekka Pietari,1,28.0,1,0,STON/O2. 3101279,15.85,unknown,0,not_found,not_found,unknown,Hakkarainen,0,0,2,8,2,7.925
+3,1,Pekka Pietari (Elin Matilda Dolck),0,24.0,1,0,STON/O2. 3101279,15.85,unknown,0,15,survived,unknown,Hakkarainen,2,0,2,8,2,7.925
+3,0,Leon,1,20.0,0,0,345769,9.5,unknown,0,not_found,not_found,unknown,Hampe,0,1,1,8,1,9.5
+3,0,Mansour,1,23.5,0,0,2693,7.2292,unknown,1,not_found,188.0,unknown,Hanna,0,1,1,8,1,7.2292
+3,0,Claus Peter,1,41.0,2,0,350026,14.1083,unknown,0,not_found,not_found,unknown,Hansen,0,0,3,8,2,7.05415
+3,0,Henrik Juul,1,26.0,1,0,350025,7.8542,unknown,0,not_found,not_found,unknown,Hansen,0,0,2,8,1,7.8542
+3,0,Henry Damsgaard,1,21.0,0,0,350029,7.8542,unknown,0,not_found,69.0,unknown,Hansen,0,1,1,8,1,7.8542
+3,1,Claus Peter (Jennie L Howard),0,45.0,1,0,350026,14.1083,unknown,0,11,survived,unknown,Hansen,2,0,2,8,2,7.05415
+3,0,Alice Phoebe,0,22.951612903225808,0,0,W./C. 6609,7.55,unknown,0,not_found,not_found,unknown,Harknett,1,1,1,8,1,7.55
+3,0,Abraham (David Lishin),1,25.0,0,0,374887,7.25,unknown,0,B,not_found,unknown,Harmer,0,1,1,8,1,7.25
+3,0,Henry,1,26.92105263157895,0,0,394140,6.8583,unknown,2,not_found,not_found,unknown,Hart,0,1,1,8,1,6.8583
+3,0,Houssein G N,1,11.0,0,0,2699,18.7875,unknown,1,not_found,not_found,unknown,Hassan,0,1,1,8,2,9.39375
+3,1,"Hanora ""Nora""",0,20.5,0,0,370375,7.75,unknown,2,16,survived,unknown,Healy,1,1,1,8,1,7.75
+3,1,Oskar Arvid,1,27.0,0,0,347089,6.975,unknown,0,15,survived,unknown,Hedman,0,1,1,8,1,6.975
+3,1,Ling,1,22.85507173913044,0,0,1601,56.4958,unknown,0,C,survived,unknown,Hee,0,1,1,8,8,7.061975
+3,0,"Hanora ""Nora""",0,18.0,0,0,365226,6.75,unknown,2,not_found,not_found,unknown,Hegarty,1,1,1,8,1,6.75
+3,1,Laina,0,26.0,0,0,STON/O2. 3101282,7.925,unknown,0,boat_unknown,survived,unknown,Heikkinen,1,1,1,8,1,7.925
+3,0,Wendla Maria,0,23.0,0,0,STON/O2. 3101290,7.925,unknown,0,not_found,not_found,unknown,Heininen,1,1,1,8,1,7.925
+3,1,Hilda Maria,0,22.0,0,0,7548,8.9625,unknown,0,C,survived,unknown,Hellstrom,1,1,1,8,1,8.9625
+3,0,Ignjac,1,28.0,0,0,349243,7.8958,unknown,0,not_found,306.0,unknown,Hendekovic,0,1,1,8,1,7.8958
+3,0,Jenny Lovisa,0,28.0,0,0,347086,7.775,unknown,0,not_found,not_found,unknown,Henriksson,1,1,1,8,1,7.775
+3,0,Delia,0,26.692307692307693,0,0,382649,7.75,unknown,2,not_found,not_found,unknown,Henry,1,1,1,8,1,7.75
+3,1,Hildur E,0,2.0,0,1,3101298,12.2875,unknown,0,15,survived,unknown,Hirvonen,1,0,2,8,2,6.14375
+3,1,Alexander (Helga E Lindqvist),0,22.0,1,1,3101298,12.2875,unknown,0,15,survived,unknown,Hirvonen,2,0,3,8,2,6.14375
+3,0,John Fredrik Alexander,1,43.0,0,0,C 7075,6.45,unknown,0,not_found,not_found,unknown,Holm,0,1,1,8,1,6.45
+3,0,Johan Martin,1,28.0,0,0,C 4001,22.525,unknown,0,not_found,not_found,unknown,Holthen,0,1,1,8,3,7.508333333333333
+3,1,Eliina,0,27.0,0,0,STON/O2. 3101283,7.925,unknown,0,boat_unknown,survived,unknown,Honkanen,1,1,1,8,1,7.925
+3,0,John,1,26.92105263157895,0,0,370377,7.75,unknown,2,not_found,not_found,unknown,Horgan,0,1,1,8,1,7.75
+3,1,May Elizabeth,0,22.726951063829787,0,0,A. 2. 39186,8.05,unknown,0,C,survived,unknown,Howard,1,1,1,8,1,8.05
+3,0,Adolf Mathias Nicolai Olsen,1,42.0,0,0,348121,7.65,F G63,0,not_found,120.0,unknown,Humblen,0,1,1,5,1,7.65
+3,1,Abraham,1,22.85507173913044,0,0,3470,7.8875,unknown,0,C,survived,unknown,Hyman,0,1,1,8,1,7.8875
+3,0,Yousseff,1,30.0,0,0,2685,7.2292,unknown,1,not_found,not_found,unknown,Ibrahim Shawah,0,1,1,8,1,7.2292
+3,0,Ylio,1,26.766734836065574,0,0,349220,7.8958,unknown,0,not_found,not_found,unknown,Ilieff,0,1,1,8,1,7.8958
+3,0,Ida Livija,0,27.0,1,0,STON/O2. 3101270,7.925,unknown,0,not_found,not_found,unknown,Ilmakangas,1,0,2,8,1,7.925
+3,0,Pieta Sofia,0,25.0,1,0,STON/O2. 3101271,7.925,unknown,0,not_found,not_found,unknown,Ilmakangas,1,0,2,8,1,7.925
+3,0,Kanio,1,26.766734836065574,0,0,349201,7.8958,unknown,0,not_found,not_found,unknown,Ivanoff,0,1,1,8,1,7.8958
+3,1,Ivan,1,29.0,0,0,349240,7.8958,unknown,1,15,survived,unknown,Jalsevac,0,1,1,8,1,7.8958
+3,1,Carl Olof,1,21.0,0,0,350034,7.7958,unknown,0,A,survived,unknown,Jansson,0,1,1,8,1,7.7958
+3,0,Jose Neto,1,26.766734836065574,0,0,SOTON/O.Q. 3101305,7.05,unknown,0,not_found,not_found,unknown,Jardin,0,1,1,8,1,7.05
+3,0,Hans Peder,1,20.0,0,0,350050,7.8542,unknown,0,not_found,not_found,unknown,Jensen,0,1,1,8,1,7.8542
+3,0,Niels Peder,1,48.0,0,0,350047,7.8542,unknown,0,not_found,not_found,unknown,Jensen,0,1,1,8,1,7.8542
+3,0,Svend Lauritz,1,17.0,1,0,350048,7.0542,unknown,0,not_found,not_found,unknown,Jensen,0,0,2,8,1,7.0542
+3,1,Annie,0,20.5,0,0,14313,7.75,unknown,2,D,survived,unknown,Jermyn,1,1,1,8,1,7.75
+3,1,Bernt,1,22.85507173913044,0,0,65306,8.1125,unknown,0,13,survived,unknown,Johannesen-Bratthammer,0,1,1,8,1,8.1125
+3,0,Jakob Alfred,1,34.0,0,0,3101264,6.4958,unknown,0,not_found,143.0,unknown,Johanson,0,1,1,8,1,6.4958
+3,1,Oskar Leander,1,26.0,0,0,347070,7.775,unknown,0,15,survived,unknown,Johansson Palmquist,0,1,1,8,1,7.775
+3,0,Erik,1,22.0,0,0,350052,7.7958,unknown,0,not_found,156.0,unknown,Johansson,0,1,1,8,1,7.7958
+3,0,Gustaf Joel,1,33.0,0,0,7540,8.6542,unknown,0,not_found,285.0,unknown,Johansson,0,1,1,8,1,8.6542
+3,0,Karl Johan,1,31.0,0,0,347063,7.775,unknown,0,not_found,not_found,unknown,Johansson,0,1,1,8,1,7.775
+3,0,Nils,1,29.0,0,0,347467,7.8542,unknown,0,not_found,not_found,unknown,Johansson,0,1,1,8,1,7.8542
+3,1,Harold Theodor,1,4.0,1,1,347742,11.1333,unknown,0,15,survived,unknown,Johnson,3,0,3,8,3,3.7111
+3,1,Eleanor Ileen,0,1.0,1,1,347742,11.1333,unknown,0,15,survived,unknown,Johnson,1,0,3,8,3,3.7111
+3,0,Alfred,1,49.0,0,0,LINE,0.0,unknown,0,not_found,not_found,unknown,Johnson,0,1,1,8,4,0.0
+3,0,Malkolm Joackim,1,33.0,0,0,347062,7.775,unknown,0,not_found,37.0,unknown,Johnson,0,1,1,8,1,7.775
+3,0,William Cahoone Jr,1,19.0,0,0,LINE,0.0,unknown,0,not_found,not_found,unknown,Johnson,0,1,1,8,4,0.0
+3,1,Oscar W (Elisabeth Vilhelmina Berg),0,27.0,0,2,347742,11.1333,unknown,0,15,survived,unknown,Johnson,2,0,3,8,3,3.7111
+3,0,"William Arthur ""Willie""",1,26.766734836065574,1,2,W./C. 6607,23.45,unknown,0,not_found,not_found,unknown,Johnston,3,0,4,8,4,5.8625
+3,0,"Catherine Helen ""Carrie""",0,22.951612903225808,1,2,W./C. 6607,23.45,unknown,0,not_found,not_found,unknown,Johnston,1,0,4,8,4,5.8625
+3,0,Andrew G,1,26.766734836065574,1,2,W./C. 6607,23.45,unknown,0,not_found,not_found,unknown,Johnston,0,0,4,8,4,5.8625
+3,0,"Andrew G (Elizabeth ""Lily"" Watson)",0,22.951612903225808,1,2,W./C. 6607,23.45,unknown,0,not_found,not_found,unknown,Johnston,2,0,4,8,4,5.8625
+3,0,Lalio,1,23.0,0,0,349204,7.8958,unknown,0,not_found,not_found,unknown,Jonkoff,0,1,1,8,1,7.8958
+3,1,Carl,1,32.0,0,0,350417,7.8542,unknown,0,15,survived,unknown,Jonsson,0,1,1,8,1,7.8542
+3,0,Nils Hilding,1,27.0,0,0,350408,7.8542,unknown,0,not_found,not_found,unknown,Jonsson,0,1,1,8,1,7.8542
+3,0,Katriina,0,20.0,1,0,4136,9.825,unknown,0,not_found,not_found,unknown,Jussila,1,0,2,8,1,9.825
+3,0,Mari Aina,0,21.0,1,0,4137,9.825,unknown,0,not_found,not_found,unknown,Jussila,1,0,2,8,1,9.825
+3,1,Eiriik,1,32.0,0,0,STON/O 2. 3101286,7.925,unknown,0,15,survived,unknown,Jussila,0,1,1,8,1,7.925
+3,0,Nikolai Erland,1,17.0,0,0,STON/O 2. 3101274,7.125,unknown,0,not_found,not_found,unknown,Kallio,0,1,1,8,1,7.125
+3,0,Johannes Halvorsen,1,21.0,0,0,8475,8.4333,unknown,0,not_found,not_found,unknown,Kalvik,0,1,1,8,1,8.4333
+3,0,Milan,1,30.0,0,0,349246,7.8958,unknown,0,not_found,not_found,unknown,Karaic,0,1,1,8,1,7.8958
+3,1,Einar Gervasius,1,21.0,0,0,350053,7.7958,unknown,0,13,survived,unknown,Karlsson,0,1,1,8,1,7.7958
+3,0,Julius Konrad Eugen,1,33.0,0,0,347465,7.8542,unknown,0,not_found,not_found,unknown,Karlsson,0,1,1,8,1,7.8542
+3,0,Nils August,1,22.0,0,0,350060,7.5208,unknown,0,not_found,not_found,unknown,Karlsson,0,1,1,8,1,7.5208
+3,1,Manca,0,4.0,0,1,349256,13.4167,unknown,1,15,survived,unknown,Karun,1,0,2,8,2,6.70835
+3,1,Franz,1,39.0,0,1,349256,13.4167,unknown,1,15,survived,unknown,Karun,0,0,2,8,2,6.70835
+3,0,Fared,1,25.72222222222222,0,0,2700,7.2292,unknown,1,not_found,not_found,unknown,Kassem,0,1,1,8,1,7.2292
+3,0,"Vassilios (""Catavelas Vassilios"")",1,18.5,0,0,2682,7.2292,unknown,1,not_found,58.0,unknown,Katavelas,0,1,1,8,1,7.2292
+3,0,"Andrew ""Andy""",1,26.92105263157895,0,0,12460,7.75,unknown,2,not_found,not_found,unknown,Keane,0,1,1,8,1,7.75
+3,0,Arthur,1,26.766734836065574,0,0,323592,7.25,unknown,0,A,not_found,unknown,Keefe,0,1,1,8,1,7.25
+3,1,"Anna Katherine ""Annie Kate""",0,20.5,0,0,9234,7.75,unknown,2,16,survived,unknown,Kelly,1,1,1,8,1,7.75
+3,1,Mary,0,20.5,0,0,14312,7.75,unknown,2,D,survived,unknown,Kelly,1,1,1,8,1,7.75
+3,0,James,1,34.5,0,0,330911,7.8292,unknown,2,not_found,70.0,unknown,Kelly,0,1,1,8,1,7.8292
+3,0,James,1,44.0,0,0,363592,8.05,unknown,0,not_found,not_found,unknown,Kelly,0,1,1,8,1,8.05
+3,1,John,1,25.0,0,0,368783,7.75,unknown,2,boat_unknown,survived,unknown,Kennedy,0,1,1,8,1,7.75
+3,0,Betros,1,25.72222222222222,1,0,2660,14.4542,unknown,1,not_found,not_found,unknown,Khalil,0,0,2,8,2,7.2271
+3,0,"Betros (Zahie ""Maria"" Elias)",0,20.7,1,0,2660,14.4542,unknown,1,not_found,not_found,unknown,Khalil,2,0,2,8,2,7.2271
+3,0,John,1,26.92105263157895,1,0,367227,7.75,unknown,2,not_found,not_found,unknown,Kiernan,0,0,2,8,1,7.75
+3,0,Philip,1,26.92105263157895,1,0,367229,7.75,unknown,2,not_found,not_found,unknown,Kiernan,0,0,2,8,1,7.75
+3,0,Thomas J,1,26.92105263157895,0,0,36865,7.7375,unknown,2,not_found,not_found,unknown,Kilgannon,0,1,1,8,1,7.7375
+3,0,Maria,0,22.0,2,0,315152,8.6625,unknown,0,not_found,not_found,unknown,Kink,1,0,3,8,1,8.6625
+3,0,Vincenz,1,26.0,2,0,315151,8.6625,unknown,0,not_found,not_found,unknown,Kink,0,0,3,8,1,8.6625
+3,1,Luise Gretchen,0,4.0,0,2,315153,22.025,unknown,0,2,survived,unknown,Kink-Heilmann,1,0,3,8,3,7.341666666666666
+3,1,Anton,1,29.0,3,1,315153,22.025,unknown,0,2,survived,unknown,Kink-Heilmann,0,0,5,8,3,7.341666666666666
+3,1,Anton (Luise Heilmann),0,26.0,1,1,315153,22.025,unknown,0,2,survived,unknown,Kink-Heilmann,2,0,3,8,3,7.341666666666666
+3,0,Gertrud Emilia,0,1.0,1,1,350405,12.1833,unknown,0,not_found,not_found,unknown,Klasen,1,0,3,8,2,6.09165
+3,0,Klas Albin,1,18.0,1,1,350404,7.8542,unknown,0,not_found,not_found,unknown,Klasen,0,0,3,8,1,7.8542
+3,0,(Hulda Kristina Eugenia Lofqvist),0,36.0,0,2,350405,12.1833,unknown,0,not_found,not_found,unknown,Klasen,2,0,3,8,2,6.09165
+3,0,Theodor,1,25.72222222222222,0,0,349253,7.8958,unknown,1,not_found,not_found,unknown,Kraeff,0,1,1,8,1,7.8958
+3,1,Neshan,1,25.0,0,0,2654,7.2292,F E57,1,10,survived,unknown,Krekorian,0,1,1,5,1,7.2292
+3,0,Sarkis,1,25.72222222222222,0,0,2624,7.225,unknown,1,not_found,not_found,unknown,Lahoud,0,1,1,8,1,7.225
+3,0,Kristina Sofia,0,37.0,0,0,4135,9.5875,unknown,0,not_found,not_found,unknown,Laitinen,1,1,1,8,1,9.5875
+3,0,Kristo,1,26.766734836065574,0,0,349217,7.8958,unknown,0,not_found,not_found,unknown,Laleff,0,1,1,8,1,7.8958
+3,1,Ali,1,22.85507173913044,0,0,1601,56.4958,unknown,0,C,survived,unknown,Lam,0,1,1,8,8,7.061975
+3,0,Len,1,26.766734836065574,0,0,1601,56.4958,unknown,0,not_found,not_found,unknown,Lam,0,1,1,8,8,7.061975
+3,1,Aurora Adelia,0,22.0,0,0,C 7077,7.25,unknown,0,13,survived,unknown,Landergren,1,1,1,8,1,7.25
+3,0,Patrick,1,26.92105263157895,0,0,7935,7.75,unknown,2,not_found,not_found,unknown,Lane,0,1,1,8,1,7.75
+3,1,Fang,1,26.0,0,0,1601,56.4958,unknown,0,14,survived,unknown,Lang,0,1,1,8,8,7.061975
+3,0,August Viktor,1,29.0,0,0,7545,9.4833,unknown,0,not_found,not_found,unknown,Larsson,0,1,1,8,1,9.4833
+3,0,Bengt Edvin,1,29.0,0,0,347067,7.775,unknown,0,not_found,not_found,unknown,Larsson,0,1,1,8,1,7.775
+3,0,Edvard A,1,22.0,0,0,347065,7.775,unknown,0,not_found,not_found,unknown,Larsson-Rondberg,0,1,1,8,1,7.775
+3,1,"Fahim (""Philip Zenni"")",1,22.0,0,0,2620,7.225,unknown,1,6,survived,unknown,Leeni,0,1,1,8,1,7.225
+3,0,Henry Forbes,1,26.766734836065574,3,1,4133,25.4667,unknown,0,not_found,not_found,unknown,Lefebre,3,0,5,8,5,5.09334
+3,0,Ida,0,22.951612903225808,3,1,4133,25.4667,unknown,0,not_found,not_found,unknown,Lefebre,1,0,5,8,5,5.09334
+3,0,Jeannie,0,22.951612903225808,3,1,4133,25.4667,unknown,0,not_found,not_found,unknown,Lefebre,1,0,5,8,5,5.09334
+3,0,Mathilde,0,22.951612903225808,3,1,4133,25.4667,unknown,0,not_found,not_found,unknown,Lefebre,1,0,5,8,5,5.09334
+3,0,Frank (Frances),0,22.951612903225808,0,4,4133,25.4667,unknown,0,not_found,not_found,unknown,Lefebre,2,0,5,8,5,5.09334
+3,0,Antti Gustaf,1,32.0,0,0,STON/O 2. 3101292,7.925,unknown,0,not_found,not_found,unknown,Leinonen,0,1,1,8,1,7.925
+3,0,Peter L,1,34.5,0,0,2683,6.4375,unknown,1,not_found,196.0,unknown,Lemberopolous,0,1,1,8,1,6.4375
+3,0,Mary,0,26.692307692307693,1,0,370371,15.5,unknown,2,not_found,not_found,unknown,Lennon,1,0,2,8,2,7.75
+3,0,Denis,1,26.92105263157895,1,0,370371,15.5,unknown,2,not_found,not_found,unknown,Lennon,0,0,2,8,2,7.75
+3,0,Lionel,1,36.0,0,0,LINE,0.0,unknown,0,not_found,not_found,unknown,Leonard,0,1,1,8,4,0.0
+3,0,James,1,39.0,0,0,A/4 48871,24.15,unknown,0,not_found,not_found,unknown,Lester,0,1,1,8,3,8.049999999999999
+3,0,Rene Aime,1,24.0,0,0,345781,9.5,unknown,0,not_found,not_found,unknown,Lievens,0,1,1,8,1,9.5
+3,0,Agda Thorilda Viktoria,0,25.0,0,0,347071,7.775,unknown,0,not_found,not_found,unknown,Lindahl,1,1,1,8,1,7.775
+3,0,Augusta Charlotta,0,45.0,0,0,347073,7.75,unknown,0,not_found,not_found,unknown,Lindblom,1,1,1,8,1,7.75
+3,0,Edvard Bengtsson,1,36.0,1,0,349910,15.55,unknown,0,A,not_found,unknown,Lindell,0,0,2,8,2,7.775
+3,0,Edvard Bengtsson (Elin Gerda Persson),0,30.0,1,0,349910,15.55,unknown,0,A,not_found,unknown,Lindell,2,0,2,8,2,7.775
+3,1,Eino William,1,20.0,1,0,STON/O 2. 3101285,7.925,unknown,0,15,survived,unknown,Lindqvist,0,0,2,8,1,7.925
+3,0,Michael,1,26.92105263157895,0,0,330971,7.8792,unknown,2,not_found,not_found,unknown,Linehan,0,1,1,8,1,7.8792
+3,0,Lee,1,28.0,0,0,1601,56.4958,unknown,0,not_found,not_found,unknown,Ling,0,1,1,8,8,7.061975
+3,0,Simon,1,26.766734836065574,0,0,S.O./P.P. 251,7.55,unknown,0,not_found,not_found,unknown,Lithman,0,1,1,8,1,7.55
+3,0,William Arthur,1,30.0,1,0,A/5. 3336,16.1,unknown,0,not_found,not_found,unknown,Lobb,0,0,2,8,2,8.05
+3,0,William Arthur (Cordelia K Stanlick),0,26.0,1,0,A/5. 3336,16.1,unknown,0,not_found,not_found,unknown,Lobb,2,0,2,8,2,8.05
+3,0,Edward,1,26.766734836065574,0,0,1222,7.8792,unknown,0,not_found,153.0,unknown,Lockyer,0,1,1,8,1,7.8792
+3,0,"John Hall (""Henry"")",1,20.5,0,0,A/5 21173,7.25,unknown,0,not_found,not_found,unknown,Lovell,0,1,1,8,1,7.25
+3,1,Nikola,1,27.0,0,0,315098,8.6625,unknown,0,15,survived,unknown,Lulic,0,1,1,8,1,8.6625
+3,0,Johan Svensson,1,51.0,0,0,347743,7.0542,unknown,0,not_found,not_found,unknown,Lundahl,0,1,1,8,1,7.0542
+3,1,Olga Elida,0,23.0,0,0,347469,7.8542,unknown,0,10,survived,unknown,Lundin,1,1,1,8,1,7.8542
+3,1,Thure Edvin,1,32.0,0,0,350403,7.5792,unknown,0,15,survived,unknown,Lundstrom,0,1,1,8,1,7.5792
+3,0,Stanko,1,26.766734836065574,0,0,349235,7.8958,unknown,0,not_found,not_found,unknown,Lyntakoff,0,1,1,8,1,7.8958
+3,0,George William,1,26.766734836065574,0,0,C.A. 42795,7.55,unknown,0,not_found,not_found,unknown,MacKay,0,1,1,8,1,7.55
+3,1,"Margaret ""Maggie""",0,20.5,0,0,370370,7.75,unknown,2,15,survived,unknown,Madigan,1,1,1,8,1,7.75
+3,1,Fridtjof Arne,1,24.0,0,0,C 17369,7.1417,unknown,0,13,survived,unknown,Madsen,0,1,1,8,1,7.1417
+3,0,Matti Alexanteri,1,22.0,0,0,STON/O 2. 3101275,7.125,unknown,0,not_found,not_found,unknown,Maenpaa,0,1,1,8,1,7.125
+3,0,Bridget Delia,0,26.692307692307693,0,0,330924,7.8792,unknown,2,not_found,not_found,unknown,Mahon,1,1,1,8,1,7.8792
+3,0,John,1,26.92105263157895,0,0,AQ/4 3130,7.75,unknown,2,not_found,not_found,unknown,Mahon,0,1,1,8,1,7.75
+3,0,Simon,1,26.766734836065574,0,0,A/S 2816,8.05,unknown,0,not_found,not_found,unknown,Maisner,0,1,1,8,1,8.05
+3,0,Kalle Edvard,1,29.0,0,0,STON/O 2. 3101268,7.925,unknown,0,not_found,not_found,unknown,Makinen,0,1,1,8,1,7.925
+3,1,Hanna,1,20.2197,0,0,2677,7.2292,unknown,1,15,survived,unknown,Mamee,0,1,1,8,1,7.2292
+3,0,Mary,0,30.5,0,0,364850,7.75,unknown,2,not_found,61.0,unknown,Mangan,1,1,1,8,1,7.75
+3,1,Margareth,0,20.5,0,0,36866,7.7375,unknown,2,16,survived,unknown,Mannion,1,1,1,8,1,7.7375
+3,0,Sarkis,1,25.72222222222222,0,0,2655,7.2292,F E46,1,not_found,not_found,unknown,Mardirosian,0,1,1,5,1,7.2292
+3,0,Marin,1,35.0,0,0,349213,7.8958,unknown,1,not_found,not_found,unknown,Markoff,0,1,1,8,1,7.8958
+3,0,Johann,1,33.0,0,0,349257,7.8958,unknown,0,not_found,not_found,unknown,Markun,0,1,1,8,1,7.8958
+3,1,Fatima,0,15.676470588235292,0,0,2649,7.225,unknown,1,C,survived,unknown,Masselmani,2,1,1,8,1,7.225
+3,0,Nicola,1,25.72222222222222,0,0,349255,7.8958,unknown,1,not_found,not_found,unknown,Matinoff,0,1,1,8,1,7.8958
+3,1,"Catherine ""Katie""",0,20.5,0,0,383123,7.75,unknown,2,15 16,survived,unknown,McCarthy,1,1,1,8,1,7.75
+3,1,Thomas Joseph,1,25.0,0,0,367228,7.75,unknown,2,boat_unknown,survived,unknown,McCormack,0,1,1,8,1,7.75
+3,1,Agnes,0,20.5,2,0,367226,23.25,unknown,2,16,survived,unknown,McCoy,1,0,3,8,3,7.75
+3,1,Alicia,0,20.5,2,0,367226,23.25,unknown,2,16,survived,unknown,McCoy,1,0,3,8,3,7.75
+3,1,Bernard,1,25.0,2,0,367226,23.25,unknown,2,16,survived,unknown,McCoy,0,0,3,8,3,7.75
+3,1,Brigdet Delia,0,20.5,0,0,330932,7.7875,unknown,2,13,survived,unknown,McDermott,1,1,1,8,1,7.7875
+3,0,Michael,1,26.92105263157895,0,0,36568,15.5,unknown,2,not_found,not_found,unknown,McEvoy,0,1,1,8,2,7.75
+3,1,Mary,0,20.5,0,0,330931,7.8792,unknown,2,13,survived,unknown,McGovern,1,1,1,8,1,7.8792
+3,1,"Anna ""Annie""",0,15.0,0,0,330923,8.0292,unknown,2,boat_unknown,survived,unknown,McGowan,1,1,1,8,1,8.0292
+3,0,Katherine,0,35.0,0,0,9232,7.75,unknown,2,not_found,not_found,unknown,McGowan,1,1,1,8,1,7.75
+3,0,Martin,1,26.92105263157895,0,0,370372,7.75,unknown,2,not_found,not_found,unknown,McMahon,0,1,1,8,1,7.75
+3,0,Neal,1,24.0,1,0,376566,16.1,unknown,0,not_found,not_found,unknown,McNamee,0,0,2,8,2,8.05
+3,0,Neal (Eileen O'Leary),0,19.0,1,0,376566,16.1,unknown,0,not_found,53.0,unknown,McNamee,2,0,2,8,2,8.05
+3,0,Bridget,0,26.692307692307693,0,0,370368,7.75,unknown,2,not_found,not_found,unknown,McNeill,1,1,1,8,1,7.75
+3,0,(Marion Ogden),0,22.951612903225808,0,0,SOTON/O.Q. 392087,8.05,unknown,0,not_found,not_found,unknown,Meanwell,1,1,1,8,1,8.05
+3,0,Thomas (Annie Louise Rowley),0,22.951612903225808,0,0,343095,8.05,unknown,0,not_found,not_found,unknown,Meek,2,1,1,8,1,8.05
+3,0,Alfonzo,1,55.5,0,0,A.5. 11206,8.05,unknown,0,not_found,201.0,unknown,Meo,0,1,1,8,1,8.05
+3,0,Robert,1,26.92105263157895,0,0,368703,7.75,unknown,2,not_found,not_found,unknown,Mernagh,0,1,1,8,1,7.75
+3,1,Karl Albert,1,21.0,0,0,345501,7.775,unknown,0,15,survived,unknown,Midtsjo,0,1,1,8,1,7.775
+3,0,Frank,1,26.766734836065574,0,0,359306,8.05,unknown,0,not_found,not_found,unknown,Miles,0,1,1,8,1,8.05
+3,0,Ivan,1,24.0,0,0,349233,7.8958,unknown,0,not_found,not_found,unknown,Mineff,0,1,1,8,1,7.8958
+3,0,Lazar,1,21.0,0,0,349211,7.8958,unknown,0,not_found,not_found,unknown,Minkoff,0,1,1,8,1,7.8958
+3,0,Stoytcho,1,28.0,0,0,349207,7.8958,unknown,0,not_found,not_found,unknown,Mionoff,0,1,1,8,1,7.8958
+3,0,Mito,1,26.766734836065574,0,0,349221,7.8958,unknown,0,not_found,not_found,unknown,Mitkoff,0,1,1,8,1,7.8958
+3,1,"Helen Mary ""Ellie""",0,20.5,0,0,330980,7.8792,unknown,2,16,survived,unknown,Mockler,1,1,1,8,1,7.8792
+3,0,Sigurd Hansen,1,25.0,0,0,348123,7.65,F G73,0,not_found,309.0,unknown,Moen,0,1,1,5,1,7.65
+3,1,Meier,1,6.0,0,1,392096,12.475,E121,0,14,survived,unknown,Moor,3,0,2,4,2,6.2375
+3,1,(Beila),0,27.0,0,1,392096,12.475,E121,0,14,survived,unknown,Moor,2,0,2,4,2,6.2375
+3,0,Leonard Charles,1,26.766734836065574,0,0,A4. 54510,8.05,unknown,0,not_found,not_found,unknown,Moore,0,1,1,8,1,8.05
+3,1,Bertha,0,20.5,1,0,371110,24.15,unknown,2,16,survived,unknown,Moran,1,0,2,8,3,8.049999999999999
+3,0,Daniel J,1,26.92105263157895,1,0,371110,24.15,unknown,2,not_found,not_found,unknown,Moran,0,0,2,8,3,8.049999999999999
+3,0,James,1,26.92105263157895,0,0,330877,8.4583,unknown,2,not_found,not_found,unknown,Moran,0,1,1,8,1,8.4583
+3,0,William,1,34.0,0,0,364506,8.05,unknown,0,not_found,not_found,unknown,Morley,0,1,1,8,1,8.05
+3,0,Thomas Rowan,1,26.92105263157895,0,0,372622,7.75,unknown,2,not_found,not_found,unknown,Morrow,0,1,1,8,1,7.75
+3,1,Albert Johan,1,22.85507173913044,0,0,312991,7.775,unknown,0,B,survived,unknown,Moss,0,1,1,8,1,7.775
+3,1,Gerios,1,20.2197,1,1,2661,15.2458,unknown,1,C,survived,unknown,Moubarek,3,0,3,8,3,5.081933333333333
+3,1,"Halim Gonios (""William George"")",1,20.2197,1,1,2661,15.2458,unknown,1,C,survived,unknown,Moubarek,3,0,3,8,3,5.081933333333333
+3,1,"George (Omine ""Amenia"" Alexander)",0,15.676470588235292,0,2,2661,15.2458,unknown,1,C,survived,unknown,Moubarek,2,0,3,8,3,5.081933333333333
+3,1,(Mantoura Boulos),0,15.676470588235292,0,0,2626,7.2292,unknown,1,boat_unknown,survived,unknown,Moussa,2,1,1,8,1,7.2292
+3,0,Rahamin Haim,1,26.766734836065574,0,0,374746,8.05,unknown,0,not_found,not_found,unknown,Moutal,0,1,1,8,1,8.05
+3,1,"Katherine ""Katie""",0,20.5,0,0,35852,7.7333,unknown,2,16,survived,unknown,Mullens,1,1,1,8,1,7.7333
+3,1,Bertha E,0,24.0,0,0,382653,7.75,unknown,2,15,survived,unknown,Mulvihill,1,1,1,8,1,7.75
+3,0,Joseph,1,26.766734836065574,0,0,A./5. 3235,8.05,unknown,0,not_found,not_found,unknown,Murdlin,0,1,1,8,1,8.05
+3,1,"Katherine ""Kate""",0,20.5,1,0,367230,15.5,unknown,2,16,survived,unknown,Murphy,1,0,2,8,2,7.75
+3,1,Margaret Jane,0,20.5,1,0,367230,15.5,unknown,2,16,survived,unknown,Murphy,1,0,2,8,2,7.75
+3,1,Nora,0,20.5,0,0,36568,15.5,unknown,2,16,survived,unknown,Murphy,1,1,1,8,2,7.75
+3,0,Pehr Fabian Oliver Malkolm,1,18.0,0,0,347078,7.75,unknown,0,not_found,not_found,unknown,Myhrman,0,1,1,8,1,7.75
+3,0,Penko,1,22.0,0,0,349206,7.8958,unknown,0,not_found,not_found,unknown,Naidenoff,0,1,1,8,1,7.8958
+3,1,"Adele Kiamie ""Jane""",0,15.0,0,0,2667,7.225,unknown,1,C,survived,unknown,Najib,1,1,1,8,1,7.225
+3,1,"Maria (""Mary"")",0,1.0,0,2,2653,15.7417,unknown,1,C,survived,unknown,Nakid,1,0,3,8,3,5.247233333333333
+3,1,Sahid,1,20.0,1,1,2653,15.7417,unknown,1,C,survived,unknown,Nakid,0,0,3,8,3,5.247233333333333
+3,1,"Said (Waika ""Mary"" Mowad)",0,19.0,1,1,2653,15.7417,unknown,1,C,survived,unknown,Nakid,2,0,3,8,3,5.247233333333333
+3,0,William Henry,1,33.0,0,0,A./5. 3338,8.05,unknown,0,not_found,not_found,unknown,Nancarrow,0,1,1,8,1,8.05
+3,0,Minko,1,26.766734836065574,0,0,349218,7.8958,unknown,0,not_found,not_found,unknown,Nankoff,0,1,1,8,1,7.8958
+3,0,Mustafa,1,25.72222222222222,0,0,2652,7.2292,unknown,1,not_found,not_found,unknown,Nasr,0,1,1,8,1,7.2292
+3,0,Hannah,0,26.692307692307693,0,0,365237,7.75,unknown,2,not_found,not_found,unknown,Naughton,1,1,1,8,1,7.75
+3,0,Christo,1,26.766734836065574,0,0,349234,7.8958,unknown,0,not_found,not_found,unknown,Nenkoff,0,1,1,8,1,7.8958
+3,1,Elias,1,12.0,1,0,2651,11.2417,unknown,1,C,survived,unknown,Nicola-Yarred,3,0,2,8,2,5.62085
+3,1,Jamila,0,14.0,1,0,2651,11.2417,unknown,1,C,survived,unknown,Nicola-Yarred,1,0,2,8,2,5.62085
+3,0,Manta Josefina,0,29.0,0,0,3101297,7.925,unknown,0,not_found,not_found,unknown,Nieminen,1,1,1,8,1,7.925
+3,0,Samuel,1,28.0,0,0,363611,8.05,unknown,0,not_found,not_found,unknown,Niklasson,0,1,1,8,1,8.05
+3,1,Berta Olivia,0,18.0,0,0,347066,7.775,unknown,0,D,survived,unknown,Nilsson,1,1,1,8,1,7.775
+3,1,Helmina Josefina,0,26.0,0,0,347470,7.8542,unknown,0,13,survived,unknown,Nilsson,1,1,1,8,1,7.8542
+3,0,August Ferdinand,1,21.0,0,0,350410,7.8542,unknown,0,not_found,not_found,unknown,Nilsson,0,1,1,8,1,7.8542
+3,0,Iisakki Antino Aijo,1,41.0,0,0,SOTON/O2 3101272,7.125,unknown,0,not_found,not_found,"Finland Sudbury, ON",Nirva,0,1,1,8,1,7.125
+3,1,Juha,1,39.0,0,0,STON/O 2. 3101289,7.925,unknown,0,9,survived,unknown,Niskanen,0,1,1,8,1,7.925
+3,0,Richard Cater,1,21.0,0,0,A/4. 39886,7.8,unknown,0,not_found,not_found,unknown,Nosworthy,0,1,1,8,1,7.8
+3,0,Mansouer,1,28.5,0,0,2697,7.2292,unknown,1,not_found,181.0,unknown,Novel,0,1,1,8,1,7.2292
+3,1,Anna Sofia,0,22.0,0,0,347081,7.75,unknown,0,13,survived,unknown,Nysten,1,1,1,8,1,7.75
+3,0,Johan Hansen,1,61.0,0,0,345364,6.2375,unknown,0,not_found,not_found,unknown,Nysveen,0,1,1,8,1,6.2375
+3,0,Thomas,1,26.92105263157895,1,0,370365,15.5,unknown,2,not_found,not_found,unknown,O'Brien,0,0,2,8,2,7.75
+3,0,Timothy,1,26.92105263157895,0,0,330979,7.8292,unknown,2,not_found,not_found,unknown,O'Brien,0,1,1,8,1,7.8292
+3,1,"Thomas (Johanna ""Hannah"" Godfrey)",0,20.5,1,0,370365,15.5,unknown,2,boat_unknown,survived,unknown,O'Brien,2,0,2,8,2,7.75
+3,0,Patrick D,1,26.92105263157895,0,0,334912,7.7333,unknown,2,not_found,not_found,unknown,O'Connell,0,1,1,8,1,7.7333
+3,0,Maurice,1,26.92105263157895,0,0,371060,7.75,unknown,2,not_found,not_found,unknown,O'Connor,0,1,1,8,1,7.75
+3,0,Patrick,1,26.92105263157895,0,0,366713,7.75,unknown,2,not_found,not_found,unknown,O'Connor,0,1,1,8,1,7.75
+3,0,Nils Martin,1,23.0,0,0,7267,9.225,unknown,0,not_found,not_found,unknown,Odahl,0,1,1,8,1,9.225
+3,0,Bridget,0,26.692307692307693,0,0,364856,7.75,unknown,2,not_found,not_found,unknown,O'Donoghue,8,1,1,8,1,7.75
+3,1,Bridget,0,20.5,0,0,14311,7.75,unknown,2,D,survived,unknown,O'Driscoll,1,1,1,8,1,7.75
+3,1,"Ellen ""Nellie""",0,20.5,0,0,330959,7.8792,unknown,2,boat_unknown,survived,unknown,O'Dwyer,1,1,1,8,1,7.8792
+3,1,Velin,0,22.0,0,0,347085,7.775,unknown,0,C,survived,unknown,Ohman,1,1,1,8,1,7.775
+3,1,Patrick,1,25.0,0,0,368402,7.75,unknown,2,B,survived,unknown,O'Keefe,0,1,1,8,1,7.75
+3,1,"Hanora ""Norah""",0,20.5,0,0,330919,7.8292,unknown,2,13,survived,unknown,O'Leary,1,1,1,8,1,7.8292
+3,1,Artur Karl,1,9.0,0,1,C 17368,3.1708,unknown,0,13,survived,unknown,Olsen,3,0,2,8,1,3.1708
+3,0,Henry Margido,1,28.0,0,0,C 4001,22.525,unknown,0,not_found,173.0,unknown,Olsen,0,1,1,8,3,7.508333333333333
+3,0,Karl Siegwart Andreas,1,42.0,0,1,4579,8.4042,unknown,0,not_found,not_found,unknown,Olsen,0,0,2,8,1,8.4042
+3,0,Ole Martin,1,26.766734836065574,0,0,Fa 265302,7.3125,unknown,0,not_found,not_found,unknown,Olsen,0,1,1,8,1,7.3125
+3,0,Elina,0,31.0,0,0,350407,7.8542,unknown,0,not_found,not_found,unknown,Olsson,1,1,1,8,1,7.8542
+3,0,Nils Johan Goransson,1,28.0,0,0,347464,7.8542,unknown,0,not_found,not_found,unknown,Olsson,0,1,1,8,1,7.8542
+3,1,Oscar Wilhelm,1,32.0,0,0,347079,7.775,unknown,0,A,survived,unknown,Olsson,0,1,1,8,1,7.775
+3,0,Thor Anderson,1,20.0,0,0,6563,9.225,unknown,0,not_found,89.0,"Oslo, Norway Cameron, WI",Olsvigen,0,1,1,8,1,9.225
+3,0,Jelka,0,23.0,0,0,315085,8.6625,unknown,0,not_found,not_found,unknown,Oreskovic,1,1,1,8,1,8.6625
+3,0,Marija,0,20.0,0,0,315096,8.6625,unknown,0,not_found,not_found,unknown,Oreskovic,1,1,1,8,1,8.6625
+3,0,Luka,1,20.0,0,0,315094,8.6625,unknown,0,not_found,not_found,unknown,Oreskovic,0,1,1,8,1,8.6625
+3,0,Olaf Elon,1,16.0,0,0,7534,9.2167,unknown,0,not_found,not_found,unknown,Osen,0,1,1,8,2,4.60835
+3,1,Mara,0,31.0,0,0,349244,8.6833,unknown,0,boat_unknown,survived,unknown,Osman,2,1,1,8,1,8.6833
+3,0,Bridget Mary,0,26.692307692307693,0,0,330909,7.6292,unknown,2,not_found,not_found,unknown,O'Sullivan,1,1,1,8,1,7.6292
+3,0,Gosta Leonard,1,2.0,3,1,349909,21.075,unknown,0,not_found,4.0,unknown,Palsson,3,0,5,8,5,4.215
+3,0,Paul Folke,1,6.0,3,1,349909,21.075,unknown,0,not_found,not_found,unknown,Palsson,3,0,5,8,5,4.215
+3,0,Stina Viola,0,3.0,3,1,349909,21.075,unknown,0,not_found,not_found,unknown,Palsson,1,0,5,8,5,4.215
+3,0,Torborg Danira,0,8.0,3,1,349909,21.075,unknown,0,not_found,not_found,unknown,Palsson,1,0,5,8,5,4.215
+3,0,Nils (Alma Cornelia Berglund),0,29.0,0,4,349909,21.075,unknown,0,not_found,206.0,unknown,Palsson,2,0,5,8,5,4.215
+3,0,Eino Viljami,1,1.0,4,1,3101295,39.6875,unknown,0,not_found,not_found,unknown,Panula,3,0,6,8,7,5.669642857142857
+3,0,Juha Niilo,1,7.0,4,1,3101295,39.6875,unknown,0,not_found,not_found,unknown,Panula,3,0,6,8,7,5.669642857142857
+3,0,Urho Abraham,1,2.0,4,1,3101295,39.6875,unknown,0,not_found,not_found,unknown,Panula,3,0,6,8,7,5.669642857142857
+3,0,Ernesti Arvid,1,16.0,4,1,3101295,39.6875,unknown,0,not_found,not_found,unknown,Panula,0,0,6,8,7,5.669642857142857
+3,0,Jaako Arnold,1,14.0,4,1,3101295,39.6875,unknown,0,not_found,not_found,unknown,Panula,0,0,6,8,7,5.669642857142857
+3,0,Juha (Maria Emilia Ojala),0,41.0,0,5,3101295,39.6875,unknown,0,not_found,not_found,unknown,Panula,2,0,6,8,7,5.669642857142857
+3,0,Jakob,1,21.0,0,0,315097,8.6625,unknown,0,not_found,not_found,unknown,Pasic,0,1,1,8,1,8.6625
+3,0,George,1,19.0,0,0,358585,14.5,unknown,0,not_found,not_found,unknown,Patchett,0,1,1,8,2,7.25
+3,0,Uscher,1,25.72222222222222,0,0,3411,8.7125,unknown,1,not_found,not_found,unknown,Paulner,0,1,1,8,1,8.7125
+3,0,Stefo,1,32.0,0,0,349242,7.8958,unknown,0,not_found,not_found,unknown,Pavlovic,0,1,1,8,1,7.8958
+3,0,Alfred Edward,1,0.75,1,1,SOTON/O.Q. 3101315,13.775,unknown,0,not_found,not_found,unknown,Peacock,3,0,3,8,3,4.591666666666667
+3,0,Treasteall,0,3.0,1,1,SOTON/O.Q. 3101315,13.775,unknown,0,not_found,not_found,unknown,Peacock,1,0,3,8,3,4.591666666666667
+3,0,Benjamin (Edith Nile),0,26.0,0,2,SOTON/O.Q. 3101315,13.775,unknown,0,not_found,not_found,unknown,Peacock,2,0,3,8,3,4.591666666666667
+3,0,Ernest,1,26.766734836065574,0,0,343271,7.0,unknown,0,not_found,not_found,unknown,Pearce,0,1,1,8,1,7.0
+3,0,Olaf,1,26.766734836065574,0,0,345498,7.775,unknown,0,not_found,not_found,unknown,Pedersen,0,1,1,8,1,7.775
+3,0,Joseph,1,26.766734836065574,0,0,A/5 2817,8.05,unknown,0,not_found,not_found,unknown,Peduzzi,0,1,1,8,1,8.05
+3,0,Edvard,1,21.0,0,0,STON/O 2. 3101294,7.925,unknown,0,not_found,not_found,unknown,Pekoniemi,0,1,1,8,1,7.925
+3,0,Nikolai Johannes,1,25.0,0,0,STON/O 2. 3101291,7.925,unknown,0,not_found,not_found,unknown,Peltomaki,0,1,1,8,1,7.925
+3,0,John Henry,1,22.0,0,0,A/5 21174,7.25,unknown,0,not_found,not_found,unknown,Perkin,0,1,1,8,1,7.25
+3,1,Ernst Ulrik,1,25.0,1,0,347083,7.775,unknown,0,15,survived,unknown,Persson,0,0,2,8,1,7.775
+3,1,Michael J,1,20.2197,1,1,2668,22.3583,unknown,1,C,survived,unknown,Peter,3,0,3,8,3,7.452766666666666
+3,1,Anna,0,15.676470588235292,1,1,2668,22.3583,F E69,1,D,survived,unknown,Peter,1,0,3,5,3,7.452766666666666
+3,1,Catherine (Catherine Rizk),0,15.676470588235292,0,2,2668,22.3583,unknown,1,D,survived,unknown,Peter,2,0,3,8,3,7.452766666666666
+3,0,Katie,0,26.692307692307693,0,0,330935,8.1375,unknown,2,not_found,not_found,unknown,Peters,1,1,1,8,1,8.1375
+3,0,Marius,1,24.0,0,0,342441,8.05,unknown,0,not_found,not_found,unknown,Petersen,0,1,1,8,1,8.05
+3,0,Matilda,0,28.0,0,0,349245,7.8958,unknown,0,not_found,not_found,unknown,Petranec,1,1,1,8,1,7.8958
+3,0,Nedelio,1,19.0,0,0,349212,7.8958,unknown,0,not_found,not_found,unknown,Petroff,0,1,1,8,1,7.8958
+3,0,"Pastcho (""Pentcho"")",1,26.766734836065574,0,0,349215,7.8958,unknown,0,not_found,not_found,unknown,Petroff,0,1,1,8,1,7.8958
+3,0,Johan Emil,1,25.0,1,0,347076,7.775,unknown,0,not_found,not_found,unknown,Petterson,0,0,2,8,1,7.775
+3,0,Ellen Natalia,0,18.0,0,0,347087,7.775,unknown,0,not_found,not_found,unknown,Pettersson,1,1,1,8,1,7.775
+3,1,Berk (Berk Trembisky),1,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,0,9,survived,unknown,Pickard,0,1,1,4,1,8.05
+3,0,Vasil,1,26.766734836065574,0,0,349227,7.8958,unknown,0,not_found,not_found,unknown,Plotcharsky,0,1,1,8,1,7.8958
+3,0,Mate,1,17.0,0,0,315095,8.6625,unknown,0,not_found,not_found,unknown,Pokrnic,0,1,1,8,1,8.6625
+3,0,Tome,1,24.0,0,0,315092,8.6625,unknown,0,not_found,not_found,unknown,Pokrnic,0,1,1,8,1,8.6625
+3,0,Alexander,1,26.766734836065574,0,0,349223,7.8958,unknown,0,not_found,not_found,unknown,Radeff,0,1,1,8,1,7.8958
+3,0,(Lena Jacobsen Solvang),0,22.951612903225808,0,0,65305,8.1125,unknown,0,not_found,not_found,unknown,Rasmussen,2,1,1,8,1,8.1125
+3,0,Raihed,1,25.72222222222222,0,0,2629,7.2292,unknown,1,not_found,not_found,unknown,Razi,0,1,1,8,1,7.2292
+3,0,James George,1,26.766734836065574,0,0,362316,7.25,unknown,0,not_found,not_found,unknown,Reed,0,1,1,8,1,7.25
+3,0,Tido,1,38.0,0,0,349249,7.8958,unknown,0,not_found,not_found,unknown,Rekic,0,1,1,8,1,7.8958
+3,0,Harold J,1,21.0,0,0,342684,8.05,unknown,0,not_found,not_found,unknown,Reynolds,0,1,1,8,1,8.05
+3,0,Albert,1,10.0,4,1,382652,29.125,unknown,2,not_found,not_found,unknown,Rice,3,0,6,8,6,4.854166666666667
+3,0,Arthur,1,4.0,4,1,382652,29.125,unknown,2,not_found,not_found,unknown,Rice,3,0,6,8,6,4.854166666666667
+3,0,Eric,1,7.0,4,1,382652,29.125,unknown,2,not_found,not_found,unknown,Rice,3,0,6,8,6,4.854166666666667
+3,0,Eugene,1,2.0,4,1,382652,29.125,unknown,2,not_found,not_found,unknown,Rice,3,0,6,8,6,4.854166666666667
+3,0,George Hugh,1,8.0,4,1,382652,29.125,unknown,2,not_found,not_found,unknown,Rice,3,0,6,8,6,4.854166666666667
+3,0,William (Margaret Norton),0,39.0,0,5,382652,29.125,unknown,2,not_found,327.0,unknown,Rice,2,0,6,8,6,4.854166666666667
+3,0,"Susanna Juhantytar ""Sanni""",0,22.0,0,0,3101295,39.6875,unknown,0,not_found,not_found,unknown,Riihivouri,1,1,1,8,7,5.669642857142857
+3,0,Matti,1,35.0,0,0,STON/O 2. 3101273,7.125,unknown,0,not_found,not_found,unknown,Rintamaki,0,1,1,8,1,7.125
+3,1,"Johanna ""Hannah""",0,20.5,0,0,334915,7.7208,unknown,2,13,survived,unknown,Riordan,1,1,1,8,1,7.7208
+3,0,Samuel Beard,1,26.766734836065574,0,0,364498,14.5,unknown,0,not_found,not_found,unknown,Risien,0,1,1,8,2,7.25
+3,0,Samuel (Emma),0,22.951612903225808,0,0,364498,14.5,unknown,0,not_found,not_found,unknown,Risien,2,1,1,8,2,7.25
+3,0,Alexander A,1,50.0,1,0,A/5. 3337,14.5,unknown,0,not_found,119.0,unknown,Robins,0,0,2,8,2,7.25
+3,0,Alexander A (Grace Charity Laury),0,47.0,1,0,A/5. 3337,14.5,unknown,0,not_found,7.0,unknown,Robins,2,0,2,8,2,7.25
+3,0,William John,1,26.766734836065574,0,0,S.C./A.4. 23567,8.05,unknown,0,not_found,not_found,unknown,Rogers,0,1,1,8,1,8.05
+3,0,Knud Paust,1,26.766734836065574,0,0,312993,7.775,unknown,0,not_found,not_found,unknown,Rommetvedt,0,1,1,8,1,7.775
+3,0,Salli Helena,0,2.0,1,1,370129,20.2125,unknown,0,not_found,not_found,unknown,Rosblom,1,0,3,8,3,6.7375
+3,0,Viktor Richard,1,18.0,1,1,370129,20.2125,unknown,0,not_found,not_found,unknown,Rosblom,0,0,3,8,3,6.7375
+3,0,Viktor (Helena Wilhelmina),0,41.0,0,2,370129,20.2125,unknown,0,not_found,not_found,unknown,Rosblom,2,0,3,8,3,6.7375
+3,1,Sarah A,0,22.726951063829787,0,0,342712,8.05,unknown,0,C,survived,unknown,Roth,1,1,1,8,1,8.05
+3,0,Richard Henry,1,50.0,0,0,A/5 3594,8.05,unknown,0,not_found,not_found,unknown,Rouse,0,1,1,8,1,8.05
+3,0,Alfred George John,1,16.0,0,0,A/4. 20589,8.05,unknown,0,not_found,not_found,unknown,Rush,0,1,1,8,1,8.05
+3,1,Edward,1,25.0,0,0,383162,7.75,unknown,2,14,survived,unknown,Ryan,0,1,1,8,1,7.75
+3,0,Patrick,1,26.92105263157895,0,0,371110,24.15,unknown,2,not_found,not_found,unknown,Ryan,0,1,1,8,3,8.049999999999999
+3,0,Amin,1,25.72222222222222,0,0,2671,7.2292,unknown,1,not_found,not_found,unknown,Saad,0,1,1,8,1,7.2292
+3,0,Khalil,1,25.0,0,0,2672,7.225,unknown,1,not_found,not_found,unknown,Saad,0,1,1,8,1,7.225
+3,0,Jean Nassr,1,25.72222222222222,0,0,2676,7.225,unknown,1,not_found,not_found,unknown,Saade,0,1,1,8,1,7.225
+3,0,Matthew,1,26.92105263157895,0,0,367655,7.7292,unknown,2,not_found,not_found,unknown,Sadlier,0,1,1,8,1,7.7292
+3,0,Harry,1,26.766734836065574,0,0,LP 1588,7.575,unknown,0,not_found,not_found,unknown,Sadowitz,0,1,1,8,1,7.575
+3,0,Simon Sivertsen,1,38.5,0,0,SOTON/O.Q. 3101262,7.25,unknown,0,not_found,32.0,unknown,Saether,0,1,1,8,1,7.25
+3,0,Thomas Henry,1,26.766734836065574,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,3,0,11,8,11,6.322727272727272
+3,0,William Henry,1,14.5,8,2,CA. 2343,69.55,unknown,0,not_found,67.0,unknown,Sage,3,0,11,8,11,6.322727272727272
+3,0,Ada,0,22.951612903225808,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,1,0,11,8,11,6.322727272727272
+3,0,Constance Gladys,0,22.951612903225808,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,1,0,11,8,11,6.322727272727272
+3,0,"Dorothy Edith ""Dolly""",0,22.951612903225808,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,1,0,11,8,11,6.322727272727272
+3,0,Stella Anna,0,22.951612903225808,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,1,0,11,8,11,6.322727272727272
+3,0,Douglas Bullen,1,26.766734836065574,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,0,0,11,8,11,6.322727272727272
+3,0,Frederick,1,26.766734836065574,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,0,0,11,8,11,6.322727272727272
+3,0,George John Jr,1,26.766734836065574,8,2,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,0,0,11,8,11,6.322727272727272
+3,0,John George,1,26.766734836065574,1,9,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,0,0,11,8,11,6.322727272727272
+3,0,John (Annie Bullen),0,22.951612903225808,1,9,CA. 2343,69.55,unknown,0,not_found,not_found,unknown,Sage,2,0,11,8,11,6.322727272727272
+3,0,Karl Johan,1,24.0,0,0,7266,9.325,unknown,0,not_found,not_found,unknown,Salander,0,1,1,8,1,9.325
+3,1,Anna Kristine,0,21.0,0,0,343120,7.65,unknown,0,C,survived,unknown,Salkjelsvik,1,1,1,8,1,7.65
+3,0,Johan Werner,1,39.0,0,0,3101296,7.925,unknown,0,not_found,not_found,unknown,Salonen,0,1,1,8,1,7.925
+3,0,Elias,1,25.72222222222222,2,0,2662,21.6792,unknown,1,not_found,not_found,unknown,Samaan,0,0,3,8,3,7.226400000000001
+3,0,Hanna,1,25.72222222222222,2,0,2662,21.6792,unknown,1,not_found,not_found,unknown,Samaan,0,0,3,8,3,7.226400000000001
+3,0,Youssef,1,25.72222222222222,2,0,2662,21.6792,unknown,1,not_found,not_found,unknown,Samaan,0,0,3,8,3,7.226400000000001
+3,1,Beatrice Irene,0,1.0,1,1,PP 9549,16.7,G6,0,13,survived,unknown,Sandstrom,1,0,3,6,3,5.566666666666666
+3,1,Hjalmar (Agnes Charlotta Bengtsson),0,24.0,0,2,PP 9549,16.7,G6,0,13,survived,unknown,Sandstrom,2,0,3,6,3,5.566666666666666
+3,1,Marguerite Rut,0,4.0,1,1,PP 9549,16.7,G6,0,13,survived,unknown,Sandstrom,1,0,3,6,3,5.566666666666666
+3,1,Julius,1,25.0,0,0,345768,9.5,unknown,0,11,survived,unknown,Sap,0,1,1,8,1,9.5
+3,0,William Henry,1,20.0,0,0,A/5. 2151,8.05,unknown,0,not_found,not_found,unknown,Saundercock,0,1,1,8,1,8.05
+3,0,Frederick Charles,1,24.5,0,0,342826,8.05,unknown,0,not_found,284.0,unknown,Sawyer,0,1,1,8,1,8.05
+3,0,James,1,26.92105263157895,0,0,36209,7.725,unknown,2,not_found,not_found,unknown,Scanlan,0,1,1,8,1,7.725
+3,0,Todor,1,26.766734836065574,0,0,349222,7.8958,unknown,0,not_found,not_found,unknown,Sdycoff,0,1,1,8,1,7.8958
+3,0,Patrick,1,26.92105263157895,0,0,370374,7.75,unknown,2,not_found,not_found,unknown,Shaughnessy,0,1,1,8,1,7.75
+3,1,Jan Baptist,1,29.0,0,0,345779,9.5,unknown,0,11,survived,unknown,Sheerlinck,0,1,1,8,1,9.5
+3,0,Frederick William,1,26.766734836065574,0,0,C.A. 6212,15.1,unknown,0,not_found,not_found,unknown,Shellard,0,1,1,8,2,7.55
+3,1,Ellen Natalia,0,20.5,0,0,330968,7.7792,unknown,2,boat_unknown,survived,unknown,Shine,1,1,1,8,1,7.7792
+3,0,Charles Joseph,1,26.766734836065574,0,0,374910,8.05,unknown,0,not_found,not_found,unknown,Shorney,0,1,1,8,1,8.05
+3,0,John,1,26.766734836065574,0,0,SOTON/OQ 392082,8.05,unknown,0,not_found,not_found,unknown,Simmons,0,1,1,8,1,8.05
+3,0,Orsen,1,22.0,0,0,2669,7.2292,unknown,1,not_found,not_found,unknown,Sirayanian,0,1,1,8,1,7.2292
+3,0,Maurice,1,26.766734836065574,0,0,392092,8.05,unknown,0,not_found,not_found,unknown,Sirota,0,1,1,8,1,8.05
+3,0,Husein,1,40.0,0,0,349251,7.8958,unknown,0,not_found,not_found,unknown,Sivic,0,1,1,8,1,7.8958
+3,0,Antti Wilhelm,1,21.0,0,0,STON/O 2. 3101280,7.925,unknown,0,not_found,not_found,unknown,Sivola,0,1,1,8,1,7.925
+3,1,Anna Sofia,0,18.0,0,0,3101265,7.4958,unknown,0,16,survived,unknown,Sjoblom,1,1,1,8,1,7.4958
+3,0,Harald,1,4.0,3,2,347088,27.9,unknown,0,not_found,not_found,unknown,Skoog,3,0,6,8,6,4.65
+3,0,Karl Thorsten,1,10.0,3,2,347088,27.9,unknown,0,not_found,not_found,unknown,Skoog,3,0,6,8,6,4.65
+3,0,Mabel,0,9.0,3,2,347088,27.9,unknown,0,not_found,not_found,unknown,Skoog,1,0,6,8,6,4.65
+3,0,Margit Elizabeth,0,2.0,3,2,347088,27.9,unknown,0,not_found,not_found,unknown,Skoog,1,0,6,8,6,4.65
+3,0,Wilhelm,1,40.0,1,4,347088,27.9,unknown,0,not_found,not_found,unknown,Skoog,0,0,6,8,6,4.65
+3,0,William (Anna Bernhardina Karlsson),0,45.0,1,4,347088,27.9,unknown,0,not_found,not_found,unknown,Skoog,2,0,6,8,6,4.65
+3,0,Petco,1,26.766734836065574,0,0,349214,7.8958,unknown,0,not_found,not_found,unknown,Slabenoff,0,1,1,8,1,7.8958
+3,0,Selman Francis,1,26.766734836065574,0,0,SOTON/OQ 392086,8.05,unknown,0,not_found,not_found,unknown,Slocovski,0,1,1,8,1,8.05
+3,0,Mile,1,26.766734836065574,0,0,315037,8.6625,unknown,0,not_found,not_found,unknown,Smiljanic,0,1,1,8,1,8.6625
+3,0,Thomas,1,26.92105263157895,0,0,384461,7.75,unknown,2,not_found,not_found,unknown,Smith,0,1,1,8,1,7.75
+3,1,Julia,0,20.5,0,0,335432,7.7333,unknown,2,13,survived,unknown,Smyth,1,1,1,8,1,7.7333
+3,0,Peter Andreas Lauritz Andersen,1,19.0,0,0,348124,7.65,F G73,0,not_found,not_found,unknown,Soholt,0,1,1,5,1,7.65
+3,0,Francis William,1,30.0,0,0,A.5. 18509,8.05,unknown,0,not_found,not_found,unknown,Somerton,0,1,1,8,1,8.05
+3,0,Woolf,1,26.766734836065574,0,0,A.5. 3236,8.05,unknown,0,not_found,not_found,unknown,Spector,0,1,1,8,1,8.05
+3,0,Henry John,1,32.0,0,0,STON/OQ. 369943,8.05,unknown,0,not_found,not_found,unknown,Spinner,0,1,1,8,1,8.05
+3,0,Ivan,1,26.766734836065574,0,0,349208,7.8958,unknown,0,not_found,not_found,unknown,Staneff,0,1,1,8,1,7.8958
+3,0,Ivan,1,33.0,0,0,349239,8.6625,unknown,1,not_found,not_found,unknown,Stankovic,0,1,1,8,1,8.6625
+3,1,Amy Zillah Elsie,0,23.0,0,0,CA. 2314,7.55,unknown,0,C,survived,unknown,Stanley,1,1,1,8,1,7.55
+3,0,Edward Roland,1,21.0,0,0,A/4 45380,8.05,unknown,0,not_found,not_found,unknown,Stanley,0,1,1,8,1,8.05
+3,0,Thomas,1,60.5,0,0,3701,7.0,unknown,0,not_found,261.0,unknown,Storey,0,1,1,8,1,7.0
+3,0,Ilia,1,19.0,0,0,349205,7.8958,unknown,0,not_found,not_found,unknown,Stoytcheff,0,1,1,8,1,7.8958
+3,0,Ida Sofia,0,22.0,0,0,7553,9.8375,unknown,0,not_found,not_found,unknown,Strandberg,1,1,1,8,1,9.8375
+3,1,Juho,1,31.0,0,0,STON/O 2. 3101288,7.925,unknown,0,9,survived,unknown,Stranden,0,1,1,8,1,7.925
+3,0,Ivan,1,27.0,0,0,315083,8.6625,unknown,0,not_found,not_found,unknown,Strilic,0,1,1,8,1,8.6625
+3,0,Telma Matilda,0,2.0,0,1,347054,10.4625,G6,0,not_found,not_found,unknown,Strom,1,0,2,6,2,5.23125
+3,0,Wilhelm (Elna Matilda Persson),0,29.0,1,1,347054,10.4625,G6,0,not_found,not_found,unknown,Strom,2,0,3,6,2,5.23125
+3,1,Victor Francis,1,16.0,0,0,SOTON/OQ 392089,8.05,unknown,0,B,survived,unknown,Sunderland,0,1,1,8,1,8.05
+3,1,Johan Julian,1,44.0,0,0,STON/O 2. 3101269,7.925,unknown,0,15,survived,unknown,Sundman,0,1,1,8,1,7.925
+3,0,Henry Jr,1,25.0,0,0,SOTON/OQ 392076,7.05,unknown,0,not_found,not_found,unknown,Sutehall,0,1,1,8,1,7.05
+3,0,Johan,1,74.0,0,0,347060,7.775,unknown,0,not_found,not_found,unknown,Svensson,0,1,1,8,1,7.775
+3,1,Johan Cervin,1,14.0,0,0,7538,9.225,unknown,0,13,survived,unknown,Svensson,0,1,1,8,1,9.225
+3,0,Olof,1,24.0,0,0,350035,7.7958,unknown,0,not_found,not_found,unknown,Svensson,0,1,1,8,1,7.7958
+3,1,Gunnar Isidor,1,25.0,0,0,350033,7.7958,unknown,0,13 15,survived,unknown,Tenglin,0,1,1,8,1,7.7958
+3,0,Thomas Leonard,1,34.0,0,0,363294,8.05,unknown,0,not_found,176.0,unknown,Theobald,0,1,1,8,1,8.05
+3,1,Assad Alexander,1,0.4167,0,1,2625,8.5167,unknown,1,16,survived,unknown,Thomas,3,0,2,8,2,4.25835
+3,0,Charles P,1,25.72222222222222,1,0,2621,6.4375,unknown,1,not_found,not_found,unknown,Thomas,0,0,2,8,1,6.4375
+3,0,John,1,25.72222222222222,0,0,2681,6.4375,unknown,1,not_found,not_found,unknown,Thomas,0,1,1,8,1,6.4375
+3,0,Tannous,1,25.72222222222222,0,0,2684,7.225,unknown,1,not_found,not_found,unknown,Thomas,0,1,1,8,1,7.225
+3,1,"Alexander (Thamine ""Thelma"")",0,16.0,1,1,2625,8.5167,unknown,1,14,survived,unknown,Thomas,2,0,3,8,2,4.25835
+3,0,Alexander Morrison,1,26.766734836065574,0,0,32302,8.05,unknown,0,not_found,not_found,unknown,Thomson,0,1,1,8,1,8.05
+3,0,Percival,1,26.766734836065574,1,0,376564,16.1,unknown,0,not_found,not_found,unknown,Thorneycroft,0,0,2,8,2,8.05
+3,1,Percival (Florence Kate White),0,22.726951063829787,1,0,376564,16.1,unknown,0,10,survived,unknown,Thorneycroft,2,0,2,8,2,8.05
+3,0,Juho,1,32.0,0,0,STON/O 2. 3101293,7.925,unknown,0,not_found,not_found,unknown,Tikkanen,0,1,1,8,1,7.925
+3,0,Roger,1,26.92105263157895,0,0,383121,7.75,F38,2,not_found,not_found,unknown,Tobin,0,1,1,5,1,7.75
+3,0,Lalio,1,26.766734836065574,0,0,349216,7.8958,unknown,0,not_found,not_found,unknown,Todoroff,0,1,1,8,1,7.8958
+3,0,Ernest Portage,1,30.5,0,0,364499,8.05,unknown,0,not_found,50.0,unknown,Tomlin,0,1,1,8,1,8.05
+3,0,Ernst William,1,44.0,0,0,364511,8.05,unknown,0,not_found,not_found,unknown,Torber,0,1,1,8,1,8.05
+3,0,Assad,1,25.72222222222222,0,0,2673,7.2292,unknown,1,not_found,not_found,unknown,Torfa,0,1,1,8,1,7.2292
+3,1,William Henry,1,25.0,0,0,LINE,0.0,unknown,0,15,survived,unknown,Tornquist,0,1,1,8,4,0.0
+3,0,Nakli,1,25.72222222222222,0,0,2641,7.2292,unknown,1,not_found,not_found,unknown,Toufik,0,1,1,8,1,7.2292
+3,1,Georges Youssef,1,7.0,1,1,2650,15.2458,unknown,1,C,survived,unknown,Touma,3,0,3,8,3,5.081933333333333
+3,1,Maria Youssef,0,9.0,1,1,2650,15.2458,unknown,1,C,survived,unknown,Touma,1,0,3,8,3,5.081933333333333
+3,1,Darwis (Hanne Youssef Razi),0,29.0,0,2,2650,15.2458,unknown,1,C,survived,unknown,Touma,2,0,3,8,3,5.081933333333333
+3,0,Stjepan,1,36.0,0,0,349247,7.8958,unknown,0,not_found,not_found,unknown,Turcin,0,1,1,8,1,7.8958
+3,1,Anna Sofia,0,18.0,0,0,4138,9.8417,unknown,0,15,survived,unknown,Turja,1,1,1,8,1,9.8417
+3,1,(Hedwig),0,63.0,0,0,4134,9.5875,unknown,0,15,survived,unknown,Turkula,2,1,1,8,1,9.5875
+3,0,James William,1,26.766734836065574,1,1,A/5. 851,14.5,unknown,0,not_found,not_found,unknown,van Billiard,3,0,3,8,3,4.833333333333333
+3,0,Walter John,1,11.5,1,1,A/5. 851,14.5,unknown,0,not_found,1.0,unknown,van Billiard,3,0,3,8,3,4.833333333333333
+3,0,Austin Blyler,1,40.5,0,2,A/5. 851,14.5,unknown,0,not_found,255.0,unknown,van Billiard,0,0,3,8,3,4.833333333333333
+3,0,Catharina,0,10.0,0,2,345773,24.15,unknown,0,not_found,not_found,unknown,Van Impe,1,0,3,8,3,8.049999999999999
+3,0,Jean Baptiste,1,36.0,1,1,345773,24.15,unknown,0,not_found,not_found,unknown,Van Impe,0,0,3,8,3,8.049999999999999
+3,0,Jean Baptiste (Rosalie Paula Govaert),0,30.0,1,1,345773,24.15,unknown,0,not_found,not_found,unknown,Van Impe,2,0,3,8,3,8.049999999999999
+3,0,Philemon,1,26.766734836065574,0,0,345777,9.5,unknown,0,not_found,not_found,unknown,van Melkebeke,0,1,1,8,1,9.5
+3,0,Johannes Joseph,1,33.0,0,0,345780,9.5,unknown,0,not_found,not_found,unknown,Vande Velde,0,1,1,8,1,9.5
+3,0,Nestor Cyriel,1,28.0,0,0,345770,9.5,unknown,0,not_found,not_found,unknown,Vande Walle,0,1,1,8,1,9.5
+3,0,Leo Peter,1,28.0,0,0,345783,9.5,unknown,0,not_found,not_found,unknown,Vanden Steen,0,1,1,8,1,9.5
+3,0,Victor,1,47.0,0,0,345765,9.0,unknown,0,not_found,not_found,unknown,Vander Cruyssen,0,1,1,8,1,9.0
+3,0,Augusta Maria,0,18.0,2,0,345764,18.0,unknown,0,not_found,not_found,unknown,Vander Planke,1,0,3,8,2,9.0
+3,0,Julius,1,31.0,3,0,345763,18.0,unknown,0,not_found,not_found,unknown,Vander Planke,0,0,4,8,2,9.0
+3,0,Leo Edmondus,1,16.0,2,0,345764,18.0,unknown,0,not_found,not_found,unknown,Vander Planke,0,0,3,8,2,9.0
+3,0,Julius (Emelia Maria Vandemoortele),0,31.0,1,0,345763,18.0,unknown,0,not_found,not_found,unknown,Vander Planke,2,0,2,8,2,9.0
+3,1,David,1,22.0,0,0,2658,7.225,unknown,1,13 15,survived,unknown,Vartanian,0,1,1,8,1,7.225
+3,0,Olof Edvin,1,20.0,0,0,350416,7.8542,unknown,0,not_found,not_found,unknown,Vendel,0,1,1,8,1,7.8542
+3,0,Hulda Amanda Adolfina,0,14.0,0,0,350406,7.8542,unknown,0,not_found,not_found,unknown,Vestrom,1,1,1,8,1,7.8542
+3,0,Janko,1,22.0,0,0,349252,7.8958,unknown,0,not_found,not_found,unknown,Vovk,0,1,1,8,1,7.8958
+3,0,Achille,1,22.0,0,0,345767,9.0,unknown,0,not_found,not_found,"Antwerp, Belgium / Stanton, OH",Waelens,0,1,1,8,1,9.0
+3,0,Frederick,1,26.766734836065574,0,0,359309,8.05,unknown,0,not_found,not_found,unknown,Ware,0,1,1,8,1,8.05
+3,0,Charles William,1,26.766734836065574,0,0,C.A. 49867,7.55,unknown,0,not_found,not_found,unknown,Warren,0,1,1,8,1,7.55
+3,0,James,1,26.766734836065574,0,0,SOTON/OQ 3101316,8.05,unknown,0,not_found,not_found,unknown,Webber,0,1,1,8,1,8.05
+3,0,Linhart,1,32.5,0,0,345775,9.5,unknown,0,not_found,298.0,unknown,Wenzel,0,1,1,8,1,9.5
+3,1,George Joseph (Shawneene Abi-Saab),0,38.0,0,0,2688,7.2292,unknown,1,C,survived,unknown,Whabee,2,1,1,8,1,7.2292
+3,0,Carl/Charles Peter,1,51.0,0,0,347064,7.75,unknown,0,not_found,not_found,unknown,Widegren,0,1,1,8,1,7.75
+3,0,Jakob Alfred,1,18.0,1,0,3101267,6.4958,unknown,0,not_found,314.0,unknown,Wiklund,0,0,2,8,1,6.4958
+3,0,Karl Johan,1,21.0,1,0,3101266,6.4958,unknown,0,not_found,not_found,unknown,Wiklund,0,0,2,8,1,6.4958
+3,1,James (Ellen Needs),0,47.0,1,0,363272,7.0,unknown,0,boat_unknown,survived,unknown,Wilkes,2,0,2,8,1,7.0
+3,0,"Aaron (""Abi Weller"")",1,26.766734836065574,0,0,3410,8.7125,unknown,0,not_found,not_found,unknown,Willer,0,1,1,8,1,8.7125
+3,0,Edward,1,26.766734836065574,0,0,S.O./P.P. 751,7.55,unknown,0,not_found,not_found,unknown,Willey,0,1,1,8,1,7.55
+3,0,"Howard Hugh ""Harry""",1,26.766734836065574,0,0,A/5 2466,8.05,unknown,0,not_found,not_found,unknown,Williams,0,1,1,8,1,8.05
+3,0,Leslie,1,28.5,0,0,54636,16.1,unknown,0,not_found,14.0,unknown,Williams,0,1,1,8,2,8.05
+3,0,Einar,1,21.0,0,0,SOTON/OQ 3101317,7.25,unknown,0,not_found,not_found,unknown,Windelov,0,1,1,8,1,7.25
+3,0,Albert,1,27.0,0,0,315154,8.6625,unknown,0,not_found,131.0,unknown,Wirz,0,1,1,8,1,8.6625
+3,0,Phillippe,1,26.766734836065574,0,0,A/4. 34244,7.25,unknown,0,not_found,not_found,unknown,Wiseman,0,1,1,8,1,7.25
+3,0,Camille,1,36.0,0,0,345771,9.5,unknown,0,not_found,not_found,unknown,Wittevrongel,0,1,1,8,1,9.5
+3,0,Antoni,1,27.0,1,0,2659,14.4542,unknown,1,C,not_found,unknown,Yasbeck,0,0,2,8,2,7.2271
+3,1,Antoni (Selini Alexander),0,15.0,1,0,2659,14.4542,unknown,1,boat_unknown,survived,unknown,Yasbeck,2,0,2,8,2,7.2271
+3,0,Gerious,1,45.5,0,0,2628,7.225,unknown,1,not_found,312.0,unknown,Youseff,0,1,1,8,1,7.225
+3,0,Wazli,1,25.72222222222222,0,0,2647,7.225,unknown,1,not_found,not_found,unknown,Yousif,0,1,1,8,1,7.225
+3,0,Gerious,1,25.72222222222222,0,0,2627,14.4583,unknown,1,not_found,not_found,unknown,Yousseff,0,1,1,8,2,7.22915
+3,0,Hileni,0,14.5,1,0,2665,14.4542,unknown,1,not_found,328.0,unknown,Zabour,1,0,2,8,2,7.2271
+3,0,Thamine,0,20.7,1,0,2665,14.4542,unknown,1,not_found,not_found,unknown,Zabour,1,0,2,8,2,7.2271
+3,0,Mapriededer,1,26.5,0,0,2656,7.225,unknown,1,not_found,304.0,unknown,Zakarian,0,1,1,8,1,7.225
+3,0,Ortin,1,27.0,0,0,2670,7.225,unknown,1,not_found,not_found,unknown,Zakarian,0,1,1,8,1,7.225
+3,0,Leo,1,29.0,0,0,315082,7.875,unknown,0,not_found,not_found,unknown,Zimmerman,0,1,1,8,1,7.875
