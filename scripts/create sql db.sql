@@ -1,4 +1,4 @@
-CREATE DATABASE cowlar;
+CREATE DATABASE IF NOT EXISTS cowlar;
 USE cowlar;
 
 CREATE TABLE customer_dataset(
