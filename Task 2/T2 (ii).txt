@@ -1,6 +1,0 @@
-for model creation, focus on semi-normalized schema 
-cz this structure has its cons related to reaing data easily & efficiently
-
-also the columns to train the model here is
-features - order_date, quantity, unit_price
-target - forecasting for future dates

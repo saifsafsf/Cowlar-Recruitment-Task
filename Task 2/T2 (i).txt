@@ -1,5 +1,0 @@
-mention both of the structures
-normalized & semi-normalized
-but emphasis on semi-normalized bcz
-querying completely normalized data in mongodb
-makes our queries very complex and hard to read
