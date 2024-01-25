@@ -244,7 +244,7 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 1,1,Edith Louise,female,33.0,0,0,PC 17613,27.7208,A11,C,11,survived,"Paris, France",Rosenbaum,Miss.,1,1,A,1,27.7208
 1,0,"George (""Mr George Thorne"")",male,46.0,0,0,PC 17585,79.2,unknown,C,not_found,16.0,"New York, NY",Rosenshine,Mr.,1,1,unknown,2,39.6
 1,0,John Hugo,male,36.0,0,0,13049,40.125,A10,C,not_found,not_found,"Winnipeg, MB",Ross,Mr.,1,1,A,1,40.125
-1,1,of (Lucy Noel Martha Dyer-Edwards),female,33.0,0,0,110152,86.5,B77,S,8,survived,"London  Vancouver, BC",Rothes,th.,1,1,B,3,28.833333333333332
+1,1,of (Lucy Noel Martha Dyer-Edwards),female,33.0,0,0,110152,86.5,B77,S,8,survived,"London  Vancouver, BC",Rothes,the Countess.,1,1,B,3,28.833333333333332
 1,0,Martin,male,55.0,1,0,PC 17603,59.4,unknown,C,not_found,not_found,"New York, NY",Rothschild,Mr.,0,2,unknown,2,29.7
 1,1,Martin (Elizabeth L,female,54.0,1,0,PC 17603,59.4,unknown,C,6,survived,"New York, NY",Rothschild,Mrs.,0,2,unknown,2,29.7
 1,0,Alfred G,male,33.0,0,0,113790,26.55,unknown,S,not_found,109.0,London,Rowe,Mr.,1,1,unknown,1,26.55
