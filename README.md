@@ -1,5 +1,5 @@
 # Data-Analytics
-This repository covers all three tasks assigned in the Technical Screening Task for the position of Data Engineer in SAMA Team.
+This project covers multiple approaches to analyze customer's data and titanic's survivors' data given in CSV using SQL, No SQL and Python.
 
 ### How to Run
 Make sure these softwares are installed in the system:
