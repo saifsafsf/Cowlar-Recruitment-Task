@@ -12,4 +12,4 @@ Run the scripts given in `./scripts` directory:
 - `./scripts/create sql db.sql`
 - `./scripts/create mongo db.sh`
 
-Now you can run the code in the `./Task */*` directories.
+Now you can run the code in the other directories.
