@@ -1,4 +1,4 @@
-# Cowlar-Recruitment-Task
+# Data-Analytics
 This repository covers all three tasks assigned in the Technical Screening Task for the position of Data Engineer in SAMA Team.
 
 ### How to Run
